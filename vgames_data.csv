@@ -1,0 +1,1832 @@
+,Rank_avg,Review,Year,Genre,Publisher,Game Title,NA_avg,EU_avg,JP_avg,Other_avg,Global_avg
+0,1,76.28,2006,Sports,Nintendo,Wii Sports,40.96,28.705,3.77,8.5,81.93
+1,2,91.0,1985,Platform,Nintendo,Super Mario Bros.,29.08,3.58,6.81,0.77,40.24
+2,3,82.07,2008,Racing,Nintendo,Mario Kart Wii,15.175,12.55,3.71,3.26,34.685
+3,4,82.65,2009,Sports,Nintendo,Wii Sports Resort,15.285,10.76,3.23,2.985,32.26
+4,5,88.0,1989,Puzzle,Nintendo,Tetris,23.2,2.26,4.22,0.5799999999999998,30.26
+5,6,90.0,2006,Platform,Nintendo,New Super Mario Bros.,11.115,9.05,6.49,2.8899999999999997,29.545
+6,7,61.64,2006,Misc,Nintendo,Wii Play,13.93,9.155,2.93,2.8449999999999998,28.865000000000002
+7,8,88.18,2009,Platform,Nintendo,New Super Mario Bros. Wii,13.969999999999999,6.77,4.68,2.255,27.685000000000002
+8,9,84.0,1984,Shooter,Nintendo,Duck Hunt,26.93,0.63,0.28,0.47,28.31
+9,10,85.0,2005,Simulation,Nintendo,Nintendogs,9.045,10.905000000000001,1.93,2.74,24.630000000000003
+10,11,91.34,2005,Racing,Nintendo,Mario Kart DS,9.575,7.345000000000001,4.12,1.91,22.945
+11,12,81.2,2007,Sports,Nintendo,Wii Fit,8.925,8.09,3.6,2.115,22.729999999999997
+12,13,80.83,2009,Sports,Nintendo,Wii Fit Plus,8.955,8.265,2.53,1.8250000000000002,21.575
+13,14,65.39,2010,Misc,Microsoft Game Studios,Kinect Adventures!,14.235,4.640000000000001,0.24,1.745,20.86
+14,15,95.08,2004,Action,Take-Two Interactive,Grand Theft Auto: San Andreas,9.43,4.44,0.41,6.53,20.81
+15,16,94.0,1990,Platform,Nintendo,Super Mario World,12.78,3.75,3.54,0.55,20.61
+16,17,78.05,2005,Misc,Nintendo,Brain Age: Train Your Brain in Minutes a Day,4.734999999999999,9.18,4.16,2.045,20.119999999999997
+17,18,82.0,1989,Platform,Nintendo,Super Mario Land,10.83,2.71,4.18,0.42,18.14
+18,19,93.0,1988,Platform,Nintendo,Super Mario Bros. 3,9.54,3.44,3.84,0.46,17.28
+19,20,94.43,2002,Action,Take-Two Interactive,Grand Theft Auto: Vice City,8.41,5.49,0.47,1.78,16.15
+20,21,79.61,2005,Puzzle,Nintendo,Brain Age 2: More Training in Minutes a Day,3.425,5.34,5.32,1.18,15.27
+21,22,94.47,2001,Racing,Sony Computer Entertainment,Gran Turismo 3: A-Spec,6.85,5.04,1.87,1.16,14.93
+22,23,88.49,2011,Shooter,Activision,Call of Duty: Modern Warfare 3,9.129999999999999,4.1850000000000005,0.125,1.375,14.815
+23,24,88.0,1998,Role-Playing,Nintendo,Pokémon Yellow: Special Pikachu Edition,5.89,5.04,3.12,0.59,14.64
+24,25,87.56,2010,Shooter,Activision,Call of Duty: Black Ops,9.375,3.575,0.10500000000000001,1.2149999999999999,14.27
+25,26,82.57,2012,Shooter,Activision,Call of Duty: Black Ops II,4.59,4.775,0.545,2.04,11.945
+26,27,87.56,2012,Shooter,Activision,Call of Duty: Black Ops II,7.75,3.86,0.05500000000000001,1.13,12.79
+27,28,93.57,2009,Shooter,Activision,Call of Duty: Modern Warfare 2,8.395,3.51,0.08,1.275,13.254999999999999
+28,29,88.1,2011,Shooter,Activision,Call of Duty: Modern Warfare 3,5.5,5.26,0.48,1.82,13.055
+29,30,91.0,2001,Action,Take-Two Interactive,Grand Theft Auto III,6.99,4.51,0.3,1.3,13.1
+30,31,93.0,2008,Fighting,Nintendo,Super Smash Bros. Brawl,6.325,2.445,2.5650000000000004,0.9750000000000001,12.309999999999999
+31,32,88.36,2010,Shooter,Activision,Call of Duty: Black Ops,5.825,4.2,0.475,1.81,12.305
+32,33,86.27,2005,Simulation,Nintendo,Animal Crossing: Wild World,2.49,3.385,5.33,0.86,12.055
+33,34,85.17,2011,Racing,Nintendo,Mario Kart 7,3.845,3.075,2.3499999999999996,0.69,9.96
+34,35,93.53,2007,Shooter,Microsoft Game Studios,Halo 3,7.845,2.77,0.13,1.1949999999999998,11.945
+35,36,93.0,1996,Platform,Nintendo,Super Mario 64,6.91,2.85,1.91,0.23,11.89
+36,37,89.41,2004,Racing,Sony Computer Entertainment,Gran Turismo 4,3.01,2.82,1.1,4.575,11.51
+37,38,92.0,2007,Platform,Nintendo,Super Mario Galaxy,5.925000000000001,3.27,1.2,0.74,11.14
+38,39,85.0,1992,Adventure,Nintendo,Super Mario Land 2: 6 Golden Coins,6.16,2.04,2.69,0.2899999999999999,11.18
+39,40,91.0,2008,Action,Take-Two Interactive,Grand Theft Auto IV,6.484999999999999,2.975,0.135,1.01,10.6
+40,41,88.0,1997,Racing,Sony Computer Entertainment,Gran Turismo,4.119999999999999,3.87,2.54,0.52,11.05
+41,42,88.0,2011,Platform,Nintendo,Super Mario 3D Land,4.3,2.5650000000000004,1.9849999999999999,0.66,9.51
+42,43,84.33,2010,Racing,Sony Computer Entertainment,Gran Turismo 5,2.59,4.545,0.805,1.855,9.795
+43,44,93.42,2009,Shooter,Activision,Call of Duty: Modern Warfare 2,4.92,3.525,0.38,1.58,10.405
+44,45,91.0,2008,Action,Take-Two Interactive,Grand Theft Auto IV,4.574999999999999,3.57,0.41500000000000004,1.56,10.115
+45,46,93.0,1993,Platform,Nintendo,Super Mario All-Stars,5.99,2.15,2.12,0.2899999999999999,10.55
+46,47,79.0,2011,Misc,Ubisoft,Just Dance 3,5.84,3.16,0.0,1.025,10.02
+47,48,91.79,2010,Shooter,Microsoft Game Studios,Halo: Reach,6.86,1.885,0.08,0.81,9.64
+48,49,87.01,1996,Racing,Nintendo,Mario Kart 64,5.55,1.94,2.23,0.15,9.87
+49,50,78.4,2012,Platform,Nintendo,New Super Mario Bros. 2,2.8,2.2399999999999998,2.225,0.47,7.73
+50,51,87.48,2012,Shooter,Microsoft Game Studios,Halo 4,6.045,2.04,0.04,0.725,8.85
+51,52,92.1,1997,Role-Playing,Sony Computer Entertainment,Final Fantasy VII,3.01,2.47,3.28,0.96,9.72
+52,53,78.0,2010,Misc,Ubisoft,Just Dance 2,5.76,2.835,0.01,0.845,9.455
+53,54,92.42,1999,Racing,Sony Computer Entertainment,Gran Turismo 2,3.88,3.355,1.69,0.5,9.425
+54,55,94.16,2007,Shooter,Activision,Call of Duty 4: Modern Warfare,5.765000000000001,2.32,0.13,0.885,9.094999999999999
+55,56,90.0,1994,Platform,Nintendo,Donkey Kong Country,4.36,1.71,3.0,0.23,9.3
+56,57,72.17,2007,Misc,Nintendo,Mario Party DS,4.365,1.815,1.98,0.7,8.855
+57,58,93.0,2011,Role-Playing,Bethesda Softworks,The Elder Scrolls V: Skyrim,4.495,2.61,0.095,0.78,7.975
+58,59,90.0,1992,Racing,Nintendo,Super Mario Kart,3.54,1.24,3.81,0.18,8.76
+59,60,70.44,2010,Misc,Nintendo,Wii Party,1.7349999999999999,3.405,2.475,0.675,8.29
+60,61,94.57,2004,Shooter,Microsoft Game Studios,Halo 2,6.82,1.53,0.05,0.08,8.49
+61,62,63.04,2007,Misc,Nintendo,Mario Party 8,3.745,2.125,1.58,0.7050000000000001,8.16
+62,63,80.0,2012,Action,Electronic Arts,FIFA Soccer 13,0.95,4.465,0.10500000000000001,1.685,7.2
+63,64,86.61,2009,Simulation,Electronic Arts,The Sims 3,0.49,4.55,0.0,0.53,5.569999999999999
+64,65,94.59,1997,Shooter,Nintendo,GoldenEye 007,5.8,2.01,0.13,0.15,8.09
+65,66,74.0,2007,Sports,Sega,Mario & Sonic at the Olympic Games,2.565,3.83,0.66,0.905,7.965
+66,67,91.73,2001,Role-Playing,Sony Computer Entertainment,Final Fantasy X,2.91,2.07,2.73,0.33,8.05
+67,68,89.17,1999,Role-Playing,SquareSoft,Final Fantasy VIII,2.28,1.72,3.63,0.23,7.86
+68,69,89.0,2008,Role-Playing,Nintendo,Pokémon Platinum Version,2.75,1.7000000000000002,2.69,0.54,7.68
+69,70,87.54,2005,Action,Take-Two Interactive,Grand Theft Auto: Liberty City Stories,2.87,2.765,0.24,1.72,7.595
+70,71,90.0,2010,Platform,Nintendo,Super Mario Galaxy 2,3.52,2.23,0.98,0.625,7.35
+71,72,97.0,1998,Action,Nintendo,The Legend of Zelda: Ocarina of Time,4.1,1.89,1.45,0.16,7.6
+72,73,82.0,1988,Platform,Nintendo,Super Mario Bros. 2,5.39,1.18,0.7,0.19,7.46
+73,74,85.57,2008,Shooter,Activision,Call of Duty: World at War,4.640000000000001,1.835,0.0,0.675,7.145
+74,75,84.9,2011,Shooter,Electronic Arts,Battlefield 3,4.26,2.04,0.055,0.6699999999999999,7.02
+75,76,94.58,2006,Action,Nintendo,The Legend of Zelda: Twilight Princess,3.6950000000000003,2.065,0.6,0.6799999999999999,7.035
+76,77,68.0,2009,Misc,Ubisoft,Just Dance,3.415,2.965,0.0,0.735,7.115
+77,78,84.71,2011,Shooter,Electronic Arts,Battlefield 3,2.685,2.685,0.32499999999999996,1.06,6.75
+78,79,85.0,2003,Racing,Electronic Arts,Need for Speed Underground,3.27,2.83,0.08,1.02,7.2
+79,80,96.3,1998,Fighting,Sony Computer Entertainment,Tekken 3,3.27,2.22,1.4,0.2899999999999999,7.16
+80,81,93.0,2001,Fighting,Nintendo,Super Smash Bros. Melee,4.41,1.04,1.39,0.22,7.07
+81,82,86.0,2003,Racing,Nintendo,Mario Kart: Double Dash!!,4.12,1.77,0.87,0.19,6.95
+82,83,57.0,2012,Misc,Ubisoft,Just Dance 4,3.585,1.995,0.0,0.535,6.115
+83,84,85.0,2004,Racing,Electronic Arts,Need for Speed Underground 2,2.71,3.02,0.08,1.09,6.9
+84,85,87.0,2002,Shooter,Electronic Arts,Medal of Honor: Frontline,2.93,2.75,0.17,0.99,6.83
+85,86,91.0,2011,Action,Sony Computer Entertainment,Uncharted 3: Drake's Deception,2.6,2.495,0.19,0.9950000000000001,6.29
+86,87,51.0,2010,Sports,505 Games,Zumba Fitness,3.355,2.54,0.0,0.665,6.555
+87,88,93.32,2008,Shooter,Microsoft Game Studios,Gears of War 2,4.09,1.895,0.06,0.64,6.68
+88,89,95.0,2009,Action,Sony Computer Entertainment,Uncharted 2: Among Thieves,3.1550000000000002,2.1,0.21,0.96,6.43
+89,90,93.54,2007,Shooter,Activision,Call of Duty 4: Modern Warfare,3.015,2.21,0.28,1.005,6.51
+90,91,75.73,2005,Misc,Nintendo,Big Brain Academy,1.66,2.74,1.6,0.615,6.615
+91,92,93.0,2010,Action,Take-Two Interactive,Red Dead Redemption,2.575,2.315,0.17,0.9299999999999999,5.984999999999999
+92,93,88.0,2010,Platform,Nintendo,Donkey Kong Country Returns,3.05,1.7000000000000002,1.03,0.48,6.255
+93,94,90.0,2011,Role-Playing,Bethesda Softworks,The Elder Scrolls V: Skyrim,2.155,2.26,0.225,0.9,5.535
+94,95,89.0,1986,Action,Nintendo,The Legend of Zelda,3.74,0.93,1.69,0.14,6.51
+95,96,85.56,2012,Action,Ubisoft,Assassin's Creed III,2.395,2.125,0.14500000000000002,0.94,5.605
+96,97,95.54,2001,Shooter,Microsoft Game Studios,Halo: Combat Evolved,4.98,1.3,0.08,0.07,6.43
+97,98,86.0,2004,Role-Playing,Nintendo,Pokémon Emerald Version,2.57,1.58,2.06,0.21,6.41
+98,99,91.0,2002,Role-Playing,Sony Computer Entertainment,Kingdom Hearts,3.64,1.2,1.2149999999999999,0.07,6.125
+99,100,88.0,2000,Role-Playing,Nintendo,Pokémon Crystal Version,2.55,1.56,1.29,0.99,6.39
+100,101,84.77,2009,Shooter,Microsoft Game Studios,Halo 3: ODST,4.265000000000001,1.32,0.06,0.605,6.25
+101,102,93.0,2010,Action,Take-Two Interactive,Red Dead Redemption,3.4450000000000003,1.81,0.09,0.55,5.9
+102,103,85.0,2002,Platform,Nintendo,Super Mario Sunshine,4.01,1.26,0.87,0.17,6.31
+103,104,92.0,1992,Fighting,Capcom,Street Fighter II: The World Warrior,2.47,0.83,2.87,0.12,6.3
+104,105,91.89,2004,Role-Playing,Activision,World of Warcraft,2.015,4.25,0.0,0.0,6.265000000000001
+105,106,87.52,1999,Action,GT Interactive,Driver,3.11,2.8,0.02,0.33,6.27
+106,107,76.0,2010,Sports,Microsoft Game Studios,Kinect Sports,3.6950000000000003,1.645,0.03,0.52,5.890000000000001
+107,108,91.49,2011,Shooter,Microsoft Game Studios,Gears of War 3,3.885,1.54,0.07,0.515,6.02
+108,109,91.49,2006,Shooter,Microsoft Game Studios,Gears of War,3.51,1.87,0.07,0.6,6.050000000000001
+109,110,95.04,2001,Action,Konami Digital Entertainment,Metal Gear Solid 2: Sons of Liberty,2.45,2.01,0.87,0.72,6.05
+110,111,90.0,1992,Platform,Sega,Sonic the Hedgehog 2,4.47,1.2,0.16,0.19,6.03
+111,112,93.53,2008,Action,Konami Digital Entertainment,Metal Gear Solid 4: Guns of the Patriots,2.585,1.665,0.83,0.8049999999999999,5.890000000000001
+112,113,93.75,1998,Action,Konami Digital Entertainment,Metal Gear Solid,3.18,1.83,0.78,0.24,6.03
+113,114,90.77,2006,Role-Playing,Square Enix,Final Fantasy XII,1.88,0.595,2.33,1.1400000000000001,5.95
+114,115,91.0,2008,Platform,Sony Computer Entertainment,LittleBigPlanet,2.7,1.83,0.17,0.8400000000000001,5.535
+115,116,87.98,2009,Role-Playing,Nintendo,Dragon Quest IX: Sentinels of the Starry Skies,0.6000000000000001,0.6599999999999999,4.35,0.15,5.755
+116,117,83.0,2007,Action,LucasArts,LEGO Star Wars: The Complete Saga,3.455,1.48,0.0,0.505,5.445
+117,118,93.13,1998,Action,Virgin Interactive,Resident Evil 2,1.88,1.47,2.02,0.45,5.82
+118,119,86.0,1996,Fighting,Sony Computer Entertainment,Tekken 2,2.26,1.89,1.36,0.23,5.74
+119,120,67.67,2006,Simulation,505 Games,Cooking Mama,3.0300000000000002,1.91,0.07,0.575,5.59
+120,121,86.0,1988,Puzzle,Nintendo,Tetris,2.97,0.69,1.81,0.11,5.58
+121,122,90.71,2009,Action,Ubisoft,Assassin's Creed II,2.42,1.97,0.21,0.865,5.465
+122,123,89.0,1999,Fighting,Nintendo,Super Smash Bros.,2.95,0.6,1.97,0.04,5.55
+123,124,82.92,2007,Adventure,Ubisoft,Assassin's Creed,3.19,1.6099999999999999,0.07,0.54,5.41
+124,125,90.43,2011,Action,Warner Bros. Interactive Entertainment,Batman: Arkham City,2.355,1.68,0.1,0.7250000000000001,4.87
+125,126,92.26,2009,Racing,Microsoft Game Studios,Forza Motorsport 3,2.9400000000000004,1.875,0.1,0.52,5.43
+126,127,82.12,2008,Role-Playing,Capcom,Monster Hunter Freedom Unite,0.45499999999999996,0.53,4.13,0.325,5.425
+127,128,82.0,2001,Platform,Nintendo,Super Mario Advance,3.14,1.24,0.91,0.2,5.49
+128,129,83.0,2001,Racing,Nintendo,Mario Kart: Super Circuit,2.62,1.64,0.99,0.23,5.47
+129,130,85.04,2008,Shooter,Activision,Call of Duty: World at War,2.615,1.79,0.0,0.8049999999999999,5.21
+130,131,70.12,2001,Platform,Universal Interactive,Crash Bandicoot: The Wrath of Cortex,2.07,2.29,0.24,0.82,5.42
+131,132,84.15,2009,Role-Playing,Square Enix,Final Fantasy XIII,1.655,1.145,1.87,0.485,5.15
+132,133,77.0,1989,Puzzle,Nintendo,Dr. Mario,2.18,0.96,2.0,0.2,5.34
+133,134,84.81,2012,Action,Ubisoft,Assassin's Creed III,2.8049999999999997,1.49,0.025,0.425,4.74
+134,135,83.0,2000,Role-Playing,SquareSoft,Final Fantasy IX,1.62,0.77,2.78,0.14,5.3
+135,136,86.25,2003,Role-Playing,Electronic Arts,Final Fantasy X-2,1.92,1.08,2.11,0.17,5.29
+136,137,88.0,1999,Platform,Nintendo,Donkey Kong 64,3.33,0.79,1.09,0.06,5.27
+137,138,90.01,2009,Action,Ubisoft,Assassin's Creed II,2.9850000000000003,1.58,0.08,0.515,5.175
+138,139,89.0,2007,Puzzle,Nintendo,Professor Layton and the Curious Village,1.2,2.41,1.03,0.515,5.16
+139,140,82.71,1997,Action,Eidos Interactive,Tomb Raider II,2.3,2.46,0.2,0.28,5.24
+140,141,87.0,,Sports,Electronic Arts,Madden NFL 2004,4.26,0.26,0.01,0.71,5.23
+141,142,91.0,2004,Role-Playing,Square Enix,Dragon Quest VIII: Journey of the Cursed King,0.65,0.75,3.61,0.2,5.21
+142,143,87.64,2012,Role-Playing,Activision,Diablo III,1.995,1.62,0.0,0.51,4.125
+143,144,84.68,2012,Platform,Nintendo,New Super Mario Bros. U,1.525,0.805,0.88,0.21,3.41
+144,145,85.0,1994,Platform,Nintendo,Super Mario Land 3: Wario Land,2.49,0.98,1.57,0.15,5.19
+145,146,81.0,2012,Action,Electronic Arts,FIFA Soccer 13,0.9950000000000001,3.24,0.02,0.5700000000000001,4.83
+146,147,90.0,2007,Action,Nintendo,The Legend of Zelda: Phantom Hourglass,1.845,1.7850000000000001,0.95,0.48,5.0600000000000005
+147,148,90.0,1995,Platform,Nintendo,Donkey Kong Country 2: Diddy's Kong Quest,2.1,0.74,2.2,0.11,5.15
+148,149,73.0,2008,Sports,Sega,Mario & Sonic at the Olympic Games,1.625,2.435,0.44,0.575,5.074999999999999
+149,150,73.0,2003,Shooter,Electronic Arts,Medal of Honor: Rising Sun,1.98,2.23,0.13,0.8,5.13
+150,151,81.0,1992,Platform,Nintendo,Kirby's Dream Land,2.71,0.61,1.7,0.11,5.13
+151,152,80.23,2010,Role-Playing,Microsoft Game Studios,Fable III,3.505,1.05,0.05,0.41000000000000003,5.02
+152,153,73.0,1996,Simulation,Microsoft Game Studios,Microsoft Flight Simulator,3.22,1.69,0.0,0.2,5.12
+153,154,90.0,2006,Misc,RedOctane,Guitar Hero II,3.81,0.63,0.0,0.68,5.12
+154,155,87.11,2009,Action,Capcom,Resident Evil 5,1.9,1.375,1.08,0.63,4.975
+155,156,87.54,2006,Action,Take-Two Interactive,Grand Theft Auto: Vice City Stories,1.68,1.92,0.16,1.165,4.92
+156,157,86.0,2010,Sports,Electronic Arts,FIFA Soccer 11,0.585,3.255,0.06,1.095,4.995
+157,158,88.0,1996,Action,Virgin Interactive,Resident Evil,2.05,1.16,1.11,0.73,5.05
+158,159,89.0,1999,Sports,Activision,Tony Hawk's Pro Skater,3.42,1.38,0.02,0.2,5.02
+159,160,73.37,1999,Strategy,Eidos Interactive,Warzone 2100,2.79,1.89,0.0,0.33,5.01
+160,161,86.0,1998,Platform,Sony Computer Entertainment,Spyro the Dragon,3.36,1.36,0.07,0.21,5.0
+161,162,76.0,2007,Shooter,Nintendo,Link's Crossbow Training,3.045,1.18,0.2899999999999999,0.46499999999999997,4.984999999999999
+162,163,86.0,2007,Misc,Activision,Guitar Hero III: Legends of Rock,3.49,0.53,0.01,0.955,4.98
+163,164,92.85,2008,Role-Playing,Bethesda Softworks,Fallout 3,3.04,0.9450000000000001,0.09,0.405,4.49
+164,165,89.0,2007,Action,Sony Computer Entertainment,Uncharted: Drake's Fortune,2.2199999999999998,1.655,0.12,0.75,4.745
+165,166,85.15,2005,Sports,Electronic Arts,Madden NFL 06,3.98,0.26,0.01,0.66,4.91
+166,167,82.0,2007,Action,LucasArts,LEGO Star Wars: The Complete Saga,2.795,1.425,0.0,0.45,4.675000000000001
+167,168,81.0,1997,Racing,Nintendo,Diddy Kong Racing,2.91,0.99,0.89,0.1,4.88
+168,169,82.0,1990,Puzzle,Nintendo,Dr. Mario,2.62,0.6,1.52,0.1,4.85
+169,170,92.63,2010,Action,Sony Computer Entertainment,God of War III,2.7,1.2650000000000001,0.12,0.605,4.6850000000000005
+170,171,91.0,2010,Strategy,Activision,StarCraft II: Wings of Liberty,2.375,1.4449999999999998,0.0,0.5349999999999999,4.36
+171,172,79.3,2007,Adventure,Ubisoft,Assassin's Creed,1.855,1.935,0.09,0.8049999999999999,4.68
+172,173,91.78,1999,Racing,Sony Computer Entertainment,Crash Team Racing,2.57,1.57,0.44,0.21,4.79
+173,174,93.88,2011,Action,Warner Bros. Interactive Entertainment,Batman: Arkham City,2.595,1.19,0.035,0.38,4.205
+174,175,69.2,2000,Action,Atari,Driver 2,2.36,2.1,0.02,0.25,4.73
+175,176,77.87,2003,Racing,Vivendi Games,The Simpsons: Hit & Run,1.73,2.19,0.0,0.79,4.7
+176,177,92.0,2000,Sports,Activision,Tony Hawk's Pro Skater 2,3.05,1.41,0.02,0.2,4.68
+177,178,73.54,2008,Simulation,Nintendo,Animal Crossing: City Folk,1.82,1.065,1.32,0.36,4.5600000000000005
+178,179,83.24,2002,Action,Electronic Arts,The Lord of the Rings: The Two Towers,1.94,1.95,0.08,0.7,4.67
+179,180,90.66,2011,Racing,Microsoft Game Studios,Forza Motorsport 4,1.92,1.8599999999999999,0.055,0.44499999999999995,4.279999999999999
+180,181,90.02,1996,Action,Eidos Interactive,Tomb Raider,2.29,1.97,0.13,0.24,4.63
+181,182,88.0,2007,Misc,Activision,Guitar Hero III: Legends of Rock,3.0300000000000002,1.105,0.0,0.435,4.575
+182,183,94.0,1991,Action,Nintendo,The Legend of Zelda: A Link to the Past,2.42,0.91,1.15,0.13,4.61
+183,184,94.43,2002,Action,Nintendo,The Legend of Zelda: The Wind Waker,2.6,0.99,0.89,0.13,4.6
+184,185,78.0,2009,Sports,Sega,Mario & Sonic at the Olympic Winter Games,1.8599999999999999,1.915,0.22,0.475,4.475
+185,186,86.0,2007,Misc,Activision,Guitar Hero III: Legends of Rock,3.1399999999999997,0.9,0.01,0.415,4.46
+186,187,89.0,2004,Sports,Electronic Arts,Madden NFL 2005,4.18,0.26,0.01,0.08,4.53
+187,188,84.48,2006,Sports,Electronic Arts,Madden NFL 07,3.63,0.24,0.01,0.61,4.49
+188,189,75.63,2002,Action,Activision,Spider-Man: The Movie,2.71,1.51,0.03,0.23,4.48
+189,190,93.69,2005,Action,Sony Computer Entertainment,God of War,2.71,1.29,0.02,0.43,4.45
+190,191,78.0,2012,Misc,Nintendo,Nintendo Land,1.73,0.75,0.38,0.23500000000000001,3.085
+191,192,70.0,2010,Misc,Ubisoft,Michael Jackson: The Experience,2.605,1.31,0.01,0.405,4.33
+192,193,84.0,2001,Sports,Activision,Tony Hawk's Pro Skater 3,2.66,1.29,0.01,0.46,4.41
+193,194,86.31,2006,Sports,Konami Digital Entertainment,Winning Eleven: Pro Evolution Soccer 2007,0.1,2.39,1.05,0.86,4.39
+194,195,94.0,2006,Role-Playing,Take-Two Interactive,The Elder Scrolls IV: Oblivion,2.6550000000000002,1.005,0.13,0.385,4.17
+195,196,79.0,1987,Adventure,Nintendo,Zelda II: The Adventure of Link,2.19,0.5,1.61,0.08,4.38
+196,197,89.0,2005,Racing,Electronic Arts,Need for Speed: Most Wanted,2.03,1.79,0.08,0.47,4.37
+197,198,86.0,2006,Shooter,Sony Computer Entertainment,Resistance: Fall of Man,1.665,1.7,0.14,0.735,4.24
+198,199,87.0,1991,Platform,Sega,Sonic the Hedgehog,3.03,0.91,0.26,0.13,4.34
+199,200,93.0,2005,Role-Playing,Square Enix,Kingdom Hearts II,2.2,0.5799999999999998,1.25,0.17,4.2
+200,201,88.5,2008,Role-Playing,Microsoft Game Studios,Fable II,2.4749999999999996,1.2149999999999999,0.11,0.405,4.21
+201,202,96.09,2009,Action,Eidos Interactive,Batman: Arkham Asylum,2.09,1.25,0.060000000000000005,0.575,3.98
+202,203,80.05,2011,Action,Ubisoft,Assassin's Creed: Revelations,1.3399999999999999,1.905,0.085,0.71,4.035
+203,204,72.08,2001,Misc,Namco Bandai Games,Namco Museum,3.0,1.11,0.05,0.07,4.24
+204,205,91.77,2004,Action,Konami Digital Entertainment,Metal Gear Solid 3: Snake Eater,1.46,0.765,0.83,1.17,4.23
+205,206,86.45,2006,Platform,Sony Computer Entertainment,Daxter,2.4050000000000002,1.0,0.0,0.735,4.145
+206,207,94.75,1995,Strategy,Activision,Warcraft II: Tides of Darkness,1.7,2.27,0.0,0.23,4.21
+207,208,93.0,2011,Action,Nintendo,The Legend of Zelda: Ocarina of Time,1.7399999999999998,1.03,0.595,0.255,3.615
+208,209,78.73,2005,Sports,Electronic Arts,FIFA Soccer 06,0.78,2.55,0.04,0.84,4.21
+209,210,77.0,2003,Misc,Sony Computer Entertainment,EyeToy Play,0.88,2.3,0.2,0.83,4.2
+210,211,79.81999999999998,2007,Racing,Sony Computer Entertainment,Gran Turismo 5 Prologue,1.2650000000000001,1.81,0.57,0.52,4.16
+211,212,79.20999999999998,2011,Action,Ubisoft,Assassin's Creed: Revelations,2.1550000000000002,1.44,0.035,0.41500000000000004,4.050000000000001
+212,213,86.0,2009,Fighting,Capcom,Street Fighter IV,1.5350000000000001,0.815,0.36,0.41,3.12
+213,214,81.0,1984,Racing,Nintendo,Excitebike,2.04,0.48,1.57,0.07,4.16
+214,215,72.0,1997,Action,Hasbro Interactive,Frogger,3.79,0.27,0.0,0.11,4.16
+215,216,87.0,2002,Sports,Electronic Arts,Madden NFL 2003,3.36,0.21,0.01,0.56,4.14
+216,217,94.02,1997,Shooter,Vivendi Games,Half-Life,4.03,0.0,0.09,0.0,4.12
+217,218,91.0,1995,Platform,Nintendo,Super Mario World 2: Yoshi's Island,1.65,0.61,1.76,0.09,4.12
+218,219,93.25,2011,Action,Nintendo,The Legend of Zelda: Skyward Sword,1.995,1.145,0.365,0.365,3.8649999999999998
+219,220,86.0,1992,Fighting,Capcom,Street Fighter II Turbo,1.42,0.51,2.1,0.07,4.1
+220,221,59.23,2007,Misc,Take-Two Interactive,Carnival Games,2.08,1.46,0.05,0.415,4.01
+221,222,91.01,2007,Role-Playing,Activision,World of Warcraft: The Burning Crusade,2.57,1.47,0.0,0.0,4.04
+222,223,83.84,2010,Role-Playing,Bethesda Softworks,Fallout: New Vegas,2.375,0.9850000000000001,0.04,0.325,3.7199999999999998
+223,224,92.79,2007,Action,Sony Computer Entertainment,God of War II,2.32,0.67,0.04,1.04,4.07
+224,225,88.0,2007,Racing,Microsoft Game Studios,Forza Motorsport 2,2.33,1.2650000000000001,0.03,0.405,4.025
+225,226,88.49,2005,Sports,Konami Digital Entertainment,World Soccer Winning Eleven 9,0.12,2.26,0.9,0.77,4.06
+226,227,70.0,1996,Misc,Sony Computer Entertainment,Namco Museum Vol.3,2.28,1.55,0.16,0.06,4.05
+227,228,85.75,2000,Fighting,Namco Bandai Games,Tekken Tag Tournament,1.68,1.51,0.51,0.35,4.05
+228,229,89.0,1997,Shooter,Nintendo,Star Fox 64,2.78,0.5799999999999998,0.64,0.04,4.03
+229,230,71.0,1984,Sports,Nintendo,Golf,1.22,0.28,2.46,0.04,4.01
+230,231,90.6,2008,Role-Playing,Bethesda Softworks,Fallout 3,1.9,1.085,0.07,0.525,3.575
+231,232,88.0,2007,Puzzle,Nintendo,Professor Layton and the Diabolical Box,0.8600000000000001,1.8050000000000002,0.92,0.375,3.9699999999999998
+232,233,89.05,2009,Shooter,Electronic Arts,Left 4 Dead 2,2.54,0.8400000000000001,0.05,0.36,3.795
+233,234,68.0,2005,Misc,Namco Bandai Games,Namco Museum: 50th Anniversary,2.08,1.35,0.0,0.54,3.98
+234,235,83.25,2009,Sports,Electronic Arts,EA Sports Active,2.075,1.34,0.06,0.4,3.88
+235,236,76.0,1994,Platform,Nintendo,Donkey Kong Land,1.97,0.76,1.07,0.11,3.91
+236,237,88.0,2003,Sports,Activision,Tony Hawk's Underground,2.29,1.17,0.01,0.42,3.9
+237,238,82.74,2006,Racing,Sony Computer Entertainment,MotorStorm,1.5150000000000001,1.58,0.06,0.66,3.825
+238,239,91.0,2011,Role-Playing,Bethesda Softworks,The Elder Scrolls V: Skyrim,1.02,1.775,0.0,0.54,3.34
+239,240,89.32,2005,Fighting,Namco Bandai Games,Tekken 5,0.93,1.94,0.31,0.7,3.87
+240,241,87.0,1988,Role-Playing,Enix Corporation,Dragon Warrior III,0.1,0.0,3.77,0.0,3.87
+241,242,80.0,2010,Sports,Sony Computer Entertainment,Sports Champions,2.0300000000000002,1.055,0.1,0.495,3.68
+242,243,90.83,2004,Sports,Konami Digital Entertainment,World Soccer Winning Eleven 8 International,0.16,1.89,1.12,0.68,3.85
+243,244,61.0,2007,Misc,Nintendo,Flash Focus: Vision Training in Minutes a Day,0.86,1.5550000000000002,1.05,0.35,3.815
+244,245,75.0,1995,Misc,Sony Computer Entertainment,Namco Museum Vol.1,2.12,1.44,0.22,0.06,3.84
+245,246,89.0,1992,Action,Nintendo,The Legend of Zelda: Link's Awakening,2.21,0.96,0.54,0.13,3.83
+246,247,90.0,2009,Role-Playing,Nintendo,Mario & Luigi: Bowser's Inside Story,2.215,0.475,0.81,0.27,3.7750000000000004
+247,248,70.26,2007,Misc,Nintendo,Big Brain Academy: Wii Degree,1.045,1.9,0.41,0.425,3.77
+248,249,77.0,2011,Simulation,Nintendo,Nintendogs + cats,1.2999999999999998,1.1400000000000001,0.7,0.23500000000000001,3.375
+249,250,75.0,2011,Sports,Sega,Mario & Sonic at the London 2012 Olympic Games,1.095,1.83,0.265,0.41500000000000004,3.605
+250,251,80.0,2008,Action,Activision,LEGO Indiana Jones: The Original Adventures,2.355,1.0,0.0,0.355,3.7
+251,252,85.0,1996,Action,Virgin Interactive,Resident Evil Director's Cut,1.82,1.24,0.47,0.25,3.77
+252,253,86.0,2007,Platform,Sony Computer Entertainment,Ratchet & Clank: Size Matters,1.385,1.37,0.1,0.855,3.705
+253,254,80.26,2002,Simulation,Electronic Arts,The Sims: Unleashed,2.03,1.56,0.0,0.17,3.76
+254,255,86.0,2007,Platform,Nintendo,Super Paper Mario,1.915,0.835,0.59,0.315,3.6449999999999996
+255,256,62.0,2001,Action,Electronic Arts,Harry Potter and the Sorcerer's Stone,1.37,2.0,0.14,0.22,3.73
+256,257,88.21,1999,Action,Eidos Interactive,Resident Evil 3: Nemesis,1.3,0.77,1.54,0.11,3.72
+257,258,88.0,2000,Platform,Sony Computer Entertainment,Spyro: Year of the Dragon,1.93,1.58,0.0,0.19,3.71
+258,259,84.0,2004,Sports,Electronic Arts,FIFA Soccer 2005,0.5799999999999998,2.48,0.04,0.59,3.7
+259,260,78.0,1998,Strategy,Nintendo,Pokémon Trading Card Game,1.49,0.73,1.38,0.1,3.7
+260,261,85.0,2007,Simulation,Electronic Arts,MySims,1.58,1.59,0.08,0.405,3.6550000000000002
+261,262,89.0,2002,Sports,Activision,Tony Hawk's Pro Skater 4,2.13,1.18,0.01,0.35,3.67
+262,263,74.5,2005,Racing,Take-Two Interactive,Midnight Club 3: DUB Edition,1.635,1.205,0.0,0.78,3.62
+263,264,92.38,1998,Platform,Nintendo,Banjo-Kazooie,1.87,1.13,0.55,0.1,3.65
+264,265,83.4,2002,Shooter,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs,2.53,0.81,0.06,0.24,3.65
+265,266,82.0,2008,Misc,Activision,Guitar Hero: World Tour,2.315,0.95,0.0,0.345,3.61
+266,267,90.22,2001,Platform,Sony Computer Entertainment,Jak and Daxter: The Precursor Legacy,2.08,1.09,0.15,0.33,3.64
+267,268,86.0,2009,Sports,Electronic Arts,FIFA Soccer 10,0.5800000000000001,2.435,0.05,0.515,3.58
+268,269,81.0,2007,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2008,0.05,1.165,0.64,1.7650000000000001,3.63
+269,270,95.77,2005,Action,Capcom,Resident Evil 4,2.08,0.83,0.46,0.25,3.62
+270,271,69.04,2001,Racing,Electronic Arts,The Simpsons: Road Rage,2.02,1.17,0.0,0.42,3.61
+271,272,70.92,2007,Simulation,505 Games,Cooking Mama 2: Dinner With Friends,1.58,1.48,0.1,0.39,3.5599999999999996
+272,273,79.43,2001,Action,Nintendo,Luigi's Mansion,2.38,0.67,0.46,0.1,3.6
+273,274,81.0,2000,Fighting,THQ,WWF SmackDown!,2.01,1.35,0.06,0.16,3.58
+274,275,78.03,2006,Action,Take-Two Interactive,Grand Theft Auto: Liberty City Stories,1.56,1.4,0.07,0.5,3.54
+275,276,73.0,2002,Action,Sony Computer Entertainment,The Getaway,1.23,1.77,0.05,0.49,3.54
+276,277,78.01,1997,Action,Eidos Interactive,Tomb Raider III: Adventures of Lara Croft,1.66,1.58,0.12,0.18,3.54
+277,278,75.18,2001,Shooter,Electronic Arts,James Bond 007: Agent Under Fire,1.9,1.13,0.1,0.41,3.53
+278,279,84.0,2005,Action,Eidos Interactive,LEGO Star Wars: The Video Game,1.98,1.14,0.01,0.41,3.53
+279,280,86.0,2010,Sports,Electronic Arts,FIFA Soccer 11,0.69,2.375,0.02,0.42000000000000004,3.505
+280,281,66.0,2000,Action,THQ,Rugrats in Paris: The Movie,1.96,1.33,0.0,0.23,3.52
+281,282,89.0,1999,Platform,Sony Computer Entertainment,Spyro 2: Ripto's Rage!,2.14,1.21,0.01,0.17,3.52
+282,283,89.44,2008,Shooter,Electronic Arts,Left 4 Dead,2.5650000000000004,0.475,0.05,0.29499999999999993,3.3899999999999997
+283,284,76.0,2009,Sports,Sega,Mario & Sonic at the Olympic Winter Games,1.205,1.585,0.27,0.37,3.425
+284,285,86.32,2009,Action,Capcom,Resident Evil 5,2.04,0.9099999999999999,0.12,0.335,3.405
+285,286,87.0,1996,Platform,Nintendo,Donkey Kong Country 3: Dixie Kong's Double Trouble!,1.17,0.5,1.75,0.08,3.51
+286,287,90.55,2010,Action,Ubisoft,Assassin's Creed: Brotherhood,2.7,0.925,0.03,0.345,3.995
+287,288,76.0,1985,Action,Nintendo,Kung Fu,1.64,0.38,1.42,0.06,3.5
+288,289,93.88,2009,Action,Eidos Interactive,Batman: Arkham Asylum,2.0250000000000004,0.905,0.015,0.29999999999999993,3.25
+289,290,82.98,2006,Misc,Nintendo,Clubhouse Games,0.585,1.77,0.73,0.345,3.425
+290,291,81.0,,Sports,Electronic Arts,FIFA Soccer 2004,0.59,2.36,0.04,0.51,3.49
+291,292,89.03,2010,Shooter,Electronic Arts,Battlefield: Bad Company 2,2.035,0.99,0.04,0.32,3.3899999999999997
+292,293,74.0,2008,Misc,Activision,Guitar Hero: On Tour,2.0949999999999998,1.005,0.01,0.35,3.46
+293,294,89.18,2012,Shooter,Ubisoft,Far Cry 3,0.7,1.35,0.07500000000000001,0.54,2.665
+294,295,85.96,2009,Shooter,Take-Two Interactive,Borderlands,2.2750000000000004,0.6950000000000001,0.03,0.28500000000000003,3.285
+295,296,81.34999999999998,2002,Fighting,Namco Bandai Games,Tekken 4,1.55,1.27,0.33,0.2899999999999999,3.44
+296,297,91.0,2011,Platform,Sony Computer Entertainment,LittleBigPlanet 2,1.695,0.9550000000000001,0.06,0.43999999999999995,3.145
+297,298,75.0,1998,Action,Take-Two Interactive,Grand Theft Auto 2,1.13,2.07,0.0,0.22,3.42
+298,299,90.0,1994,Role-Playing,SquareSoft,Final Fantasy III,0.86,0.0,2.55,0.02,3.42
+299,300,80.97,2004,Action,Activision,Spider-Man 2,1.75,1.2,0.02,0.43,3.41
+300,301,66.0,1990,Racing,Nintendo,F-1 Race,1.73,0.69,0.59,0.4,3.41
+301,302,81.0,2002,Sports,Electronic Arts,FIFA Soccer 2003,0.46,2.28,0.05,0.61,3.4
+302,303,71.27,2000,Misc,Sony Computer Entertainment,Crash Bash,1.56,1.47,0.19,0.17,3.39
+303,304,76.0,2008,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,1.91,0.9750000000000001,0.0,0.31,3.195
+304,305,87.05,2009,Action,Nintendo,The Legend of Zelda: Spirit Tracks,1.3900000000000001,0.885,0.74,0.265,3.275
+305,306,80.45999999999998,1998,Fighting,Acclaim Entertainment,WWF War Zone,2.47,0.76,0.0,0.13,3.36
+306,307,90.0,2000,Action,Nintendo,The Legend of Zelda: Majora's Mask,1.9,0.67,0.73,0.06,3.36
+307,308,90.0,2008,Puzzle,Nintendo,Professor Layton and the Unwound Future,0.585,1.53,0.82,0.28,3.215
+308,309,70.0,1998,Adventure,THQ,Rugrats: Search For Reptar,1.63,1.53,0.0,0.18,3.34
+309,310,85.0,2006,Misc,Nintendo,English Training: Have Fun Improving Your Skills!,0.0,0.99,2.32,0.02,3.33
+310,311,82.29,2002,Shooter,Electronic Arts,James Bond 007: Nightfire,1.45,1.29,0.12,0.46,3.33
+311,312,90.0,2002,Platform,Sony Computer Entertainment,Ratchet & Clank,1.44,1.01,0.57,0.3,3.33
+312,313,75.05,2012,Misc,Nintendo,Mario Party 9,0.9949999999999999,0.95,0.7150000000000001,0.215,2.875
+313,314,79.0,2005,Action,LucasArts,Star Wars Episode III: Revenge of the Sith,1.47,1.39,0.03,0.43,3.32
+314,315,79.81,2001,Shooter,Take-Two Interactive,Max Payne,1.99,1.05,0.05,0.22,3.31
+315,316,84.89,2003,Action,Electronic Arts,The Lord of the Rings: The Return of the King,1.5,1.28,0.05,0.46,3.28
+316,317,77.3,2003,Action,Activision,True Crime: Streets of LA,1.89,1.05,0.02,0.31,3.27
+317,318,64.34,2008,Misc,Nintendo,Wii Music,1.3450000000000002,1.1099999999999999,0.46,0.315,3.23
+318,319,77.0,1995,Fighting,Sony Computer Entertainment,Tekken,0.95,1.3,0.77,0.22,3.24
+319,320,86.0,2011,Adventure,Take-Two Interactive,L.A. Noire,1.19,1.195,0.11499999999999999,0.48,2.98
+320,321,62.9,1999,Shooter,Electronic Arts,007: Tomorrow Never Dies,1.72,1.33,0.0,0.16,3.21
+321,322,39.0,1983,Sports,Nintendo,Baseball,0.73,0.1,2.35,0.02,3.2
+322,323,86.0,1995,Fighting,Nintendo,Killer Instinct,2.26,0.72,0.12,0.1,3.2
+323,324,85.0,2000,Fighting,THQ,WWF SmackDown! 2: Know Your Role,1.76,1.21,0.07,0.16,3.2
+324,325,81.81,2007,Role-Playing,Square Enix,Crisis Core: Final Fantasy VII,1.3250000000000002,0.575,0.8,0.425,3.13
+325,326,91.06,2008,Action,Sony Computer Entertainment,God of War: Chains of Olympus,1.46,0.99,0.04,0.65,3.1399999999999997
+326,327,89.0,1995,Role-Playing,Enix Corporation,Dragon Quest VI: Maboroshi no Daichi,0.0,0.0,3.19,0.0,3.19
+327,328,86.55,2010,Misc,MTV Games,Dance Central,2.05,0.745,0.01,0.27,3.075
+328,329,71.0,2003,Action,Atari,Enter the Matrix,1.78,1.12,0.09,0.19,3.18
+329,330,83.11,2010,Role-Playing,Bethesda Softworks,Fallout: New Vegas,1.325,0.9650000000000001,0.1,0.42,2.8049999999999997
+330,331,80.0,,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,1.725,0.94,0.0,0.28,2.9450000000000003
+331,332,83.0,2008,Misc,Nintendo,Rhythm Heaven,0.53,0.495,1.93,0.135,3.0949999999999998
+332,333,85.92,2001,Simulation,Sony Computer Entertainment Europe,Ace Combat 04: Shattered Skies,2.06,0.56,0.38,0.17,3.17
+333,334,86.36,2001,Simulation,Nintendo,Animal Crossing,1.92,0.16,0.99,0.09,3.15
+334,335,81.0,2008,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,1.71,0.9850000000000001,0.0,0.28500000000000003,2.99
+335,336,84.0,2005,Platform,Sega,Sonic Rush,1.19,1.55,0.06,0.28500000000000003,3.0949999999999998
+336,337,73.55,2012,Shooter,Capcom,Resident Evil 6,0.765,0.7949999999999999,0.865,0.33999999999999997,2.7649999999999997
+337,338,81.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.68,0.965,0.0,1.495,3.14
+338,339,86.45,2000,Action,Activision,Spider-Man,1.7,1.25,0.02,0.16,3.13
+339,340,84.0,1998,Racing,Electronic Arts,Need for Speed III: Hot Pursuit,2.14,0.86,0.0,0.13,3.12
+340,341,84.0,1999,Racing,Nintendo,Star Wars Episode I Racer,2.31,0.62,0.14,0.04,3.12
+341,342,78.0,2006,Misc,Nintendo,Personal Trainer: Cooking,0.89,1.005,1.03,0.17,3.105
+342,343,91.0,2007,Role-Playing,Ubisoft,The Elder Scrolls IV: Oblivion,1.595,0.8200000000000001,0.14,0.4,2.955
+343,344,88.0,1990,Role-Playing,Enix Corporation,Dragon Warrior IV,0.08,0.0,3.03,0.01,3.12
+344,345,89.23,2010,Adventure,Sony Computer Entertainment,Heavy Rain,1.145,1.075,0.06,0.435,2.71
+345,346,95.69,2010,Role-Playing,Electronic Arts,Mass Effect 2,1.955,0.7849999999999999,0.03,0.275,3.04
+346,347,76.0,2002,Fighting,Atari,Dragon Ball Z: Budokai,2.17,0.28,0.55,0.08,3.09
+347,348,86.0,2001,Sports,Electronic Arts,Madden NFL 2002,2.5,0.16,0.01,0.42,3.08
+348,349,90.0,1986,Sports,Namco Bandai Games,World Class Track Meet,1.92,0.45,0.64,0.07,3.08
+349,350,89.29,2012,Shooter,Take-Two Interactive,Borderlands 2,1.6549999999999998,0.78,0.035,0.22999999999999998,2.69
+350,351,84.0,1994,Platform,Nintendo,Donkey Kong,1.57,0.62,0.55,0.34,3.07
+351,352,77.3,2002,Simulation,Electronic Arts,The Sims: Vacation,1.72,1.21,0.0,0.14,3.07
+352,353,92.17,2012,Role-Playing,Electronic Arts,Mass Effect 3,1.835,0.7749999999999999,0.03,0.245,2.885
+353,354,68.0,2008,Action,Activision,Kung Fu Panda,1.9049999999999998,0.83,0.0,0.2899999999999999,3.03
+354,355,89.67,2012,Shooter,Ubisoft,Far Cry 3,1.16,1.155,0.015,0.255,2.59
+355,356,86.0,2008,Action,THQ,Saints Row 2,1.83,0.77,0.02,0.27,2.8899999999999997
+356,357,79.0,1995,Platform,Ubisoft,Rayman,1.54,1.33,0.0,0.16,3.03
+357,358,90.56,2009,Shooter,Sony Computer Entertainment,Killzone 2,1.375,1.0350000000000001,0.08,0.45999999999999996,2.955
+358,359,92.59,2002,Action,Ubisoft,Tom Clancy's Splinter Cell,1.85,1.04,0.0,0.13,3.02
+359,360,89.0,1987,Fighting,Nintendo,Mike Tyson's Punch-Out!!,2.03,0.47,0.45,0.07,3.02
+360,361,86.0,2002,Sports,THQ,WWE SmackDown! Shut Your Mouth,1.45,1.13,0.07,0.38,3.02
+361,362,86.0,2012,Sports,Take-Two Interactive,NBA 2K13,2.29,0.155,0.01,0.16999999999999998,2.62
+362,363,73.56999999999998,2007,Fighting,Atari,Dragon Ball Z: Budokai Tenkaichi 3,1.15,0.435,0.76,0.655,3.0
+363,364,91.0,,Fighting,,wwe Smackdown vs. Raw 2006,1.57,1.02,0.0,0.41,3.0
+364,365,86.0,1993,Shooter,Nintendo,Star Fox,1.61,0.51,0.8,0.07,2.99
+365,366,77.48,2000,Misc,Electronic Arts,The Sims: Livin Large,1.67,1.18,0.0,0.13,2.99
+366,367,90.54,2002,Sports,Konami Digital Entertainment,World Soccer Winning Eleven 6 International,0.12,1.26,1.16,0.45,2.99
+367,368,92.6,2001,Action,Capcom,Devil May Cry,1.36,0.86,0.64,0.13,2.99
+368,369,85.62,2010,Shooter,Electronic Arts,Battlefield: Bad Company 2,1.28,1.0750000000000002,0.08,0.435,2.865
+369,370,83.0,2011,Role-Playing,Electronic Arts,Star Wars: The Old Republic,1.465,0.9450000000000001,0.0,0.355,2.765
+370,371,70.6,2003,Platform,Sega,Sonic Heroes,1.04,1.37,0.06,0.49,2.96
+371,372,79.5,2008,Platform,Nintendo,Kirby Super Star Ultra,1.54,0.025,1.19,0.15,2.91
+372,373,85.02,2002,Action,Eidos Interactive,Hitman 2: Silent Assassin,1.36,1.15,0.04,0.41,2.96
+373,374,84.0,2009,Fighting,Capcom,Street Fighter IV,1.425,0.5599999999999999,0.1,0.21000000000000002,2.3
+374,375,90.67,1996,Racing,Nintendo,Wave Race 64,1.98,0.5799999999999998,0.34,0.04,2.94
+375,376,86.99,2003,Shooter,Sony Computer Entertainment,SOCOM II: U.S. Navy SEALs,2.22,0.51,0.06,0.15,2.94
+376,377,91.0,2005,Fighting,THQ,WWE SmackDown! vs. RAW 2006,1.45,1.11,0.04,0.33,2.94
+377,378,86.17,2009,Action,Sony Computer Entertainment,inFAMOUS,1.65,0.6399999999999999,0.12,0.35,2.76
+378,379,80.0,2001,Puzzle,Atari,Pac-Man Collection,2.07,0.77,0.05,0.05,2.94
+379,380,91.24,2007,Role-Playing,Microsoft Game Studios,Mass Effect,1.7850000000000001,0.76,0.03,0.265,2.84
+380,381,81.81999999999998,2006,Puzzle,Nintendo,WarioWare: Smooth Moves,0.855,1.0350000000000001,0.73,0.255,2.88
+381,382,62.81,2007,Simulation,505 Games,Cooking Mama: Cook Off,1.4049999999999998,1.115,0.05,0.3,2.875
+382,383,75.68,2004,Misc,Sega,Sonic Mega Collection Plus,1.54,1.14,0.0,0.22,2.9
+383,384,69.08,2008,Sports,Sega,Sega Superstars Tennis,1.74,0.85,0.0,0.28,2.875
+384,385,92.97,2003,Sports,Konami Digital Entertainment,World Soccer Winning Eleven 7 International,0.08,1.24,1.13,0.45,2.9
+385,386,82.0,2001,Sports,Sony Computer Entertainment,Hot Shots Golf 3,0.99,0.32,1.38,0.2,2.89
+386,387,77.18,2004,Shooter,Activision,Call of Duty: Finest Hour,1.51,1.12,0.01,0.24,2.89
+387,388,78.0,2011,Sports,Majesco Entertainment,Zumba Fitness 2,1.455,0.99,0.0,0.27,2.71
+388,389,87.0,1999,Shooter,Sony Computer Entertainment,Syphon Filter,2.03,0.72,0.02,0.11,2.88
+389,390,62.0,2007,Simulation,Ubisoft,Imagine: Babyz,1.295,1.26,0.0,0.31,2.865
+390,391,88.82,1998,Racing,Codemasters,Colin McRae Rally,0.09,2.43,0.12,0.22,2.87
+391,392,68.0,2012,Sports,Electronic Arts,Madden NFL 13,2.355,0.12,0.0,0.18,2.6550000000000002
+392,393,87.0,2002,Role-Playing,Ubisoft,The Elder Scrolls III: Morrowind,2.09,0.63,0.03,0.11,2.86
+393,394,90.0,2011,Fighting,Warner Bros. Interactive Entertainment,Mortal Kombat,1.725,0.47000000000000003,0.0,0.28500000000000003,2.4850000000000003
+394,395,83.0,1990,Racing,Nintendo,F-Zero,1.37,0.51,0.89,0.07,2.85
+395,396,73.0,1997,Platform,Nintendo,Yoshi's Story,1.29,0.53,0.98,0.05,2.85
+396,397,91.0,1996,Strategy,Virgin Interactive,Command & Conquer: Red Alert,1.37,1.34,0.0,0.14,2.85
+397,398,67.0,2011,Action,Activision,Skylanders: Spyro's Adventure,1.29,1.08,0.0,0.28500000000000003,2.6550000000000002
+398,399,76.2,2010,Action,Ubisoft,Assassin's Creed: Brotherhood,1.7650000000000001,1.205,0.11,0.525,3.6
+399,400,96.12,2007,Shooter,Take-Two Interactive,BioShock,1.555,0.835,0.05,0.27,2.705
+400,401,81.0,2009,Sports,Electronic Arts,Madden NFL 10,2.5,0.09,0.0,0.22,2.81
+401,402,78.0,2010,Shooter,Electronic Arts,Medal of Honor,1.24,0.995,0.07,0.41500000000000004,2.715
+402,403,86.0,2002,Fighting,THQ,WWE SmackDown! vs. Raw,1.32,1.08,0.04,0.39,2.83
+403,404,96.35,2002,Shooter,Nintendo,Metroid Prime,1.96,0.67,0.1,0.09,2.82
+404,405,59.0,2003,Action,THQ,Finding Nemo,1.59,1.05,0.04,0.14,2.82
+405,406,84.0,1994,Adventure,Red Orb,Myst,2.465,2.79,0.0,0.165,5.419999999999999
+406,407,84.0,2010,Racing,Electronic Arts,Need for Speed: Hot Pursuit,0.98,1.175,0.03,0.45999999999999996,2.64
+407,408,56.0,2007,Simulation,Ubisoft,Imagine: Fashion Designer,1.315,1.185,0.0,0.3,2.8
+408,409,90.0,2003,Fighting,THQ,WWE SmackDown! Here Comes the Pain,1.32,1.06,0.04,0.38,2.8
+409,410,82.0,2008,Action,LucasArts,Star Wars: The Force Unleashed,1.675,0.745,0.0,0.255,2.675
+410,411,86.0,2006,Platform,Nintendo,Yoshi's Island DS,1.44,0.05500000000000001,1.1,0.14500000000000002,2.745
+411,412,84.0,1997,Sports,Sony Computer Entertainment,Hot Shots Golf,0.2899999999999999,0.2,2.13,0.18,2.79
+412,413,86.38,2011,Shooter,Sony Computer Entertainment,Killzone 3,1.3599999999999999,0.8049999999999999,0.09,0.365,2.615
+413,414,51.9,1998,Platform,Sony Computer Entertainment,A Bug's Life,1.96,0.72,0.0,0.11,2.79
+414,415,78.0,2001,Fighting,THQ,WWF SmackDown! Just Bring It,1.19,1.15,0.04,0.41,2.79
+415,416,85.0,1996,Fighting,GT Interactive,Mortal Kombat Trilogy,1.98,0.7,0.0,0.11,2.79
+416,417,86.82,2011,Shooter,Electronic Arts,Battlefield 3,0.845,1.31,0.0,0.42,2.5700000000000003
+417,418,88.0,2001,Sports,Electronic Arts,NBA Street,2.19,0.22,0.0,0.38,2.79
+418,419,87.0,2009,Puzzle,Nintendo,Professor Layton and the Last Specter,0.27,1.38,0.68,0.28500000000000003,2.6100000000000003
+419,420,90.0,2003,Platform,Sony Computer Entertainment,Jak II,1.68,0.74,0.0,0.36,2.78
+420,421,91.0,2003,Platform,Sony Computer Entertainment,Ratchet & Clank: Going Commando,1.44,0.83,0.26,0.25,2.78
+421,422,79.65,2009,Fighting,Namco Bandai Games,Tekken 6,1.145,0.9199999999999999,0.17,0.41000000000000003,2.6449999999999996
+422,423,81.06999999999998,2003,Simulation,Electronic Arts,The Sims,1.41,1.12,0.0,0.24,2.77
+423,424,75.0,2007,Platform,Sega,Sonic and the Secret Rings,1.17,1.18,0.04,0.29000000000000004,2.675
+424,425,84.9,2011,Action,THQ,Saints Row: The Third,1.155,1.1099999999999999,0.065,0.28,2.605
+425,426,80.0,1992,Misc,Nintendo,Mario Paint,1.43,0.54,0.71,0.07,2.75
+426,427,80.0,2000,Strategy,Nintendo,Pokémon Stadium 2,1.02,0.36,1.13,0.23,2.73
+427,428,72.0,1986,Action,Nintendo,Metroid,1.33,0.31,1.04,0.05,2.73
+428,429,87.0,2011,Adventure,Take-Two Interactive,L.A. Noire,1.4300000000000002,0.8799999999999999,0.02,0.24,2.5700000000000003
+429,430,82.36,2006,Shooter,Activision,Call of Duty 3,1.47,0.905,0.02,0.265,2.66
+430,431,92.0,2002,Action,Nintendo,The Legend of Zelda: A Link to the Past,1.75,0.52,0.33,0.1,2.7
+431,432,85.0,2001,Action,Virgin Interactive,Onimusha: Warlords,0.99,0.48,1.09,0.14,2.7
+432,433,82.0,1998,Misc,Nintendo,Mario Party,1.25,0.53,0.87,0.05,2.7
+433,434,72.0,2011,Sports,Electronic Arts,Madden NFL 12,2.375,0.095,0.0,0.185,2.6550000000000002
+434,435,86.0,2006,Action,LucasArts,LEGO Star Wars II: The Original Trilogy,1.85,0.64,0.01,0.19,2.69
+435,436,71.0,2010,Sports,Electronic Arts,Madden NFL 11,2.3499999999999996,0.11499999999999999,0.0,0.195,2.665
+436,437,80.08,2010,Puzzle,Nintendo,Mario vs. Donkey Kong: Mini-Land Mayhem!,1.605,0.495,0.35,0.195,2.645
+437,438,83.0,2010,Sports,Electronic Arts,Skate 3,1.155,0.76,0.0,0.2,2.115
+438,439,93.32,2004,Racing,Electronic Arts,Burnout 3: Takedown,1.23,1.11,0.0,0.34,2.68
+439,440,74.0,2009,Racing,Electronic Arts,Need for Speed: Shift,0.6799999999999999,1.37,0.04,0.515,2.6100000000000003
+440,441,79.08,2011,Role-Playing,Square Enix,Final Fantasy XIII-2,0.75,0.62,0.88,0.24,2.49
+441,442,83.0,1992,Fighting,Arena Entertainment,Mortal Kombat,1.95,0.63,0.0,0.09,2.67
+442,443,78.45,2005,Shooter,Activision,Call Of Duty 2: Big Red One,1.48,0.92,0.01,0.26,2.67
+443,444,84.44,2008,Misc,Activision,Guitar Hero: World Tour,1.74,0.625,0.0,0.245,2.61
+444,445,87.31,1998,Shooter,Electronic Arts,Medal of Honor,1.44,1.09,0.0,0.14,2.67
+445,446,85.36,2004,Role-Playing,Microsoft Game Studios,Fable,1.99,0.5799999999999998,0.0,0.09,2.66
+446,447,45.0,2006,Action,Disney Interactive Studios,Hannah Montana,1.59,0.8,0.0,0.26,2.645
+447,448,88.13,2003,Action,Ubisoft,Tom Clancy's Splinter Cell,1.15,1.11,0.0,0.4,2.65
+448,449,63.0,2012,Action,Activision,Skylanders Giants,1.365,0.725,0.0,0.20500000000000002,2.29
+449,450,81.0,2006,Shooter,Electronic Arts,Medal of Honor Heroes,0.845,1.0950000000000002,0.01,0.655,2.61
+450,451,79.0,1996,Action,Nintendo,Star Wars: Shadows of the Empire,2.0,0.5,0.12,0.03,2.65
+451,452,83.0,2007,Action,LucasArts,LEGO Star Wars: The Complete Saga,1.355,0.7150000000000001,0.0,0.215,2.285
+452,453,76.98999999999998,2000,Racing,Take-Two Interactive,Midnight Club: Street Racing,2.0,0.47,0.02,0.14,2.63
+453,454,82.05,2009,Strategy,Microsoft Game Studios,Halo Wars,1.415,0.78,0.04,0.22999999999999998,2.465
+454,455,90.62,2009,Action,Sony Computer Entertainment,God of War Collection,1.665,0.41000000000000003,0.06,0.44499999999999995,2.58
+455,456,88.03,2004,Sports,Sega,ESPN NFL 2K5,2.15,0.12,0.0,0.36,2.62
+456,457,79.43,2007,Sports,Nintendo,Mario Strikers Charged,1.04,1.03,0.24,0.245,2.555
+457,458,76.0,2010,Shooter,Electronic Arts,Medal of Honor,1.51,0.775,0.04,0.22499999999999998,2.55
+458,459,87.0,2009,Sports,Electronic Arts,FIFA Soccer 10,0.58,1.78,0.01,0.23,2.5949999999999998
+459,460,88.0,2011,Sports,Take-Two Interactive,NBA 2K12,2.255,0.13,0.01,0.18,2.58
+460,461,83.0,2008,Simulation,Nintendo,Style Savvy,0.605,0.8,0.96,0.185,2.545
+461,462,74.0,2002,Action,Electronic Arts,Harry Potter and the Chamber of Secrets,0.9,1.22,0.04,0.44,2.61
+462,463,81.0,2010,Platform,Nintendo,Super Mario All-Stars: Limited Edition,0.995,0.51,0.92,0.15000000000000002,2.575
+463,464,84.0,1990,Action,Sega,Streets of Rage,1.86,0.55,0.11,0.08,2.6
+464,465,86.0,2008,Sports,Electronic Arts,FIFA Soccer 09,0.46499999999999997,1.615,0.04,0.425,2.55
+465,466,88.0,2007,Platform,Sony Computer Entertainment,Ratchet & Clank Future: Tools of Destruction,0.9,1.0750000000000002,0.08,0.44,2.505
+466,467,81.84999999999998,2004,Sports,Electronic Arts,NBA Live 2005,2.03,0.21,0.0,0.35,2.59
+467,468,84.0,2009,Platform,Sony Computer Entertainment,LittleBigPlanet,0.605,1.125,0.01,0.6349999999999999,2.375
+468,469,88.0,2007,Role-Playing,Capcom,Monster Hunter Freedom 2,0.36,0.255,1.75,0.175,2.55
+469,470,87.0,2006,Fighting,THQ,WWE SmackDown vs. RAW 2007,1.4,0.88,0.03,0.26,2.58
+470,471,92.0,2004,Platform,Sony Computer Entertainment,Ratchet & Clank: Up Your Arsenal,1.31,0.74,0.31,0.22,2.57
+471,472,78.45,2010,Misc,Nintendo,Art Academy,0.255,1.6400000000000001,0.33,0.28,2.51
+472,473,86.98,2009,Role-Playing,Electronic Arts,Dragon Age: Origins,1.7149999999999999,0.525,0.03,0.22,2.49
+473,474,81.0,2007,Sports,Electronic Arts,Madden NFL 08,2.14,0.08,0.0,0.35,2.57
+474,475,84.0,2001,Platform,Sega,Sonic Adventure 2 Battle,1.7,0.59,0.21,0.07,2.56
+475,476,88.0,1987,Role-Playing,Enix Corporation,Dragon Warrior II,0.15,0.0,2.41,0.0,2.56
+476,477,71.0,2012,Sports,Electronic Arts,Madden NFL 13,1.935,0.165,0.0,0.2,2.3
+477,478,71.0,2012,Sports,Electronic Arts,Madden NFL 13,0.88,0.055,0.0,0.09,1.025
+478,479,78.0,2003,Role-Playing,Nintendo,Pokémon Colosseum,1.21,0.57,0.7,0.07,2.54
+479,480,53.04,2008,Sports,Konami Digital Entertainment,Deca Sports,1.1099999999999999,0.845,0.2899999999999999,0.245,2.495
+480,481,81.0,2008,Sports,Electronic Arts,Madden NFL 09,2.1950000000000003,0.11499999999999999,0.0,0.2,2.515
+481,482,79.06999999999998,2001,Racing,Acclaim Entertainment,Crazy Taxi,1.13,1.12,0.06,0.22,2.52
+482,483,94.2,2000,Action,Nintendo,Perfect Dark,1.55,0.75,0.16,0.06,2.52
+483,484,84.0,1986,Role-Playing,Capcom,Dragon Warrior,0.49,0.0,1.01,0.76,2.26
+484,485,82.09,2006,Role-Playing,Activision,Marvel: Ultimate Alliance,2.275,0.015,0.0,0.19,2.475
+485,486,82.0,2008,Sports,Konami Digital Entertainment,PES 2009: Pro Evolution Soccer,0.13,0.875,0.26,1.24,2.5
+486,487,84.0,1999,Misc,Nintendo,Mario Party 2,1.28,0.14,1.08,0.01,2.5
+487,488,84.12,2011,Action,THQ,Saints Row: The Third,0.79,0.9550000000000001,0.16999999999999998,0.365,2.2750000000000004
+488,489,91.0,2003,Action,Take-Two Interactive,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,1.84,0.56,0.0,0.09,2.49
+489,490,79.0,2010,Action,Warner Bros. Interactive Entertainment,LEGO Harry Potter: Years 1-4,1.24,0.88,0.0,0.23,2.35
+490,491,83.0,2002,Fighting,Midway Games,Mortal Kombat: Deadly Alliance,1.81,0.52,0.0,0.15,2.49
+491,492,87.0,2008,Shooter,Sony Computer Entertainment,Resistance 2,1.125,0.8200000000000001,0.1,0.38,2.415
+492,493,82.0,2008,Racing,Disney Interactive Studios,Pure,1.365,0.835,0.0,0.245,2.45
+493,494,77.0,1998,Action,Eidos Interactive,Tomb Raider: The Last Revelation,1.15,1.14,0.06,0.13,2.48
+494,495,84.0,2012,Sports,Take-Two Interactive,NBA 2K13,1.5350000000000001,0.305,0.045,0.21000000000000002,2.09
+495,496,77.0,,Misc,Electronic Arts,Rock Band,1.9049999999999998,0.325,0.0,0.21,2.44
+496,497,73.3,2002,Misc,Nintendo,Mario Party 4,1.13,0.36,0.92,0.07,2.47
+497,498,66.5,2010,Misc,THQ,uDraw Studio,1.63,0.56,0.0,0.21000000000000002,2.4050000000000002
+498,499,81.66,2008,Racing,Take-Two Interactive,Midnight Club: Los Angeles,1.445,0.5,0.05,0.29000000000000004,2.285
+499,500,87.0,1992,Role-Playing,SquareSoft,Final Fantasy V,0.0,0.0,2.43,0.02,2.45
+500,501,92.0,1997,Role-Playing,SquareSoft,Final Fantasy Tactics,0.93,0.12,1.34,0.06,2.45
+501,502,86.44,1996,Racing,Sony Computer Entertainment,Twisted Metal 2,2.12,0.25,0.0,0.07,2.44
+502,503,81.92,2011,Shooter,Microsoft Game Studios,Halo: Combat Evolved Anniversary,1.3599999999999999,0.675,0.04,0.21000000000000002,2.29
+503,504,81.0,2006,Racing,Electronic Arts,Need for Speed Carbon: Own the City,0.865,0.9550000000000001,0.0,0.58,2.4
+504,505,83.44,2003,Simulation,Electronic Arts,The Sims: Bustin' Out,1.07,1.19,0.0,0.18,2.43
+505,506,84.0,1997,Adventure,Red Orb,Riven: The Sequel to Myst,1.52,0.82,0.0,0.1,2.43
+506,507,82.77,2008,Shooter,Ubisoft,Tom Clancy's Rainbow Six: Vegas 2,1.54,0.6,0.02,0.23,2.3899999999999997
+507,508,90.0,1998,Platform,Sega,Sonic Adventure,1.26,0.61,0.46,0.08,2.42
+508,509,82.0,1988,Sports,Nintendo,Ice Hockey,1.27,0.32,0.78,0.05,2.42
+509,510,82.0,2010,Sports,Konami Digital Entertainment,pro evolution soccer 2011,0.28,1.165,0.54,0.395,2.38
+510,511,78.0,2003,Fighting,Atari,Dragon Ball Z: Budokai 2,1.63,0.22,0.51,0.06,2.41
+511,512,83.12,2001,Racing,Sony Computer Entertainment,ATV Offroad Fury,2.07,0.26,0.0,0.08,2.41
+512,513,82.78,1998,Action,Capcom,Dino Crisis,0.81,0.76,0.7,0.14,2.41
+513,514,68.0,2007,Racing,Electronic Arts,Need for Speed: ProStreet,0.69,0.655,0.04,1.025,2.41
+514,515,78.0,1996,Puzzle,JVC,Tetris Plus,2.1,0.24,0.0,0.07,2.4
+515,516,80.0,1987,Fighting,Nintendo,Pro Wrestling,0.77,0.18,1.42,0.03,2.4
+516,517,73.0,1997,Strategy,Electronic Arts,Theme Hospital,2.3,0.08,0.0,0.0,2.375
+517,518,69.0,,Adventure,Konami Digital Entertainment,Frogger's Adventures: Temple of the Frog,2.15,0.18,0.0,0.07,2.39
+518,519,59.0,2010,Sports,505 Games,Zumba Fitness,1.575,0.435,0.0,0.18,2.18
+519,520,81.0,,Action,LucasArts,LEGO Indiana Jones: The Original Adventures,1.49,0.6,0.0,0.215,2.305
+520,521,77.0,1994,Misc,Hasbro Interactive,Monopoly,1.49,0.81,0.0,0.1,2.39
+521,522,72.84,2011,Action,Deep Silver,Dead Island,1.365,0.6599999999999999,0.0,0.2,2.225
+522,523,91.96,2005,Misc,RedOctane,Guitar Hero,1.67,0.61,0.03,0.07,2.38
+523,524,83.0,2007,Action,LucasArts,LEGO Star Wars: The Complete Saga,0.95,0.8049999999999999,0.0,0.33999999999999997,2.0949999999999998
+524,525,75.0,2011,Misc,Microsoft Game Studios,Kinect: Disneyland Adventures,1.6600000000000001,0.39,0.02,0.18,2.245
+525,526,82.76,1998,Fighting,THQ,WCW/nWo Revenge,1.94,0.39,0.03,0.02,2.38
+526,527,75.0,2010,Sports,Electronic Arts,Madden NFL 11,2.005,0.14,0.0,0.195,2.3449999999999998
+527,528,67.0,2001,Misc,Konami Digital Entertainment,Yu-Gi-Oh! The Duelists of the Roses,1.16,0.91,0.0,0.3,2.38
+528,529,80.0,2007,Sports,Electronic Arts,Madden NFL 08,2.17,0.005,0.0,0.18,2.355
+529,530,95.48,2004,Shooter,Vivendi Games,Half-Life 2,2.28,0.015,0.08,0.0,2.365
+530,531,65.0,2004,Action,THQ,The Incredibles,0.96,1.08,0.04,0.3,2.37
+531,532,84.0,2004,Sports,Activision,Tony Hawk's Underground 2,1.25,0.86,0.01,0.26,2.37
+532,533,81.0,2009,Sports,Electronic Arts,Madden NFL 10,2.0149999999999997,0.125,0.0,0.20500000000000002,2.3449999999999998
+533,534,67.25,2011,Sports,Microsoft Game Studios,Kinect Sports: Season Two,1.315,0.69,0.02,0.215,2.24
+534,535,83.0,1995,Platform,Nintendo,Kirby's Dream Land 2,0.69,0.14,1.48,0.05,2.36
+535,536,83.0,2010,Action,Warner Bros. Interactive Entertainment,LEGO Harry Potter: Years 1-4,1.0350000000000001,0.96,0.0,0.225,2.2199999999999998
+536,537,80.64,2008,Racing,Take-Two Interactive,Midnight Club: Los Angeles,1.535,0.44,0.01,0.19,2.1799999999999997
+537,538,78.0,2007,Fighting,THQ,WWE SmackDown vs Raw 2008,0.92,0.56,0.01,0.8499999999999999,2.34
+538,539,69.0,2008,Sports,Ubisoft,My Fitness Coach,1.18,0.89,0.0,0.24,2.3099999999999996
+539,540,82.77,2001,Action,Capcom,Resident Evil - Code: Veronica X,1.08,0.7,0.34,0.21,2.34
+540,541,77.36,2010,Simulation,Electronic Arts,The Sims 3,0.95,0.63,0.0,0.16,1.74
+541,542,50.0,2010,Misc,Ubisoft,Just Dance Kids,1.455,0.5,0.0,0.185,2.1399999999999997
+542,543,86.0,2000,Sports,Nintendo,Mario Tennis,0.78,0.4,1.06,0.07,2.32
+543,544,78.0,1997,Action,Take-Two Interactive,Grand Theft Auto,0.79,1.35,0.04,0.14,2.32
+544,545,84.64,2004,Shooter,Electronic Arts,James Bond 007: Everything or Nothing,0.85,1.06,0.09,0.32,2.31
+545,546,81.67,2004,Puzzle,Nintendo,WarioWare Touched!,0.51,0.445,1.21,0.13,2.29
+546,547,86.0,1999,Racing,Electronic Arts,Need For Speed: High Stakes,1.58,0.64,0.0,0.09,2.31
+547,548,91.98,1995,Role-Playing,SquareSoft,Chrono Trigger,0.28,0.0,2.02,0.01,2.31
+548,549,90.02,2012,Action,NCSoft,Guild Wars 2,0.865,0.875,0.0,0.26,2.0
+549,550,71.78,2011,Action,Deep Silver,Dead Island,0.9550000000000001,0.6599999999999999,0.14500000000000002,0.28500000000000003,2.045
+550,551,86.2,1997,Action,Eidos Interactive,Tomb Raider II,0.91,1.25,0.0,0.13,2.29
+551,552,82.0,2004,Racing,Electronic Arts,Need for Speed Underground 2,1.38,0.8,0.0,0.1,2.28
+552,553,71.0,2009,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2010,0.29000000000000004,1.26,0.46,0.255,2.26
+553,554,91.0,1983,Platform,Nintendo,Mario Bros.,0.51,0.12,1.63,0.02,2.28
+554,555,85.0,2008,Sports,Electronic Arts,FIFA Soccer 09,0.38,0.78,0.01,1.11,2.28
+555,556,81.0,2008,Action,LucasArts,Star Wars: The Force Unleashed,0.975,0.8,0.0,0.33999999999999997,2.1149999999999998
+556,557,83.98,2012,Shooter,Take-Two Interactive,Borderlands 2,0.855,0.6,0.085,0.28,1.8199999999999998
+557,558,76.12,2012,Role-Playing,Nintendo,Paper Mario: Sticker Star,0.865,0.29000000000000004,0.585,0.095,1.835
+558,559,84.0,2009,Misc,Sega,Sonic's Ultimate Genesis Collection,1.215,0.6699999999999999,0.0,0.315,2.2
+559,560,74.0,2006,Misc,Sega,Super Monkey Ball: Banana Blitz,1.0350000000000001,0.91,0.04,0.235,2.2199999999999998
+560,561,80.45,2002,Platform,Nintendo,Kirby: Nightmare in Dream Land,1.22,0.1,0.91,0.04,2.27
+561,562,85.34,2001,Platform,Nintendo,Wario Land 4,0.9,0.73,0.54,0.09,2.26
+562,563,85.0,2007,Misc,Activision,Guitar Hero III: Legends of Rock,1.38,0.515,0.02,0.29000000000000004,2.21
+563,564,69.91,,Shooter,Activision,Call of Duty 3,1.16,0.83,0.0,0.23,2.2199999999999998
+564,565,91.59,2007,Action,Capcom,Resident Evil 4,1.3,0.55,0.14,0.20500000000000002,2.195
+565,566,84.0,2002,Adventure,Capcom,Onimusha 2: Samurai's Destiny,0.62,0.44,1.06,0.13,2.25
+566,567,88.17,2004,Role-Playing,Nintendo,Paper Mario: The Thousand-Year Door,1.48,0.25,0.46,0.06,2.25
+567,568,73.0,2011,Sports,Electronic Arts,Madden NFL 12,1.88,0.135,0.0,0.18,2.1950000000000003
+568,569,84.9,2009,Role-Playing,Nintendo,Monster Hunter Tri,0.62,0.385,1.05,0.11,2.17
+569,570,88.0,2008,Fighting,Square Enix,Dissidia: Final Fantasy,0.495,0.49,0.91,0.30499999999999994,2.205
+570,571,81.0,2001,Platform,Sega,Sonic Advance,1.19,0.71,0.22,0.13,2.24
+571,572,70.0,2001,Platform,Vivendi Games,Spyro: Season of Ice,1.29,0.83,0.0,0.11,2.23
+572,573,79.0,2008,Action,Activision,LEGO Indiana Jones: The Original Adventures,1.385,0.585,0.0,0.20500000000000002,2.175
+573,574,90.0,2003,Action,Ubisoft,Prince of Persia: The Sands of Time,0.88,1.03,0.0,0.31,2.22
+574,575,78.91,2009,Puzzle,Warner Bros. Interactive Entertainment,Scribblenauts,1.605,0.29500000000000004,0.02,0.175,2.09
+575,576,90.0,1998,Adventure,Nintendo,The Legend of Zelda: Link's Awakening DX,1.0,0.63,0.45,0.13,2.22
+576,577,84.0,2010,Racing,Electronic Arts,Need for Speed: Hot Pursuit,0.96,0.935,0.0,0.215,2.1100000000000003
+577,578,87.78,2010,Shooter,Take-Two Interactive,BioShock 2,1.385,0.52,0.02,0.19,2.115
+578,579,88.0,2006,Action,Capcom,Devil May Cry 3: Dante's Awakening Special Edition,1.06,0.82,0.05,0.28,2.21
+579,580,92.25,2008,Misc,Electronic Arts,Rock Band 2,1.76,0.22999999999999998,0.0,0.18,2.17
+580,581,90.0,2007,Misc,Activision,Guitar Hero II,1.9649999999999999,0.015,0.0,0.165,2.145
+581,582,90.0,2000,Platform,Nintendo,Wario Land 3,1.11,0.51,0.34,0.23,2.2
+582,583,77.0,2008,Platform,Sega,Sonic Unleashed,1.195,0.66,0.02,0.20500000000000002,2.085
+583,584,82.0,2011,Action,Konami Digital Entertainment,Pro Evolution Soccer 2012,0.33,0.9450000000000001,0.55,0.33,2.1550000000000002
+584,585,86.0,2006,Action,THQ,Saints Row,1.16,0.765,0.02,0.22,2.16
+585,586,93.0,2003,Role-Playing,Activision,Star Wars: Knights of the Old Republic,1.68,0.44,0.0,0.08,2.19
+586,587,80.0,1992,Misc,Nintendo,Kirby's Pinball Land,0.87,0.17,1.1,0.05,2.19
+587,588,86.0,2000,Platform,Nintendo,Donkey Kong Country,1.04,0.72,0.3,0.13,2.19
+588,589,84.83,2012,Action,Square Enix,Hitman: Absolution,0.505,0.91,0.060000000000000005,0.365,1.8399999999999999
+589,590,70.0,2000,Role-Playing,Konami Digital Entertainment,Yu-Gi-Oh: Duel Monsters 4,0.0,0.0,2.17,0.01,2.18
+590,591,81.02,2002,Racing,THQ,ATV Offroad Fury 2,1.92,0.2,0.0,0.06,2.18
+591,592,91.0,2003,Role-Playing,Nintendo,Mario & Luigi: Superstar Saga,1.48,0.17,0.47,0.06,2.17
+592,593,84.15,2010,Role-Playing,Square Enix,Final Fantasy XIII,1.2,0.645,0.01,0.195,2.0549999999999997
+593,594,84.0,1998,Simulation,Nintendo,Star Wars: Rogue Squadron,1.6,0.46,0.08,0.03,2.17
+594,595,69.0,1984,Sports,Nintendo,Tennis,0.48,0.11,1.56,0.02,2.17
+595,596,75.95,2001,Simulation,Electronic Arts,The Sims: House Party,1.23,0.83,0.0,0.1,2.16
+596,597,50.0,2009,Sports,Ubisoft,Your Shape featuring Jenny McCarthy,1.4,0.45999999999999996,0.0,0.18,2.04
+597,598,83.0,2000,Shooter,Sony Computer Entertainment,Syphon Filter 2,1.5,0.55,0.02,0.08,2.15
+598,599,54.0,1987,Sports,Nintendo,Volleyball,0.14,0.03,1.98,0.0,2.15
+599,600,64.65,2007,Shooter,Activision,Call of Duty: Roads to Victory,0.51,1.01,0.0,0.58,2.0949999999999998
+600,601,94.0,1996,Role-Playing,Nintendo,Super Mario RPG: Legend of the Seven Stars,0.66,0.0,1.45,0.03,2.14
+601,602,80.0,1983,Misc,Nintendo,Mahjong,0.01,0.0,2.13,0.0,2.14
+602,603,81.0,1992,Simulation,Maxis,SimCity 2000,1.2,0.84,0.0,0.1,2.14
+603,604,77.34999999999998,2004,Simulation,Konami Digital Entertainment,Dance Dance Revolution Extreme,1.04,0.81,0.0,0.27,2.13
+604,605,85.0,2006,Puzzle,Nintendo,Tetris DS,0.63,0.05,1.35,0.07500000000000001,2.0999999999999996
+605,606,87.64,2003,Role-Playing,SquareSoft,Final Fantasy Tactics Advance,0.82,0.37,0.89,0.05,2.13
+606,607,71.0,2010,Action,Disney Interactive Studios,Toy Story 3: The Video Game,0.835,0.9099999999999999,0.02,0.20500000000000002,1.965
+607,608,85.0,2006,Role-Playing,Square Enix,Final Fantasy III,0.88,0.035,1.07,0.08499999999999999,2.065
+608,609,84.0,2010,Platform,Nintendo,Kirby's Epic Yarn,1.325,0.16,0.45,0.12,2.06
+609,610,81.0,2001,Racing,Microsoft Game Studios,Project Gotham Racing,1.37,0.61,0.05,0.09,2.12
+610,611,77.0,1989,Sports,Nintendo,Golf,0.83,0.33,0.92,0.04,2.12
+611,612,85.0,2011,Sports,Take-Two Interactive,NBA 2K12,1.57,0.24,0.05,0.185,2.05
+612,613,83.98,2009,Shooter,Take-Two Interactive,Borderlands,1.13,0.5549999999999999,0.0,0.27,1.955
+613,614,88.0,2000,Sports,Activision,Tony Hawk's Pro Skater,1.68,0.4,0.0,0.03,2.11
+614,615,78.0,2008,Sports,Konami Digital Entertainment,PES 2009: Pro Evolution Soccer,0.10500000000000001,1.33,0.4,0.26,2.0949999999999998
+615,616,87.0,2002,Racing,Electronic Arts,Need for Speed: Hot Pursuit 2,1.68,0.31,0.02,0.09,2.11
+616,617,65.56,2010,Sports,Nintendo,Mario Sports Mix,0.875,0.43,0.63,0.135,2.065
+617,618,80.13,,Misc,MTV Games,Rock Band,1.33,0.55,0.0,0.2,2.08
+618,619,78.68,2003,Action,Tecmo Koei,Dynasty Warriors 4,0.63,0.21,1.13,0.13,2.11
+619,620,90.0,2011,Fighting,Warner Bros. Interactive Entertainment,Mortal Kombat,1.41,0.28500000000000003,0.0,0.14500000000000002,1.8399999999999999
+620,621,85.0,1998,Role-Playing,SquareSoft,Parasite Eve,0.94,0.07,1.05,0.04,2.1
+621,622,75.0,2002,Platform,THQ,Scooby-Doo! Night of 100 Frights,1.17,0.72,0.0,0.22,2.1
+622,623,81.0,2002,Action,Microsoft Game Studios,Project Gotham Racing (JP weekly sales),1.54,0.44,0.04,0.07,2.1
+623,624,78.0,2005,Racing,Electronic Arts,Need for Speed: Most Wanted 5-1-0,1.745,0.085,0.02,0.16,2.01
+624,625,91.0,2011,Shooter,Valve Software,Portal 2,1.245,0.445,0.01,0.16,1.865
+625,626,84.09,2005,Action,Capcom,Devil May Cry 3: Dante's Awakening,0.99,0.63,0.2899999999999999,0.19,2.09
+626,627,85.1,2006,Action,Capcom,Dead Rising,1.13,0.635,0.08,0.2,2.04
+627,628,57.0,2003,Action,THQ,Finding Nemo,1.26,0.6,0.05,0.18,2.09
+628,629,89.0,2010,Action,Take-Two Interactive,NBA 2K11,1.8050000000000002,0.11,0.01,0.14500000000000002,2.0599999999999996
+629,630,48.0,2009,Misc,Mindscape,Wipeout: The Game,1.875,0.0,0.0,0.135,2.005
+630,631,46.83,2006,Simulation,Electronic Arts,The Sims 2: Pets,0.915,0.9299999999999999,0.0,0.22,2.07
+631,632,88.98,2010,Action,Konami Digital Entertainment,Metal Gear Solid: Peace Walker,0.435,0.38,0.96,0.22999999999999998,2.005
+632,633,91.45,2010,Role-Playing,Activision,World of Warcraft: Cataclysm,1.74,0.735,0.0,0.215,2.685
+633,634,57.0,2002,Puzzle,THQ,Tetris Worlds,1.11,0.71,0.0,0.27,2.08
+634,635,72.0,2008,Racing,Electronic Arts,Need For Speed: Undercover,0.615,0.96,0.05,0.375,1.99
+635,636,70.92,2003,Misc,Nintendo,Mario Party 5,0.97,0.33,0.73,0.06,2.08
+636,637,79.0,1998,Strategy,Electronic Arts,Sim Theme Park,2.04,0.03,0.0,0.0,2.065
+637,638,83.0,1994,Strategy,Activision,Warcraft: Orcs & Humans,0.89,1.08,0.0,0.11,2.08
+638,639,82.0,2010,Sports,Electronic Arts,Skate 3,0.675,0.73,0.0,0.27999999999999997,1.685
+639,640,57.0,2002,Shooter,Take-Two Interactive,Spec Ops: Airborne Commando,1.54,0.46,0.0,0.08,2.07
+640,641,82.13,2010,Role-Playing,Square Enix,Kingdom Hearts: Birth by Sleep,0.595,0.385,0.75,0.245,1.9749999999999999
+641,642,85.0,2009,Fighting,THQ,UFC 2009 Undisputed,1.46,0.385,0.0,0.185,2.035
+642,643,88.48,2011,Role-Playing,Namco Bandai Games,Dark Souls,0.625,0.415,0.53,0.185,1.7599999999999998
+643,644,78.0,2001,Strategy,Konami Digital Entertainment,Yu-Gi-Oh! The Eternal Duelist Soul,1.64,0.36,0.0,0.07,2.07
+644,645,71.0,2007,Racing,Electronic Arts,Need for Speed: ProStreet,1.03,0.78,0.01,0.215,2.0300000000000002
+645,646,80.67,2010,Simulation,Electronic Arts,The Sims 3,0.575,0.695,0.02,0.26,1.55
+646,647,86.5,2010,Action,Ubisoft,Tom Clancy's Splinter Cell: Conviction,1.155,0.64,0.04,0.195,2.0300000000000002
+647,648,66.0,2004,Action,THQ,The Incredibles,1.15,0.77,0.04,0.1,2.06
+648,649,86.0,1998,Racing,Namco Bandai Games,R4: Ridge Racer Type 4,0.68,0.46,0.79,0.13,2.06
+649,650,88.0,2003,Fighting,Namco Bandai Games,SoulCalibur II,1.06,0.62,0.13,0.25,2.06
+650,651,74.0,2007,Racing,Electronic Arts,Need for Speed: ProStreet,0.715,0.895,0.04,0.36,2.005
+651,652,64.01,2005,Role-Playing,Nintendo,Pokémon Mystery Dungeon: Blue Rescue Team,1.145,0.034999999999999996,0.83,0.0,2.0149999999999997
+652,653,76.39,2002,Misc,Infogrames,Sonic Mega Collection,1.47,0.48,0.05,0.06,2.05
+653,654,85.0,1992,Sports,Arena Entertainment,NBA Jam,1.75,0.25,0.0,0.05,2.05
+654,655,84.0,2007,Racing,Microsoft Game Studios,PGR4 - Project Gotham Racing 4,0.46499999999999997,1.27,0.02,0.25,2.01
+655,656,87.0,2009,Role-Playing,Square Enix,Kingdom Hearts 358/2 Days,1.05,0.25,0.53,0.135,1.96
+656,657,86.55,2011,Misc,Microsoft Game Studios,Dance Central 2,1.395,0.4,0.01,0.165,1.97
+657,658,78.0,2008,Misc,Ubisoft,Rayman Raving Rabbids: TV Party,0.72,1.06,0.0,0.225,2.0
+658,659,73.04,2006,Shooter,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs: Combined Assault,1.74,0.02,0.0,0.28,2.04
+659,660,83.0,2005,Action,Ubisoft,Peter Jackson's King Kong: The Official Game of the Movie,0.71,1.02,0.0,0.31,2.04
+660,661,84.0,2003,Platform,Nintendo,Donkey Kong Country,1.2,0.48,0.2899999999999999,0.07,2.04
+661,662,72.0,2011,Action,Electronic Arts,Need for Speed: The Run,0.5349999999999999,0.9850000000000001,0.03,0.355,1.9100000000000001
+662,663,89.6,1998,Sports,Nintendo,1080°: TenEighty Snowboarding,1.25,0.61,0.13,0.05,2.03
+663,664,69.7,2011,Misc,Ubisoft,Just Dance 3,1.43,0.37,0.0,0.165,1.9649999999999999
+664,665,83.83,2003,Sports,Electronic Arts,NBA Live 2004,1.57,0.18,0.0,0.27,2.03
+665,666,89.05,2008,Action,Electronic Arts,Dead Space,1.025,0.63,0.0,0.29000000000000004,1.94
+666,667,89.78,2005,Shooter,Activision,Call of Duty 2,1.7349999999999999,0.035,0.01,0.14500000000000002,1.925
+667,668,77.0,2007,Puzzle,Midway Games,TouchMaster,0.48,1.26,0.0,0.245,1.9899999999999998
+668,669,87.0,1993,Fighting,Nintendo,Super Street Fighter II,0.52,0.16,1.29,0.03,2.0
+669,670,84.26,1997,Action,Activision,Tenchu: Stealth Assassins,0.95,0.64,0.27,0.13,1.99
+670,671,70.0,2002,Action,Electronic Arts,Harry Potter and the Chamber of Secrets,1.21,0.64,0.05,0.09,1.99
+671,672,72.0,2002,Action,Electronic Arts,Harry Potter and the Chamber of Secrets,0.75,1.09,0.02,0.12,1.98
+672,673,82.0,1991,Simulation,Nintendo,SimCity,0.93,0.27,0.75,0.04,1.98
+673,674,69.03,2012,Shooter,Capcom,Resident Evil 6,0.9850000000000001,0.5549999999999999,0.060000000000000005,0.155,1.76
+674,675,82.0,2010,Platform,Sega,Sonic Classic Collection,0.8200000000000001,0.685,0.0,0.16499999999999998,1.67
+675,676,47.0,2002,Platform,Universal Interactive,Spyro: Enter the Dragonfly,0.74,0.95,0.0,0.28,1.97
+676,677,85.57,2008,Shooter,Activision,Call of Duty: World at War,1.165,0.5700000000000001,0.0,0.185,1.92
+677,678,73.61,2003,Action,Capcom,Devil May Cry 2,0.71,0.5799999999999998,0.51,0.17,1.97
+678,679,87.78,2008,Racing,Electronic Arts,Burnout Paradise,0.98,0.5800000000000001,0.02,0.28,1.865
+679,680,86.0,2004,Sports,Sony Computer Entertainment,Hot Shots Golf: Open Tee,0.485,0.5,0.63,0.325,1.94
+680,681,78.0,1986,Racing,Nintendo,Rad Racer,1.13,0.37,0.41,0.05,1.96
+681,682,51.0,1985,Sports,Nintendo,Soccer,0.18,0.23,1.53,0.02,1.96
+682,683,72.23999999999998,2006,Platform,Nintendo,Kirby Squeak Squad,0.78,0.02,1.05,0.08,1.935
+683,684,89.39,2006,Shooter,Ubisoft,Tom Clancy's Rainbow Six: Vegas,1.0750000000000002,0.64,0.02,0.195,1.935
+684,685,67.02,2003,Racing,Vivendi Games,Crash Nitro Kart,0.74,1.01,0.0,0.2,1.95
+685,686,92.29,2005,Action,Take-Two Interactive,Grand Theft Auto: San Andreas,1.26,0.61,0.0,0.09,1.95
+686,687,82.0,1994,Shooter,LucasArts,Star Wars: Dark Forces,1.09,0.77,0.0,0.09,1.95
+687,688,88.0,2003,Sports,Electronic Arts,NBA Street Vol. 2,1.69,0.2,0.0,0.06,1.95
+688,689,80.06999999999998,2003,Fighting,Electronic Arts,Def Jam Vendetta,0.95,0.74,0.0,0.25,1.94
+689,690,88.0,2008,Sports,Electronic Arts,FIFA Soccer 09,0.485,1.255,0.01,0.18,1.93
+690,691,62.78,1999,Misc,Disney Interactive Studios,Who wants to be a millionaire,1.94,0.695,0.0,0.08,2.715
+691,692,65.0,2001,Adventure,THQ,Scooby Doo and the Cyber Chase,0.59,1.23,0.0,0.13,1.94
+692,693,54.62,1989,Puzzle,Nintendo,Alleyway,0.96,0.38,0.55,0.05,1.94
+693,694,91.0,2004,Fighting,Atari,Dragon Ball Z: Budokai 3,1.09,0.15,0.65,0.04,1.94
+694,695,81.0,1997,Racing,Sony Computer Entertainment,Jet Moto 2,1.41,0.42,0.03,0.07,1.94
+695,696,67.03,2002,Shooter,Ubisoft,Tom Clancy's Ghost Recon,1.42,0.4,0.0,0.12,1.94
+696,697,85.0,2004,Role-Playing,Activision,X-Men Legends,1.0,0.72,0.0,0.21,1.93
+697,698,83.41,2008,Misc,Activision,Guitar Hero: World Tour,1.07,0.535,0.0,0.265,1.87
+698,699,86.0,1993,Fighting,Acclaim Entertainment,Mortal Kombat II,1.48,0.39,0.0,0.06,1.93
+699,700,92.5,1995,Fighting,Sega,Virtua Fighter 2,0.34,0.26,1.3,0.03,1.93
+700,701,90.0,1998,Puzzle,Nintendo,Tetris DX,1.06,0.6,0.2,0.07,1.93
+701,702,69.72,2008,Sports,Nintendo,Mario Super Sluggers,1.46,0.0,0.2899999999999999,0.125,1.88
+702,703,91.0,2001,Action,Nintendo,The Legend of Zelda: Oracle of Ages,0.92,0.53,0.41,0.06,1.92
+703,704,71.0,2009,Racing,Electronic Arts,Need for Speed: Shift,0.7050000000000001,0.9450000000000001,0.01,0.215,1.87
+704,705,85.0,2001,Shooter,THQ,Red Faction,0.76,0.96,0.0,0.2,1.92
+705,706,78.37,2003,Simulation,Electronic Arts,The Sims: Makin' Magic,1.03,0.8,0.0,0.09,1.92
+706,707,78.75,2004,Racing,THQ,MX Unleashed,0.94,0.73,0.0,0.25,1.92
+707,708,83.0,1996,Misc,Sony Computer Entertainment,PaRappa The Rapper,0.26,0.16,1.46,0.03,1.92
+708,709,55.36,2009,Misc,Disney Interactive Studios,Toy Story Mania!,0.9750000000000001,0.64,0.0,0.175,1.795
+709,710,82.0,2000,Misc,Nintendo,Mario Party 3,0.72,0.16,1.01,0.02,1.91
+710,711,80.0,2008,Action,LucasArts,Star Wars: The Force Unleashed,1.095,0.5449999999999999,0.0,0.185,1.83
+711,712,46.0,2008,Misc,Midway Games,Game Party 2,1.27,0.43,0.0,0.17,1.87
+712,713,77.0,2011,Action,LucasArts,LEGO Star Wars III: The Clone Wars,0.95,0.535,0.0,0.15000000000000002,1.635
+713,714,88.0,2001,Simulation,LucasArts,Star Wars Rogue Leader: Rogue Squadron II,1.03,0.75,0.03,0.09,1.9
+714,715,84.75,2012,Shooter,Take-Two Interactive,Max Payne 3,0.505,0.73,0.06,0.265,1.565
+715,716,79.0,2008,Sports,Electronic Arts,Madden NFL 09,1.5550000000000002,0.135,0.0,0.175,1.865
+716,717,90.0,2009,Platform,Sony Computer Entertainment,Ratchet & Clank Future: A Crack in Time,1.01,0.495,0.03,0.245,1.785
+717,718,68.0,1999,Role-Playing,Konami Digital Entertainment,Yu-Gi-Oh! Forbidden Memories,1.37,0.44,0.0,0.08,1.88
+718,719,87.0,2004,Fighting,Midway Games,Mortal Kombat: Deception,0.92,0.72,0.0,0.24,1.88
+719,720,82.0,1999,Sports,Sony Computer Entertainment,Hot Shots Golf 2,0.25,0.12,1.48,0.03,1.88
+720,721,81.0,2005,Shooter,Electronic Arts,Medal of Honor: European Assault (All Region sales),0.89,0.69,0.09,0.21,1.88
+721,722,56.4,1998,Fighting,THQ,WCW Nitro,1.42,0.36,0.03,0.07,1.88
+722,723,82.0,2002,Adventure,Nintendo,Star Fox Adventures,0.96,0.53,0.3,0.09,1.87
+723,724,87.27,1998,Sports,Electronic Arts,FIFA 2000,0.22,1.47,0.04,0.14,1.87
+724,725,77.33,2001,Action,THQ,Dynasty Warriors 3,0.53,0.16,1.07,0.1,1.87
+725,726,91.0,2001,Adventure,Nintendo,The Legend of Zelda: Oracle of Seasons,0.87,0.52,0.41,0.06,1.86
+726,727,84.2,2005,Sports,Electronic Arts,Madden NFL 06,1.75,0.03,0.0,0.08,1.86
+727,728,70.0,2004,Platform,Activision,Shrek 2,1.12,0.69,0.03,0.02,1.86
+728,729,89.0,1999,Role-Playing,Sony Computer Entertainment,The Legend of Dragoon,0.94,0.44,0.39,0.1,1.86
+729,730,89.41,1997,Platform,Acclaim Entertainment,Turok 2: Seeds of Evil,1.37,0.41,0.04,0.04,1.86
+730,731,78.0,2004,Misc,Sony Computer Entertainment,SingStar,0.0,1.37,0.0,0.49,1.86
+731,732,70.49,2001,Sports,Electronic Arts,NBA Live 2002,0.91,0.71,0.0,0.24,1.86
+732,733,71.0,2009,Action,Disney Interactive Studios,Phineas and Ferb,1.295,0.36,0.0,0.155,1.81
+733,734,92.18,1999,Role-Playing,SquareSoft,Chrono Cross,0.62,0.42,0.69,0.12,1.86
+734,735,83.67,2010,Action,Activision,GoldenEye 007 (2010),0.825,0.6799999999999999,0.13,0.165,1.8
+735,736,85.42,2004,Platform,Sony Computer Entertainment,Jak 3,1.33,0.49,0.0,0.03,1.85
+736,737,77.0,2007,Misc,Ubisoft,Rayman Raving Rabbids 2,0.815,0.8049999999999999,0.0,0.195,1.815
+737,738,77.54,2004,Role-Playing,Square Enix,Kingdom Hearts: Chain of Memories,1.26,0.18,0.35,0.06,1.85
+738,739,46.0,1984,Action,Nintendo,Pinball,0.8,0.19,0.83,0.03,1.85
+739,740,84.37,2011,Action,Sony Computer Entertainment,inFAMOUS 2,0.98,0.425,0.08,0.21500000000000002,1.7000000000000002
+740,741,89.72,2009,Role-Playing,Namco Bandai Games,Demon's Souls,0.915,0.32,0.345,0.175,1.76
+741,742,87.69,2005,Sports,Electronic Arts,NCAA Football 06,1.53,0.05,0.0,0.25,1.84
+742,743,68.0,1998,Simulation,Nintendo,"Hey You, Pikachu!",0.83,0.06,0.93,0.0,1.83
+743,744,90.0,2012,Role-Playing,Activision,World of Warcraft: Mists of Pandaria,0.7,0.655,0.0,0.20500000000000002,1.565
+744,745,77.0,1996,Racing,Sony Computer Entertainment,Jet Moto,1.33,0.4,0.03,0.07,1.83
+745,746,92.0,1993,Role-Playing,SquareSoft,Secret of Mana,0.25,0.07,1.49,0.02,1.83
+746,747,96.36,2007,Shooter,Electronic Arts,The Orange Box,1.065,0.51,0.02,0.17,1.77
+747,748,60.0,1995,Simulation,Sony Computer Entertainment,Air Combat,0.92,0.33,0.52,0.05,1.83
+748,749,90.0,1994,Platform,Sega,Sonic & Knuckles,1.24,0.43,0.03,0.12,1.82
+749,750,59.85,2001,Misc,Namco Bandai Games,Namco Museum,1.73,0.07,0.0,0.02,1.82
+750,751,85.54,2001,Simulation,Electronic Arts,The Sims: Hot Date,1.81,0.0,0.0,0.0,1.815
+751,752,90.23,2007,Shooter,Nintendo,Metroid Prime 3: Corruption,0.89,0.64,0.07,0.125,1.73
+752,753,83.0,2010,Role-Playing,Nintendo,Dragon Quest VI: Realms of Revelation,0.195,0.135,1.35,0.025,1.71
+753,754,82.35,2003,Simulation,Konami Digital Entertainment,DDRMAX2: Dance Dance Revolution,1.05,0.59,0.0,0.18,1.81
+754,755,90.27,2000,Racing,Sega,Crazy Taxi,1.1,0.51,0.12,0.08,1.81
+755,756,91.33,2002,Fighting,Sega,Virtua Fighter 4,0.78,0.44,0.56,0.04,1.81
+756,757,89.0,2004,Platform,Sony Computer Entertainment,Sly 2: Band of Thieves,0.88,0.69,0.0,0.23,1.81
+757,758,83.0,2002,Platform,Sega,Sonic Advance 2,0.93,0.59,0.21,0.07,1.8
+758,759,81.9,2006,Sports,Electronic Arts,Madden NFL 07,1.65,0.0,0.01,0.13,1.79
+759,760,87.0,2010,Action,Take-Two Interactive,NBA 2K11,1.375,0.195,0.03,0.165,1.76
+760,761,78.0,1999,Sports,989 Studios,NFL GameDay 2000,1.0,0.68,0.0,0.12,1.8
+761,762,53.53,2012,Action,Microsoft Game Studios,Kinect Star Wars,0.925,0.45999999999999996,0.03,0.13,1.545
+762,763,85.85,2003,Racing,Take-Two Interactive,Midnight Club II,1.25,0.2899999999999999,0.0,0.24,1.78
+763,764,76.52,2006,Role-Playing,Square Enix,Dragon Quest Monsters: Joker,0.225,0.02,1.49,0.025,1.76
+764,765,63.0,2001,Action,THQ,SpongeBob SquarePants: SuperSponge,1.12,0.5799999999999998,0.0,0.08,1.78
+765,766,73.0,2004,Action,Sony Computer Entertainment,The Getaway: Black Monday,0.39,1.01,0.02,0.36,1.78
+766,767,84.0,2011,Puzzle,Nintendo,Professor Layton and the Mask of Miracle,0.25,0.69,0.36,0.1,1.4100000000000001
+767,768,83.55,2010,Action,Square Enix,Just Cause 2,0.41500000000000004,0.8899999999999999,0.06,0.30999999999999994,1.675
+768,769,79.56999999999998,2012,Role-Playing,Capcom,Dragon's Dogma,0.3,0.31,0.61,0.13,1.345
+769,770,47.38,2005,Action,Vivendi Games,50 Cent: Bulletproof,0.85,0.76,0.0,0.16,1.77
+770,771,90.0,1991,Role-Playing,Square,Final Fantasy II,0.24,0.09,1.33,0.12,1.77
+771,772,74.48999999999998,2000,Platform,Nintendo,Kirby 64: The Crystal Shards,0.63,0.06,1.03,0.04,1.77
+772,773,86.18,2001,Fighting,Microsoft Game Studios,Dead or Alive 3,1.19,0.2899999999999999,0.24,0.06,1.77
+773,774,85.0,2009,Fighting,THQ,UFC 2009 Undisputed,1.0550000000000002,0.435,0.01,0.235,1.7349999999999999
+774,775,83.0,1991,Adventure,Nintendo,Metroid II: Return of Samus,0.85,0.31,0.56,0.04,1.76
+775,776,76.0,1998,Fighting,Acclaim Entertainment,WWF Attitude,1.27,0.42,0.0,0.07,1.76
+776,777,71.89,2004,Platform,THQ,The SpongeBob SquarePants Movie,1.06,0.54,0.0,0.16,1.76
+777,778,89.1,2001,Role-Playing,Nintendo,Golden Sun,0.93,0.38,0.4,0.06,1.76
+778,779,90.0,1994,Platform,Sega,Sonic the Hedgehog 3,1.02,0.47,0.2,0.07,1.76
+779,780,80.0,1986,Platform,Nintendo,Kid Icarus,0.53,0.12,1.09,0.02,1.76
+780,781,84.55,2004,Fighting,Electronic Arts,Def Jam: Fight for NY,0.86,0.67,0.0,0.22,1.76
+781,782,85.31,2002,Shooter,Ubisoft,Tom Clancy's Ghost Recon,1.23,0.46,0.0,0.07,1.76
+782,783,70.0,2002,Action,Take-Two Interactive,State of Emergency,0.86,0.67,0.0,0.22,1.76
+783,784,79.39,2012,Action,Square Enix,Hitman: Absolution,0.6100000000000001,0.79,0.01,0.16,1.575
+784,785,70.6,2004,Simulation,Electronic Arts,The Urbz: Sims in the City,0.52,0.95,0.0,0.2899999999999999,1.76
+785,786,82.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.35,1.0550000000000002,0.02,0.315,1.7349999999999999
+786,787,78.0,2001,Simulation,Activision,Star Wars: Starfighter,0.61,0.87,0.02,0.26,1.76
+787,788,83.0,1998,Sports,Electronic Arts,Madden NFL 2000,1.68,0.04,0.0,0.04,1.75
+788,789,85.0,2001,Sports,Konami Digital Entertainment,Pro Evolution Soccer,0.06,0.9,0.53,0.27,1.75
+789,790,83.35,2007,Shooter,Microsoft Game Studios,Crackdown,0.985,0.525,0.03,0.18,1.72
+790,791,72.0,1991,Puzzle,Nintendo,Yoshi,0.7749999999999999,0.16,0.91,0.02,1.865
+791,792,81.0,1993,Platform,Capcom,Disney's Aladdin,0.94,0.34,0.21,0.27,1.75
+792,793,86.0,1993,Platform,Nintendo,Kirby's Adventure,0.79,0.14,0.8,0.02,1.75
+793,794,67.0,1999,Adventure,LucasArts,Star Wars Episode I: The Phantom Menace,0.72,0.89,0.04,0.1,1.74
+794,795,83.87,2002,Role-Playing,Namco Bandai Games,Xenosaga Episode I: Der Wille zur Macht,0.63,0.49,0.45,0.17,1.74
+795,796,91.0,2011,Shooter,Valve,Portal 2,0.7749999999999999,0.54,0.02,0.22999999999999998,1.5699999999999998
+796,797,85.0,2009,Misc,MTV Games,The Beatles: Rock Band,1.165,0.385,0.0,0.155,1.7
+797,798,84.0,2010,Platform,Sega,Sonic Colors,0.865,0.565,0.01,0.155,1.595
+798,799,77.0,1998,Sports,Electronic Arts,Madden NFL 99,1.66,0.04,0.0,0.04,1.74
+799,800,84.0,2011,Shooter,Sony Computer Entertainment,Uncharted: Golden Abyss,0.475,0.55,0.125,0.18,1.335
+800,801,92.54,2001,Sports,Electronic Arts,SSX Tricky,0.85,0.66,0.0,0.22,1.73
+801,802,48.97,1998,Action,989 Studios,Twisted Metal III,1.48,0.2,0.0,0.05,1.73
+802,803,72.0,2001,Action,Electronic Arts,Harry Potter and the Sorcerer's Stone,0.94,0.62,0.1,0.07,1.73
+803,804,89.09,2012,Action,Bethesda Softworks,Dishonored,0.9,0.445,0.01,0.13,1.4849999999999999
+804,805,87.0,2003,Action,Take-Two Interactive,Rockstar Games Double Pack: Grand Theft Auto III & Grand Theft Auto Vice City,0.85,0.66,0.0,0.22,1.72
+805,806,85.0,2008,Shooter,Activision,Call of Duty: World at War Final Fronts,0.61,0.535,0.0,0.58,1.72
+806,807,50.0,2008,Simulation,Ubisoft,Imagine: Teacher,0.69,0.8200000000000001,0.0,0.19,1.705
+807,808,86.0,2004,Sports,Electronic Arts,Madden NFL 2005,1.61,0.03,0.0,0.08,1.72
+808,809,87.0,2003,Role-Playing,Ubisoft,Star Ocean: Till The End of Time,0.8,0.21,0.55,0.15,1.72
+809,810,81.5,2010,Simulation,Electronic Arts,The Sims 3: Late Night Expansion Pack,0.5549999999999999,0.75,0.0,0.225,1.5350000000000001
+810,811,52.0,2009,Puzzle,Warner Bros. Interactive Entertainment,Game Party 3,1.345,0.15000000000000002,0.0,0.125,1.615
+811,812,79.0,1998,Platform,Activision,Toy Story 2: Buzz Lightyear to the Rescue!,0.99,0.64,0.0,0.08,1.71
+812,813,84.9,2004,Simulation,Sony Computer Entertainment Europe,Ace Combat 5: The Unsung War,0.88,0.34,0.32,0.18,1.71
+813,814,82.0,2003,Racing,Electronic Arts,Need for Speed Underground,1.09,0.55,0.0,0.07,1.71
+814,815,57.0,2001,Puzzle,THQ,Tetris Worlds,1.25,0.39,0.0,0.06,1.71
+815,816,79.0,2009,Sports,Electronic Arts,FIFA Soccer 10,0.23,0.7,0.0,0.77,1.7
+816,817,68.3,2008,Sports,Namco Bandai Games,We Ski,0.97,0.4,0.14,0.15,1.665
+817,818,75.0,2007,Puzzle,Nintendo,Personal Trainer: Math,0.48,1.11,0.0,0.08499999999999999,1.6749999999999998
+818,819,85.0,2011,Platform,Nintendo,Kirby's Return to Dreamland,0.5700000000000001,0.195,0.775,0.07500000000000001,1.615
+819,820,94.0,1993,Puzzle,Banpresto,Super Puyo Puyo,0.0,0.0,1.69,0.01,1.7
+820,821,61.75,2007,Action,D3Publisher,Ben 10: Protector of Earth,0.685,0.8200000000000001,0.0,0.19,1.69
+821,822,89.0,2006,Sports,Electronic Arts,NCAA Football 07,1.41,0.05,0.0,0.23,1.7
+822,823,80.86,2005,Shooter,Sony Computer Entertainment,SOCOM 3: U.S. Navy SEALs,1.22,0.34,0.04,0.1,1.69
+823,824,85.0,2008,Action,THQ,Saints Row 2,0.865,0.515,0.02,0.245,1.645
+824,825,75.0,1999,Misc,Sony Computer Entertainment,Jampack Winter '99,0.94,0.64,0.0,0.11,1.69
+825,826,86.39,2009,Role-Playing,Electronic Arts,Dragon Age: Origins,0.9199999999999999,0.395,0.08,0.20500000000000002,1.595
+826,827,75.11,1997,Fighting,THQ,WCW vs. nWo: World Tour,1.37,0.28,0.03,0.02,1.69
+827,828,57.57,1998,Fighting,THQ,WCW/NWO Thunder,1.1,0.48,0.04,0.07,1.69
+828,829,60.0,2001,Action,Electronic Arts,Harry Potter and the Sorcerer's Stone,0.87,0.66,0.08,0.08,1.69
+829,830,75.0,2008,Racing,Electronic Arts,Need For Speed: Undercover,0.7350000000000001,0.685,0.01,0.175,1.605
+830,831,51.08,2002,Role-Playing,Infogrames,Dragon Ball Z: The Legacy of Goku,1.52,0.12,0.0,0.05,1.69
+831,832,81.0,2010,Strategy,Take-Two Interactive,Sid Meier's Civilization V,0.835,0.505,0.0,0.185,1.53
+832,833,95.83,2005,Action,Capcom,Resident Evil 4,0.98,0.42,0.22,0.06,1.69
+833,834,83.0,2007,Shooter,LucasArts,Star Wars Battlefront: Renegade Squadron,0.89,0.45499999999999996,0.0,0.315,1.65
+834,835,71.35,2006,Misc,Oxygen Interactive,World Championship Poker: Featuring Howard Lederer - All In,0.82,0.64,0.0,0.22,1.68
+835,836,76.0,1997,Sports,Sony Computer Entertainment,NFL GameDay 98,1.58,0.06,0.0,0.04,1.68
+836,837,79.54,2012,Action,Warner Bros. Interactive Entertainment,LEGO Batman 2: DC Super Heroes,0.69,0.485,0.0,0.12,1.295
+837,838,75.0,1992,Puzzle,Nintendo,Yoshi's Cookie,0.59,0.24,0.82,0.03,1.68
+838,839,85.5,1997,Shooter,Namco Bandai Games,Time Crisis,0.38,0.87,0.33,0.1,1.68
+839,840,76.98,2003,Simulation,Electronic Arts,The Sims: Superstar,1.67,0.0,0.0,0.0,1.68
+840,841,68.0,2008,Action,LucasArts,Star Wars The Clone Wars: Lightsaber Duels,1.2,0.28500000000000003,0.0,0.14,1.63
+841,842,85.0,2007,Simulation,Electronic Arts,MySims,0.895,0.525,0.04,0.165,1.63
+842,843,91.44,2002,Action,Nintendo,Metroid Fusion,1.18,0.27,0.17,0.06,1.68
+843,844,77.61,2008,Sports,Ubisoft,Shaun White Snowboarding: Road Trip,0.9299999999999999,0.56,0.0,0.165,1.645
+844,845,92.28,2003,Sports,Electronic Arts,SSX 3,0.93,0.52,0.0,0.22,1.67
+845,846,45.12,2008,Sports,THQ,Big Beach Sports,0.445,1.01,0.0,0.2,1.65
+846,847,82.0,2000,Sports,Electronic Arts,Madden NFL 2001,1.58,0.05,0.0,0.04,1.67
+847,848,81.73,2006,Fighting,Electronic Arts,Fight Night Round 3,0.805,0.58,0.01,0.26,1.65
+848,849,82.0,1989,Platform,Capcom,Disney's DuckTales,0.91,0.3,0.42,0.04,1.67
+849,850,87.0,2001,Sports,Activision,Tony Hawk's Pro Skater 3,1.09,0.49,0.02,0.07,1.67
+850,851,46.0,2001,Adventure,THQ,"Monsters, Inc.",0.59,0.95,0.03,0.1,1.67
+851,852,88.0,2003,Racing,Microsoft Game Studios,PGR: Project Gotham Racing 2,0.97,0.59,0.04,0.07,1.67
+852,853,75.0,2001,Racing,Midway Games,Spy Hunter,1.13,0.32,0.0,0.22,1.67
+853,854,89.45,2003,Sports,Electronic Arts,NCAA Football 2004,1.35,0.09,0.0,0.23,1.67
+854,855,79.0,2003,Platform,THQ,SpongeBob SquarePants: Battle for Bikini Bottom,1.08,0.45,0.0,0.14,1.67
+855,856,80.45,2007,Action,Sony Computer Entertainment,Heavenly Sword,0.56,0.71,0.06,0.29000000000000004,1.615
+856,857,84.0,1992,Fighting,Sega,Street Fighter II': Special Champion Edition,1.0,0.3,0.31,0.04,1.66
+857,858,92.17,2000,Sports,Electronic Arts,SSX,0.78,0.61,0.06,0.2,1.66
+858,859,84.75,2012,Shooter,Take-Two Interactive,Max Payne 3,0.79,0.515,0.01,0.13,1.455
+859,860,83.0,2004,Sports,Midway Games,NBA Ballers,0.81,0.63,0.0,0.21,1.66
+860,861,81.0,2006,Racing,Electronic Arts,Need for Speed Carbon,0.745,0.6799999999999999,0.02,0.175,1.62
+861,862,82.84,2002,Sports,Electronic Arts,NBA Live 2003,1.25,0.15,0.03,0.22,1.66
+862,863,76.86,2005,Fighting,Atari,Dragon Ball Z: Budokai Tenkaichi,0.96,0.12,0.54,0.04,1.66
+863,864,73.23,2004,Misc,Nintendo,Mario Party 6,0.9,0.11,0.6,0.05,1.65
+864,865,69.0,1991,Shooter,Nintendo,Super Scope 6,1.06,0.38,0.15,0.05,1.65
+865,866,66.0,2011,Misc,Namco Bandai Games,Go Vacation,0.4,0.575,0.325,0.13,1.435
+866,867,74.56,2008,Shooter,Electronic Arts,Army of Two,1.0750000000000002,0.37,0.02,0.155,1.62
+867,868,79.88,2007,Role-Playing,Square Enix,Dragon Quest IV: Chapters of the Chosen,0.30499999999999994,0.015,1.27,0.03,1.615
+868,869,77.54,2004,Platform,Nintendo,Kirby & the Amazing Mirror,0.8,0.05,0.76,0.03,1.64
+869,870,74.95999999999998,2011,Action,Disney Interactive Studios,LEGO Pirates of the Caribbean: The Video Game,0.6799999999999999,0.62,0.0,0.14500000000000002,1.4449999999999998
+870,871,48.07,1999,Shooter,Red Storm Entertainment,Tom Clancy's Rainbow Six,0.93,0.63,0.0,0.08,1.64
+871,872,76.0,1986,Action,Capcom,Ghosts 'n Goblins,0.74,0.26,0.61,0.03,1.64
+872,873,87.9,2002,Sports,Electronic Arts,Tiger Woods PGA Tour 2003,0.8,0.63,0.0,0.21,1.64
+873,874,81.0,2005,Sports,Electronic Arts,NBA Live 06 (All region sales),1.44,0.15,0.0,0.05,1.64
+874,875,89.0,2004,Action,Ubisoft,Prince of Persia: Warrior Within,0.54,0.88,0.0,0.22,1.64
+875,876,67.0,2010,Simulation,Microsoft Game Studios,Kinectimals,0.94,0.43,0.0,0.135,1.5099999999999998
+876,877,90.52,2004,Sports,Sega,ESPN NFL 2K5,1.54,0.02,0.0,0.07,1.63
+877,878,85.37,2006,Simulation,Microsoft Game Studios,Viva Pinata,0.44,0.94,0.02,0.195,1.6
+878,879,85.0,2001,Strategy,Nintendo,Pikmin,0.78,0.25,0.56,0.04,1.63
+879,880,78.09999999999998,,Shooter,Activision,Call of Duty: Black Ops,0.5549999999999999,0.755,0.0,0.22999999999999998,1.535
+880,881,79.29,2011,Platform,Sega,Sonic Generations,0.475,0.58,0.02,0.22500000000000003,1.2999999999999998
+881,882,90.11,2003,Sports,Electronic Arts,Tiger Woods PGA Tour 2004,1.18,0.34,0.0,0.1,1.63
+882,883,90.44,1999,Platform,Sony Computer Entertainment,Ape Escape,0.71,0.48,0.32,0.11,1.63
+883,884,89.45,2004,Sports,Electronic Arts,NCAA Football 2005,1.32,0.09,0.0,0.22,1.62
+884,885,82.63,2010,Action,Square Enix,Just Cause 2,0.5449999999999999,0.7949999999999999,0.02,0.165,1.5150000000000001
+885,886,91.23,,Misc,Electronic Arts,Rock Band,0.975,0.4,0.0,0.215,1.585
+886,887,84.0,2005,Sports,Activision,Tony Hawk's American Wasteland (Old all region sales),0.8,0.63,0.01,0.19,1.62
+887,888,81.0,2011,Shooter,Bethesda Softworks,Rage,0.7849999999999999,0.575,0.03,0.15,1.545
+888,889,80.0,2006,Sports,Nintendo,Mario Hoops 3 on 3,0.98,0.03,0.49,0.095,1.5950000000000002
+889,890,65.58,2003,Racing,Nintendo,Kirby Air Ride,1.01,0.11,0.45,0.04,1.62
+890,891,81.0,1998,Racing,Electronic Arts,Sled Storm,0.9,0.61,0.0,0.11,1.62
+891,892,85.0,2004,Sports,Electronic Arts,NFL Street 2,0.79,0.62,0.0,0.21,1.61
+892,893,82.0,1998,Strategy,Konami Digital Entertainment,Yu-Gi-Oh! Duel Monsters,0.0,0.0,1.61,0.01,1.61
+893,894,84.0,2005,Sports,Nintendo,Super Mario Strikers,0.98,0.38,0.2,0.04,1.61
+894,895,65.0,2005,Misc,Sony Computer Entertainment,Buzz! The Music Quiz,0.0,1.18,0.0,0.43,1.61
+895,896,70.0,2007,Action,THQ,SpongeBob's Atlantis SquarePantis,1.46,0.0,0.0,0.11499999999999999,1.5750000000000002
+896,897,55.0,2011,Misc,Activision,Moshi Monsters: Moshling Zoo,0.35,0.9099999999999999,0.0,0.19,1.445
+897,898,84.42,2008,Action,Ubisoft,Far Cry 2,0.7,0.675,0.02,0.175,1.57
+898,899,75.39,1998,Racing,Video System,F-1 World Grand Prix,0.46,0.96,0.09,0.08,1.6
+899,900,89.0,1999,Action,Konami Digital Entertainment,Silent Hill,0.71,0.48,0.3,0.1,1.6
+900,901,87.0,2008,Role-Playing,Square Enix,Dragon Quest V: Hand of the Heavenly Bride,0.16999999999999998,0.015,1.36,0.015,1.565
+901,902,74.68,2003,Platform,Sega,Sonic Heroes,1.05,0.44,0.06,0.04,1.6
+902,903,82.19,2004,Sports,Global Star,ESPN NBA 2K5,1.26,0.12,0.0,0.21,1.59
+903,904,89.0,1996,Role-Playing,Activision,Diablo,0.855,1.58,0.0,0.085,2.525
+904,905,95.0,2006,Action,Nintendo,The Legend of Zelda: Twilight Princess,1.15,0.36,0.04,0.04,1.59
+905,906,84.13,2008,Action,Capcom,Devil May Cry 4,0.565,0.42500000000000004,0.34,0.2,1.525
+906,907,71.0,2007,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2008,0.04,1.0950000000000002,0.32,0.13,1.585
+907,908,85.0,2008,Fighting,Ubisoft,SoulCalibur IV,0.9,0.43,0.07,0.15,1.55
+908,909,82.0,2010,Action,Warner Bros. Interactive Entertainment,LEGO Harry Potter: Years 1-4,0.82,0.41500000000000004,0.0,0.125,1.3599999999999999
+909,910,72.0,1999,Racing,Electronic Arts,NASCAR 2000,0.88,0.6,0.0,0.1,1.59
+910,911,78.0,2008,Misc,Activision,Guitar Hero: On Tour Decades,0.8300000000000001,0.5700000000000001,0.0,0.16,1.5550000000000002
+911,912,63.0,2008,Simulation,Electronic Arts,MySims Kingdom,0.79,0.585,0.01,0.165,1.545
+912,913,66.0,2000,Misc,Sony Computer Entertainment,Jampack Summer 2K,0.88,0.6,0.0,0.1,1.58
+913,914,84.0,2009,Misc,Activision,Guitar Hero 5,0.915,0.46499999999999997,0.0,0.14500000000000002,1.525
+914,915,35.0,2008,Misc,Disney Interactive Studios,High School Musical 3: Senior Year,0.62,0.755,0.0,0.17,1.5550000000000002
+915,916,84.0,2012,Action,Square Enix,Kingdom Hearts 3D: Dream Drop Distance,0.73,0.21000000000000002,0.34,0.075,1.3599999999999999
+916,917,51.0,2007,Action,Disney Interactive Studios,Hannah Montana: Music Jam,1.05,0.365,0.0,0.14500000000000002,1.565
+917,918,79.0,2002,Platform,Vivendi Games,Spyro 2: Season of Flame,0.85,0.65,0.0,0.08,1.58
+918,919,82.0,2009,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2010,0.1,0.625,0.12,0.72,1.57
+919,920,84.0,2001,Sports,Electronic Arts,NCAA Football 2002,0.77,0.6,0.0,0.2,1.57
+920,921,69.52,2002,Shooter,Gotham Games,Conflict: Desert Storm,0.98,0.53,0.0,0.06,1.57
+921,922,65.39,2005,Misc,Nintendo,Mario Party 7,0.95,0.11,0.46,0.04,1.57
+922,923,77.0,2012,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2013,0.145,0.525,0.45999999999999996,0.2,1.33
+923,924,76.0,2000,Racing,Take-Two Interactive,Smuggler's Run,0.77,0.6,0.0,0.2,1.56
+924,925,83.61,2006,Fighting,Electronic Arts,Fight Night Round 3,1.07,0.4,0.0,0.1,1.56
+925,926,81.0,1988,Platform,Nintendo,Donkey Kong Classics,0.59,0.14,0.81,0.02,1.56
+926,927,66.88,1995,Action,Sony Computer Entertainment,Twisted Metal,1.32,0.19,0.0,0.05,1.56
+927,928,76.0,1990,Action,Capcom,Final Fight,0.67,0.17,0.69,0.03,1.56
+928,929,79.0,2003,Misc,Nintendo,Pokemon Pinball: Ruby & Sapphire,0.68,0.38,0.44,0.05,1.56
+929,930,84.0,2010,Action,Take-Two Interactive,Mafia II,0.745,0.525,0.0,0.14,1.415
+930,931,89.61,2012,Action,Bethesda Softworks,Dishonored,0.58,0.42500000000000004,0.035,0.195,1.235
+931,932,77.0,2002,Racing,Atari,Stuntman,0.76,0.59,0.0,0.2,1.55
+932,933,87.96,2003,Shooter,Ubisoft,Tom Clancy's Rainbow Six 3,0.91,0.57,0.0,0.07,1.55
+933,934,68.67,2008,Sports,Atari,Active Life: Outdoor Challenge,0.78,0.43,0.19,0.14,1.5350000000000001
+934,935,87.05,2010,Shooter,Take-Two Interactive,BioShock 2,0.8,0.43999999999999995,0.02,0.20500000000000002,1.46
+935,936,67.78,2000,Action,Electronic Arts,007: The World is not Enough,1.13,0.38,0.02,0.03,1.55
+936,937,80.0,2001,Action,Activision,Spider-Man 2: Enter: Electro,0.57,0.87,0.02,0.09,1.55
+937,938,74.0,2010,Action,LucasArts,Star Wars: The Force Unleashed II,0.75,0.45,0.0,0.2,1.4
+938,939,82.0,1999,Strategy,Westwood Studios,Command & Conquer: Tiberian Sun,1.55,0.0,0.0,0.0,1.55
+939,940,78.0,2011,Strategy,Warner Bros. Interactive Entertainment,LEGO Battles: Ninjago,0.93,0.265,0.0,0.105,1.3
+940,941,81.0,2007,Action,Capcom,Resident Evil: The Umbrella Chronicles,0.665,0.425,0.2899999999999999,0.135,1.5150000000000001
+941,942,78.45999999999998,2000,Role-Playing,Sony Computer Entertainment,Dark Cloud,0.83,0.44,0.08,0.19,1.54
+942,943,90.98,2003,Strategy,Activision,Warcraft III: The Frozen Throne,0.5799999999999998,0.87,0.0,0.09,1.54
+943,944,90.47,2006,Shooter,Ubisoft,Tom Clancy's Ghost Recon Advanced Warfighter,1.38,0.015,0.02,0.095,1.51
+944,945,85.0,2008,Adventure,Disney Interactive Studios,Disney Fairies: Tinker Bell,0.8200000000000001,0.505,0.01,0.14500000000000002,1.48
+945,946,87.36,2005,Sports,Electronic Arts,MVP Baseball 2005,1.26,0.07,0.0,0.21,1.54
+946,947,59.05,1996,Shooter,Fox Interactive,Die Hard Trilogy,0.85,0.5799999999999998,0.0,0.1,1.54
+947,948,69.0,2012,Shooter,Activision,Call of Duty: Black Ops II,0.47,0.565,0.0,0.16999999999999998,1.205
+948,949,88.0,2009,Fighting,Electronic Arts,Fight Night Round 4,0.905,0.38,0.0,0.2,1.48
+949,950,78.0,2008,Simulation,Electronic Arts,MySims Kingdom,0.7,0.635,0.01,0.165,1.505
+950,951,69.5,2007,Action,Electronic Arts,The Simpsons Game,0.565,0.77,0.0,0.17,1.5
+951,952,83.0,1994,Fighting,Acclaim Entertainment,Mortal Kombat 3,1.19,0.2899999999999999,0.0,0.05,1.53
+952,953,79.0,1998,Sports,989 Studios,NFL GameDay 99,1.44,0.05,0.0,0.04,1.53
+953,954,78.5,2009,Shooter,Activision,Call of Duty: Modern Warfare: Reflex Edition,0.94,0.41500000000000004,0.0,0.14,1.5
+954,955,82.0,2003,Sports,Nintendo,Mario Golf: Toadstool Tour,1.09,0.15,0.25,0.04,1.53
+955,956,73.02,1997,Sports,Electronic Arts,Tiger Woods 99 PGA Tour Golf,0.85,0.5799999999999998,0.0,0.1,1.53
+956,957,89.1,2011,Shooter,Electronic Arts,Dead Space 2,0.885,0.41500000000000004,0.0,0.13,1.4300000000000002
+957,958,71.0,2007,Racing,Sega,Sonic Rivals 2,0.44,0.62,0.0,0.355,1.415
+958,959,81.34999999999998,1997,Fighting,Electronic Arts,Knockout Kings,1.07,0.39,0.0,0.06,1.52
+959,960,37.58,2002,Sports,Electronic Arts,The Simpsons Skateboarding,0.36,0.9,0.0,0.27,1.52
+960,961,74.0,1996,Racing,Electronic Arts,NASCAR 98,1.43,0.05,0.0,0.04,1.52
+961,962,74.0,1984,Racing,Nintendo,F1 Race,0.0,0.0,1.52,0.0,1.52
+962,963,68.0,1984,Shooter,Namco Bandai Games,Xevious,0.09,0.03,1.27,0.005,1.395
+963,964,72.0,1998,Racing,Electronic Arts,NASCAR 99,1.45,0.04,0.0,0.04,1.52
+964,965,88.0,1998,Sports,Electronic Arts,NBA Live 2000,1.43,0.05,0.0,0.03,1.52
+965,966,84.0,2010,Action,Take-Two Interactive,Mafia II,0.45,0.6599999999999999,0.04,0.24,1.3900000000000001
+966,967,81.23,2006,Shooter,Activision,Call of Duty 3,0.5700000000000001,0.605,0.03,0.25,1.455
+967,968,86.0,2002,Puzzle,Atari,Super Monkey Ball 2,1.11,0.31,0.06,0.04,1.52
+968,969,78.0,2002,Action,Namco Bandai Games,Pac-Man World 2,1.26,0.05,0.0,0.21,1.51
+969,970,80.0,2011,Action,LucasArts,LEGO Star Wars III: The Clone Wars,0.745,0.455,0.0,0.12,1.325
+970,971,81.0,2011,Sports,Sega,Football Manager 2012,0.02,1.135,0.0,0.31000000000000005,1.455
+971,972,88.0,1988,Action,Capcom,Mega Man 2,0.8700000000000001,0.20500000000000002,0.41000000000000003,0.025,1.505
+972,973,63.0,2001,Fighting,Electronic Arts,Simpsons Wrestling,0.23,1.16,0.0,0.11,1.51
+973,974,80.0,1997,Sports,Electronic Arts,NBA Live 98,1.41,0.06,0.0,0.04,1.51
+974,975,67.62,2007,Action,Electronic Arts,The Simpsons Game,0.35,0.485,0.0,0.6749999999999999,1.51
+975,976,59.0,1997,Misc,Hasbro Interactive,Monopoly,1.18,0.27,0.0,0.05,1.51
+976,977,89.0,2003,Fighting,Namco Bandai Games,SoulCalibur II,0.99,0.32,0.11,0.08,1.5
+977,978,85.0,2011,Shooter,Sony Computer Entertainment,Resistance 3,0.6000000000000001,0.5249999999999999,0.05,0.21500000000000002,1.3900000000000001
+978,979,78.48,2000,Racing,Crave Entertainment,Tokyo Xtreme Racer Zero,0.66,0.52,0.15,0.17,1.5
+979,980,85.0,1998,Sports,Midway Games,NFL Blitz,1.41,0.05,0.0,0.04,1.5
+980,981,83.0,2002,Shooter,THQ,Red Faction II,0.49,0.78,0.0,0.23,1.5
+981,982,83.0,2010,Puzzle,Warner Bros. Interactive Entertainment,Super Scribblenauts,1.025,0.28,0.0,0.11499999999999999,1.42
+982,983,85.0,2000,Sports,Electronic Arts,Madden NFL 2001,1.19,0.07,0.05,0.2,1.5
+983,984,88.0,2000,Fighting,THQ,WWF No Mercy,1.2,0.27,0.02,0.02,1.5
+984,985,74.0,1985,Platform,Nintendo,Ice Climber,0.46,0.1,0.92,0.02,1.5
+985,986,70.0,1993,Platform,Sega,Sonic CD,1.0,0.36,0.09,0.05,1.5
+986,987,53.0,1986,Platform,Hudson Soft,Ninja Hattori Kun: Ninja wa Shuugyou Degogiru no Maki,0.0,0.0,1.5,0.0,1.5
+987,988,80.06999999999998,2010,Action,Capcom,Dead Rising 2,0.6950000000000001,0.5,0.09,0.125,1.4100000000000001
+988,989,91.5,2008,Misc,MTV Games,Rock Band 2,1.1099999999999999,0.19,0.0,0.155,1.4649999999999999
+989,990,80.0,1998,Action,Namco Bandai Games,Pac-Man World,1.21,0.14,0.1,0.04,1.5
+990,991,48.0,2009,Misc,Disney Interactive Studios,Disney Sing It: Pop Hits,1.07,0.275,0.0,0.13,1.475
+991,992,80.73,2003,Role-Playing,Nintendo,Final Fantasy: Crystal Chronicles,0.72,0.38,0.36,0.04,1.49
+992,993,82.0,2002,Shooter,Electronic Arts,Medal of Honor: Frontline,1.0,0.43,0.0,0.06,1.49
+993,994,84.0,2008,Sports,Electronic Arts,Madden NFL 09,1.22,0.085,0.0,0.19,1.49
+994,995,72.0,2008,Adventure,THQ,Drawn To Life: SpongeBob SquarePants Edition,0.98,0.35,0.0,0.13,1.4649999999999999
+995,996,91.08,2000,Platform,Nintendo,Banjo-Tooie,0.82,0.36,0.25,0.06,1.49
+996,997,71.0,2006,Misc,Sony Computer Entertainment,Buzz! The BIG Quiz,0.0,1.1,0.0,0.39,1.49
+997,998,68.73,2008,Action,Activision,007: Quantum of Solace,0.8049999999999999,0.49,0.01,0.14,1.4449999999999998
+998,999,56.0,2010,Simulation,Electronic Arts,The Sims 3,0.515,0.665,0.0,0.14,1.325
+999,1000,78.0,2009,Sports,Nintendo,New Play Control! Mario Power Tennis,0.35,0.7,0.28,0.14500000000000002,1.475
+1000,1001,60.2,2006,Shooter,Square Enix,Dirge of Cerberus: Final Fantasy VII,0.47,0.37,0.52,0.12,1.48
+1001,1002,81.0,1990,Sports,Nintendo,Nintendo World Cup,0.28,0.5,0.65,0.05,1.48
+1002,1003,84.55,1999,Fighting,THQ,WWF WrestleMania 2000,1.2,0.25,0.02,0.02,1.48
+1003,1004,83.0,1997,Platform,Nintendo,Wario Land II,0.7,0.35,0.39,0.04,1.48
+1004,1005,93.16,2011,Role-Playing,Electronic Arts,Mass Effect 2,0.745,0.4,0.03,0.185,1.355
+1005,1006,82.0,2005,Sports,Take-Two Interactive,Major League Baseball 2K5,0.72,0.56,0.0,0.19,1.48
+1006,1007,85.07,2004,Fighting,Electronic Arts,Fight Night 2004,1.08,0.2,0.0,0.2,1.48
+1007,1008,92.2,2004,Action,Ubisoft,Tom Clancy's Splinter Cell: Pandora Tomorrow,0.82,0.59,0.0,0.07,1.48
+1008,1009,57.0,2007,Simulation,Ubisoft,Imagine: Master Chef,0.39,0.915,0.0,0.17,1.47
+1009,1010,85.0,2008,Fighting,Ubisoft,SoulCalibur IV,0.6950000000000001,0.385,0.14,0.19,1.4100000000000001
+1010,1011,84.0,1999,Action,Nintendo,Mario Golf,0.62,0.18,0.65,0.02,1.47
+1011,1012,56.0,2003,Platform,THQ,Disney Princess,1.04,0.37,0.0,0.06,1.47
+1012,1013,85.35,2006,Fighting,Electronic Arts,Fight Night Round 3,1.315,0.02,0.01,0.1,1.4449999999999998
+1013,1014,91.98,2008,Role-Playing,Square Enix,Chrono Trigger,0.61,0.16,0.49,0.08,1.3399999999999999
+1014,1015,73.0,2010,Action,LucasArts,Star Wars: The Force Unleashed II,0.87,0.345,0.0,0.11499999999999999,1.33
+1015,1016,73.0,2008,Shooter,Sega,The House of the Dead 2 & 3 Return,0.765,0.485,0.03,0.15,1.435
+1016,1017,52.0,2007,Adventure,Disney Interactive Studios,Disney Princess: Magical Jewels,1.085,0.175,0.0,0.11499999999999999,1.37
+1017,1018,90.94,1998,Role-Playing,SquareSoft,Xenogears,0.2899999999999999,0.19,0.89,0.1,1.46
+1018,1019,52.67,2004,Platform,THQ,The SpongeBob SquarePants Movie,1.02,0.38,0.0,0.06,1.46
+1019,1020,78.89,2012,Shooter,Ubisoft,Tom Clancy's Ghost Recon: Future Soldier,0.825,0.38,0.02,0.12,1.335
+1020,1021,83.76,2008,Shooter,Electronic Arts,Battlefield: Bad Company,0.795,0.44,0.04,0.14500000000000002,1.4249999999999998
+1021,1022,73.86,2003,Misc,Midway Games,Midway Arcade Treasures,0.72,0.56,0.0,0.19,1.46
+1022,1023,56.19,2008,Platform,THQ,Wall-E,0.45,0.8200000000000001,0.0,0.17,1.4449999999999998
+1023,1024,69.72,,Sports,,Triple Play 99,0.81,0.55,0.0,0.1,1.46
+1024,1025,71.7,2011,Shooter,THQ,Homefront,0.8,0.46499999999999997,0.02,0.13,1.42
+1025,1026,83.0,2001,Puzzle,Atari,Super Monkey Ball,0.95,0.37,0.1,0.04,1.46
+1026,1027,81.0,1998,Fighting,GT Interactive,Mortal Kombat 4,0.81,0.55,0.0,0.1,1.46
+1027,1028,76.62,2005,Sports,Nintendo,Mario Superstar Baseball,0.93,0.24,0.25,0.04,1.46
+1028,1029,91.65,2012,Role-Playing,Electronic Arts,Mass Effect 3,0.56,0.485,0.03,0.19,1.2650000000000001
+1029,1030,70.0,2012,Action,Electronic Arts,Medal of Honor: Warfighter,0.395,0.515,0.055,0.21500000000000002,1.185
+1030,1031,74.09999999999998,1998,Fighting,THQ,WCW vs the World,1.17,0.2,0.04,0.05,1.46
+1031,1032,88.0,2004,Action,Capcom,Onimusha 3: Demon Siege,0.37,0.47,0.54,0.07,1.45
+1032,1033,93.57,2008,Shooter,Take-Two Interactive,BioShock,0.675,0.41500000000000004,0.01,0.18,1.27
+1033,1034,82.0,2004,Shooter,Take-Two Interactive,Red Dead Revolver,0.71,0.55,0.0,0.19,1.45
+1034,1035,84.77,2011,Strategy,Ubisoft,Anno 2070,0.0,0.98,0.0,0.265,1.245
+1035,1036,65.0,2007,Misc,Electronic Arts,Smarty Pants,0.515,0.745,0.0,0.16,1.42
+1036,1037,54.0,1996,Simulation,Namco Bandai Games,Tamagotchi,0.0,0.0,1.44,0.01,1.45
+1037,1038,77.0,1999,Misc,Namco Bandai Games,Namco Museum 64,1.24,0.17,0.03,0.01,1.45
+1038,1039,66.0,2008,Puzzle,Electronic Arts,Hasbro Family Game Night,0.96,0.32,0.0,0.13,1.42
+1039,1040,79.95,2010,Role-Playing,Square Enix,Dragon Quest Monsters: Joker 2,0.09,0.06,1.24,0.015,1.405
+1040,1041,69.0,2007,Misc,Ubisoft,My Word Coach,0.36,0.895,0.0,0.175,1.43
+1041,1042,42.0,2007,Misc,Rising Star Games,Hello Kitty Party,0.755,0.5,0.0,0.13,1.375
+1042,1043,77.0,2007,Misc,Sony Computer Entertainment,SingStar Pop,0.04,1.08,0.0,0.32,1.44
+1043,1044,76.0,2006,Racing,Sega,Sonic Rivals,0.725,0.4,0.0,0.27,1.4
+1044,1045,91.0,1996,Platform,Nintendo,Kirby Super Star,0.26,0.07,1.09,0.02,1.44
+1045,1046,75.0,2007,Fighting,THQ,WWE SmackDown vs Raw 2008,0.91,0.37,0.0,0.13,1.42
+1046,1047,55.85,2010,Racing,Microsoft Game Studios,Kinect Joy Ride,0.845,0.375,0.0,0.12,1.345
+1047,1048,81.0,2006,Misc,Ubisoft,Rayman Raving Rabbids,1.2149999999999999,0.05,0.02,0.11,1.4
+1048,1049,87.08,2004,Sports,Electronic Arts,Tiger Woods PGA Tour 2005,1.03,0.32,0.0,0.09,1.44
+1049,1050,89.22,2011,Shooter,Electronic Arts,Dead Space 2,0.69,0.45999999999999996,0.0,0.2,1.345
+1050,1051,91.36,2002,Sports,Electronic Arts,NCAA Football 2003,1.16,0.08,0.0,0.19,1.44
+1051,1052,73.0,1999,Action,Hasbro Interactive,Frogger 2: Swampy's Revenge,0.8,0.54,0.0,0.09,1.43
+1052,1053,80.0,2009,Action,Activision,LEGO Indiana Jones 2: The Adventure Continues,0.87,0.37,0.0,0.125,1.365
+1053,1054,86.0,2009,Misc,Sega,Sonic's Ultimate Genesis Collection,0.74,0.46,0.0,0.13,1.325
+1054,1055,81.20999999999998,2008,Sports,Electronic Arts,Tiger Woods PGA Tour 09 All-Play,0.805,0.47,0.0,0.14,1.415
+1055,1056,75.0,1988,Platform,Capcom,Disney's DuckTales,0.82,0.23,0.35,0.03,1.43
+1056,1057,80.2,2004,Platform,Nintendo,Classic NES Series: Super Mario Bros.,0.0,0.0,1.39,0.03,1.43
+1057,1058,88.07,1999,Sports,Electronic Arts,Triple Play 2000,0.79,0.54,0.0,0.09,1.43
+1058,1059,82.0,2010,Fighting,THQ,UFC Undisputed 2010,0.775,0.39,0.02,0.185,1.375
+1059,1060,76.78,2005,Sports,Electronic Arts,NBA Live 06 (Weekly american sales),1.35,0.05,0.0,0.02,1.42
+1060,1061,90.36,2004,Action,Nintendo,The Legend of Zelda: The Minish Cap,0.89,0.22,0.22,0.1,1.42
+1061,1062,82.0,2004,Sports,Electronic Arts,NFL Street,1.15,0.08,0.0,0.19,1.42
+1062,1063,78.67,2011,Platform,Sega,Sonic Generations,0.58,0.45999999999999996,0.0,0.115,1.16
+1063,1064,94.0,1994,Action,Nintendo,Super Metroid,0.57,0.12,0.71,0.02,1.42
+1064,1065,89.07,2008,Action,Electronic Arts,Dead Space,0.86,0.37,0.0,0.125,1.3599999999999999
+1065,1066,86.0,2006,Action,LucasArts,LEGO Star Wars II: The Original Trilogy,0.575,0.495,0.0,0.31,1.385
+1066,1067,75.0,2010,Action,Disney Interactive Studios,Toy Story 3: The Video Game,0.6000000000000001,0.6,0.0,0.14,1.335
+1067,1068,87.39,2009,Fighting,Electronic Arts,Fight Night Round 4,0.9299999999999999,0.325,0.0,0.125,1.375
+1068,1069,84.0,2005,Action,Eidos Interactive,LEGO Star Wars: The Video Game,1.09,0.28,0.0,0.04,1.41
+1069,1070,49.0,2004,Racing,Sony Computer Entertainment,Ridge Racer,0.36,0.44,0.32,0.275,1.3900000000000001
+1070,1071,78.55,2010,Action,Nintendo,Metroid: Other M,0.815,0.255,0.13,0.095,1.295
+1071,1072,79.33,1999,Fighting,Electronic Arts,Knockout Kings 2000,1.02,0.34,0.0,0.05,1.41
+1072,1073,74.0,2003,Racing,Sony Computer Entertainment,Gran Turismo 4 Prologue,0.0,0.52,0.77,0.17,1.46
+1073,1074,88.52,2001,Racing,Sony Computer Entertainment,Twisted Metal: Black,1.19,0.17,0.0,0.05,1.41
+1074,1075,87.0,2004,Racing,Electronic Arts,NASCAR 2005: Chase for the Cup,0.69,0.54,0.0,0.18,1.41
+1075,1076,85.88,2010,Shooter,Activision,Call of Duty: Black Ops,0.77,0.43999999999999995,0.0,0.125,1.325
+1076,1077,78.17,2002,Action,Activision,Spider-Man: The Movie,1.07,0.28,0.0,0.05,1.4
+1077,1078,75.0,2008,Racing,Electronic Arts,Need For Speed: Undercover,0.38,0.445,0.03,0.56,1.4
+1078,1079,83.98,2008,Action,Ubisoft,Far Cry 2,0.42,0.665,0.01,0.26,1.345
+1079,1080,85.0,2004,Platform,THQ,Sonic Advance 3,0.74,0.52,0.08,0.06,1.4
+1080,1081,82.0,1990,Role-Playing,SquareSoft,Final Fantasy III,0.0,0.0,1.39,0.01,1.4
+1081,1082,86.01,2002,Racing,Codemasters,Colin McRae Rally 3,0.03,1.05,0.02,0.3,1.4
+1082,1083,77.0,2001,Sports,Electronic Arts,Madden NFL 2002,0.78,0.53,0.0,0.09,1.39
+1083,1084,79.67,2007,Role-Playing,Square Enix,Final Fantasy XII: Revenant Wings,0.325,0.41000000000000003,0.54,0.095,1.365
+1084,1085,63.23,2009,Action,Activision,Bakugan: Battle Brawlers,1.2149999999999999,0.015,0.0,0.095,1.325
+1085,1086,89.89,2011,Shooter,Square Enix,Deus Ex: Human Revolution,0.445,0.5349999999999999,0.07,0.21000000000000002,1.255
+1086,1087,84.0,1994,Sports,Acclaim Entertainment,NBA Jam,1.19,0.16,0.0,0.03,1.39
+1087,1088,70.47,2005,Action,Tecmo Koei,Dynasty Warriors 5,0.24,0.18,0.91,0.06,1.39
+1088,1089,58.0,2007,Action,Disney Interactive Studios,Hannah Montana: Spotlight World Tour,0.87,0.38,0.0,0.13,1.3849999999999998
+1089,1090,79.0,2012,Action,THQ,WWE '13,0.45,0.495,0.0,0.21000000000000002,1.155
+1090,1091,89.57,2011,Shooter,Square Enix,Deus Ex: Human Revolution,0.69,0.44,0.02,0.12,1.275
+1091,1092,78.78,2003,Action,Activision,True Crime: Streets of LA,0.96,0.37,0.0,0.05,1.38
+1092,1093,67.44,2005,Simulation,Electronic Arts,The Sims 2,0.475,0.53,0.0,0.32,1.33
+1093,1094,92.0,2000,Role-Playing,Nintendo,Paper Mario,0.5799999999999998,0.18,0.59,0.02,1.38
+1094,1095,79.0,1998,Shooter,Take-Two Interactive,Duke Nukem: Time to Kill,0.77,0.54,0.0,0.07,1.38
+1095,1096,79.81,2010,Action,Capcom,Dead Rising 2,0.4,0.5449999999999999,0.15,0.21000000000000002,1.31
+1096,1097,63.0,2009,Misc,Electronic Arts,Hasbro Family Game Night 2,0.6950000000000001,0.51,0.0,0.135,1.3399999999999999
+1097,1098,64.0,2007,Adventure,Disney Interactive Studios,Disney Princess: Enchanted Journey,1.1949999999999998,0.025,0.0,0.095,1.315
+1098,1099,70.0,2009,Puzzle,505 Games,Gardening Mama,0.77,0.42,0.01,0.13,1.335
+1099,1100,80.06999999999998,2001,Sports,Acclaim Entertainment,Dave Mirra Freestyle BMX 2,0.67,0.53,0.0,0.18,1.38
+1100,1101,72.0,2011,Action,Electronic Arts,Need for Speed: The Run,0.575,0.5549999999999999,0.0,0.14,1.285
+1101,1102,85.0,2008,Action,LucasArts,LEGO Indiana Jones: The Original Adventures,0.6,0.31,0.0,0.46,1.37
+1102,1103,76.0,2006,Racing,Namco Bandai Games,Ridge Racer 7,0.235,0.685,0.16,0.255,1.34
+1103,1104,52.33,1998,Misc,Activision,A Collection of Activision Classic Games for the Atari 2600,0.76,0.52,0.0,0.09,1.37
+1104,1105,82.49,2008,Racing,Sony Computer Entertainment,MotorStorm: Pacific Rift,0.41000000000000003,0.635,0.02,0.25,1.3050000000000002
+1105,1106,83.0,2010,Platform,Sega,Sonic Colors,0.655,0.47,0.01,0.125,1.255
+1106,1107,91.0,2004,Role-Playing,Activision,Star Wars Knights of the Old Republic II: The Sith Lords,0.99,0.33,0.0,0.05,1.37
+1107,1108,82.0,2010,Action,Warner Bros. Interactive Entertainment,LEGO Harry Potter: Years 1-4,0.49,0.49,0.0,0.19,1.165
+1108,1109,73.0,1998,Strategy,Nintendo,Pocket Monsters Stadium,0.0,0.0,1.37,0.0,1.37
+1109,1110,82.69,2004,Shooter,Ubisoft,Tom Clancy's Ghost Recon 2,0.86,0.45,0.0,0.06,1.36
+1110,1111,88.36,2008,Racing,Electronic Arts,Burnout Paradise,0.61,0.5549999999999999,0.01,0.14500000000000002,1.315
+1111,1112,71.0,2008,Misc,Sony Computer Entertainment,SingStar Abba,0.23,0.48000000000000004,0.0,0.65,1.36
+1112,1113,73.53,2002,Shooter,Electronic Arts,Dead to Rights,0.67,0.52,0.0,0.17,1.36
+1113,1114,79.0,,Action,Warner Bros. Interactive Entertainment,LEGO Harry Potter: Years 5-7,0.64,0.385,0.0,0.11,1.135
+1114,1115,85.5,2011,Fighting,Capcom,Marvel vs. Capcom 3: Fate of Two Worlds,0.785,0.255,0.11,0.135,1.2850000000000001
+1115,1116,86.0,2010,Racing,Codemasters,F1 2010,0.235,0.73,0.08,0.255,1.3
+1116,1117,88.0,1997,Sports,Electronic Arts,Madden NFL 98,1.29,0.03,0.0,0.03,1.35
+1117,1118,83.0,2008,Sports,Electronic Arts,FIFA Soccer 09,0.225,0.725,0.02,0.365,1.33
+1118,1119,72.0,2007,Misc,Atari,Namco Museum DS,1.075,0.005,0.06,0.08499999999999999,1.235
+1119,1120,79.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.2,0.755,0.0,0.385,1.3450000000000002
+1120,1121,87.0,2009,Action,Take-Two Interactive,Grand Theft Auto: Chinatown Wars,0.575,0.5449999999999999,0.05,0.135,1.3050000000000002
+1121,1122,83.75,2010,Action,Microsoft Game Studios,Alan Wake,0.63,0.47,0.05,0.125,1.275
+1122,1123,84.79,2008,Shooter,Electronic Arts,Battlefield: Bad Company,0.745,0.33499999999999996,0.05,0.16999999999999998,1.3
+1123,1124,73.36,2004,Action,Electronic Arts,Samurai Warriors,0.22,0.05,1.06,0.02,1.35
+1124,1125,80.23999999999998,2003,Racing,Vivendi Games,The Simpsons: Hit & Run,0.7,0.5799999999999998,0.0,0.07,1.35
+1125,1126,83.26,2008,Action,Capcom,Devil May Cry 4,0.775,0.33,0.08,0.13,1.32
+1126,1127,83.73,2008,Shooter,Ubisoft,Tom Clancy's Rainbow Six: Vegas 2,0.645,0.44,0.04,0.20500000000000002,1.32
+1127,1128,87.0,2005,Role-Playing,Capcom,Monster Hunter Freedom,0.235,0.025,1.03,0.035,1.3250000000000002
+1128,1129,85.5,2011,Action,Electronic Arts,Crysis 2,0.6599999999999999,0.475,0.02,0.12,1.28
+1129,1130,76.0,1997,Role-Playing,SquareSoft,SaGa Frontier,0.15,0.04,1.07,0.09,1.35
+1130,1131,78.0,2004,Misc,Sony Computer Entertainment,SingStar Party,0.0,1.04,0.0,0.31,1.35
+1131,1132,82.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.31,0.885,0.01,0.14,1.3450000000000002
+1132,1133,91.0,2011,Adventure,Sony Computer Entertainment,The ICO & Shadow of the Colossus Collection,0.56,0.295,0.13,0.14,1.135
+1133,1134,71.0,2002,Racing,Atari,Test Drive,0.95,0.21,0.01,0.18,1.34
+1134,1135,88.0,2005,Role-Playing,Nintendo,Mario & Luigi: Partners in Time,0.74,0.045000000000000005,0.43,0.07500000000000001,1.28
+1135,1136,67.95,2006,Shooter,Capcom,Lost Planet: Extreme Condition,1.08,0.03,0.1,0.10500000000000001,1.32
+1136,1137,84.0,1994,Fighting,Acclaim Entertainment,Mortal Kombat 3,1.03,0.27,0.0,0.04,1.34
+1137,1138,87.63,2005,Shooter,Activision,Doom 3,0.85,0.43,0.0,0.06,1.34
+1138,1139,82.0,2004,Platform,Nintendo,Donkey Kong Jungle Beat,0.84,0.22,0.24,0.04,1.34
+1139,1140,83.0,2006,Racing,Electronic Arts,Need for Speed Carbon,1.22,0.05,0.05,0.01,1.34
+1140,1141,88.49,2003,Shooter,Take-Two Interactive,Max Payne 2: The Fall of Max Payne,0.65,0.51,0.0,0.17,1.34
+1141,1142,86.29,2000,Strategy,Electronic Arts,Command & Conquer: Red Alert 2,1.32,0.01,0.0,0.0,1.33
+1142,1143,88.89,2004,Sports,Electronic Arts,MVP Baseball 2004,1.1,0.06,0.0,0.18,1.34
+1143,1144,73.0,2007,Fighting,THQ,WWE SmackDown vs Raw 2008,0.61,0.485,0.01,0.20500000000000002,1.3050000000000002
+1144,1145,78.0,2010,Sports,Ubisoft,Your Shape: Fitness Evolved,0.75,0.395,0.0,0.11499999999999999,1.27
+1145,1146,81.0,2011,Shooter,Bethesda Softworks,Rage,0.44499999999999995,0.5449999999999999,0.06,0.20500000000000002,1.255
+1146,1147,70.0,2002,Action,Activision,Spider-Man: The Movie,0.92,0.35,0.01,0.05,1.33
+1147,1148,84.93,1998,Fighting,Acclaim Entertainment,WWF War Zone,1.08,0.24,0.0,0.02,1.33
+1148,1149,56.0,2000,Sports,Activision,Tony Hawk's Pro Skater,0.9,0.38,0.01,0.05,1.33
+1149,1150,77.34999999999998,2003,Simulation,Electronic Arts,The Sims: Bustin' Out,0.93,0.35,0.0,0.06,1.33
+1150,1151,81.2,2000,Sports,Electronic Arts,Triple Play 2001,0.74,0.5,0.0,0.09,1.33
+1151,1152,92.05,2004,Shooter,Nintendo,Metroid Prime 2: Echoes,0.87,0.35,0.07,0.04,1.33
+1152,1153,81.0,2010,Fighting,THQ,UFC Undisputed 2010,0.875,0.29999999999999993,0.0,0.11499999999999999,1.29
+1153,1154,54.0,2004,Racing,TDK Mediactive,Corvette,0.65,0.51,0.0,0.17,1.33
+1154,1155,53.0,2007,Simulation,Ubisoft,Petz Wild Animals: Dolphinz,0.6950000000000001,0.475,0.0,0.13,1.3050000000000002
+1155,1156,81.0,2005,Racing,Electronic Arts,Need for Speed Underground Rivals,0.685,0.37,0.02,0.235,1.3050000000000002
+1156,1157,81.0,2008,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,0.6499999999999999,0.36,0.0,0.16999999999999998,1.175
+1157,1158,85.0,2008,Role-Playing,Activision,World of Warcraft: Wrath of the Lich King,1.21,0.855,0.0,0.59,2.6550000000000002
+1158,1159,66.0,1985,Puzzle,Nintendo,Gyromite,0.73,0.16,0.4,0.03,1.32
+1159,1160,88.05,2002,Sports,Atari,NFL 2K3,1.06,0.08,0.0,0.18,1.32
+1160,1161,71.0,1997,Fighting,Eidos Interactive,Fighting Force,0.73,0.5,0.0,0.09,1.32
+1161,1162,69.5,2003,Role-Playing,Capcom,Mega Man Battle Network 4: Red Sun / Blue Moon,0.31,0.04,0.96,0.01,1.32
+1162,1163,81.0,2010,Shooter,Sony Computer Entertainment,MAG: Massive Action Game,0.76,0.29000000000000004,0.09,0.16,1.3
+1163,1164,74.0,1996,Sports,Electronic Arts,Madden NFL 97,0.73,0.5,0.0,0.09,1.32
+1164,1165,76.0,2011,Racing,Disney Interactive Studios,Cars 2,0.62,0.375,0.04,0.105,1.1400000000000001
+1165,1166,64.0,2012,Action,Activision,Skylanders Giants,0.675,0.365,0.0,0.055,1.1
+1166,1167,80.0,,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,0.56,0.41000000000000003,0.0,0.255,1.23
+1167,1168,61.6,1996,Racing,ASC Games,TNN Motor Sports Hardcore 4x4,0.73,0.5,0.0,0.09,1.31
+1168,1169,49.0,2002,Racing,Bethesda Softworks,IHRA Drag Racing 2,0.64,0.5,0.0,0.17,1.31
+1169,1170,87.0,2009,Misc,MTV Games,The Beatles: Rock Band,0.955,0.22,0.0,0.11,1.2850000000000001
+1170,1171,80.94,2009,Fighting,Namco Bandai Games,Tekken 6,0.675,0.39,0.05,0.125,1.24
+1171,1172,81.81999999999998,2009,Action,Activision,[Prototype],0.8200000000000001,0.33999999999999997,0.0,0.12,1.28
+1172,1173,66.64,2005,Platform,Activision,Madagascar,0.78,0.45,0.0,0.07,1.31
+1173,1174,69.0,1999,Adventure,THQ,Rugrats Studio Tour,0.57,0.67,0.0,0.07,1.31
+1174,1175,81.0,2009,Strategy,Warner Bros. Interactive Entertainment,LEGO Battles,0.7250000000000001,0.355,0.0,0.11499999999999999,1.195
+1175,1176,64.48,2002,Shooter,Acclaim Entertainment,Turok: Evolution,0.64,0.5,0.0,0.17,1.31
+1176,1177,36.0,2008,Misc,Disney Interactive Studios,High School Musical 3: Senior Year DANCE!,0.66,0.485,0.0,0.13,1.2850000000000001
+1177,1178,75.0,2008,Sports,Ubisoft,Gold's Gym: Cardio Workout,1.09,0.03,0.06,0.09,1.275
+1178,1179,92.97,2004,Racing,Electronic Arts,Burnout 3: Takedown,0.84,0.43,0.0,0.04,1.31
+1179,1180,73.0,2002,Role-Playing,Konami Digital Entertainment,Yu-Gi-Oh! The Sacred Cards,0.94,0.35,0.0,0.02,1.3
+1180,1181,85.21,2011,Action,Electronic Arts,Crysis 2,0.41000000000000003,0.5249999999999999,0.06,0.2,1.205
+1181,1182,60.69,2006,Sports,Electronic Arts,NBA Live 07,1.07,0.04,0.02,0.17,1.3
+1182,1183,77.0,2005,Misc,Sony Computer Entertainment,SingStar '80s,0.27,0.02,0.0,1.0150000000000001,1.3
+1183,1184,66.89,2007,Sports,Electronic Arts,EA Playground,0.685,0.47,0.0,0.13,1.28
+1184,1185,73.0,1997,Racing,Accolade,Test Drive 5,1.05,0.2,0.0,0.05,1.3
+1185,1186,76.0,2010,Sports,Electronic Arts,EA Sports Active 2,0.75,0.37,0.0,0.11499999999999999,1.24
+1186,1187,76.0,1999,Role-Playing,Namco Bandai Games,Digimon World,0.56,0.38,0.28,0.08,1.3
+1187,1188,80.0,2006,Racing,Electronic Arts,Need for Speed Carbon,0.45,0.645,0.02,0.14500000000000002,1.2650000000000001
+1188,1189,77.91,2002,Role-Playing,Capcom,Mega Man Battle Network 3 Blue / White Version,0.39,0.02,0.85,0.03,1.29
+1189,1190,76.70999999999998,2012,Sports,Electronic Arts,FIFA Street,0.08499999999999999,0.775,0.0,0.22999999999999998,1.095
+1190,1191,86.0,2002,Action,Capcom,Resident Evil Zero,0.54,0.27,0.45,0.04,1.29
+1191,1192,87.0,2005,Racing,Electronic Arts,Need for Speed: Most Wanted,0.975,0.12000000000000001,0.02,0.095,1.21
+1192,1193,44.0,2003,Platform,TDK Mediactive,Pirates of the Caribbean: The Curse of the Black Pearl,0.93,0.34,0.0,0.02,1.29
+1193,1194,77.56,2004,Shooter,Atari,Transformers,0.63,0.49,0.0,0.16,1.29
+1194,1195,78.0,2008,Misc,Activision,Guitar Hero: Aerosmith,1.02,0.14,0.0,0.1,1.2650000000000001
+1195,1196,66.58,2008,Adventure,Nintendo,Mystery Case Files: MillionHeir,0.745,0.39,0.0,0.12,1.26
+1196,1197,87.22,2008,Role-Playing,Sega,Valkyria Chronicles,0.6699999999999999,0.16,0.24,0.115,1.195
+1197,1198,86.21,2005,Racing,Take-Two Interactive,Midnight Club 3: DUB Edition (America weekly sales),1.22,0.05,0.0,0.01,1.29
+1198,1199,85.24,2004,Role-Playing,Sony Online Entertainment,Champions of Norrath,0.63,0.49,0.0,0.16,1.28
+1199,1200,50.0,2008,Simulation,Ubisoft,Imagine: Wedding Designer,0.55,0.585,0.0,0.14,1.275
+1200,1201,67.67,1999,Action,3DO,Army Men 3D,1.1,0.14,0.0,0.04,1.28
+1201,1202,75.0,2012,Action,THQ,WWE '13,0.625,0.39,0.0,0.10500000000000001,1.115
+1202,1203,68.04,1999,Racing,989 Studios,Twisted Metal 4,1.07,0.16,0.0,0.04,1.28
+1203,1204,76.84999999999998,2003,Action,Take-Two Interactive,Manhunt,0.63,0.49,0.0,0.16,1.28
+1204,1205,87.0,2012,Action,Nintendo,Kid Icarus: Uprising,0.435,0.295,0.35,0.065,1.155
+1205,1206,87.0,2001,Action,Konami Digital Entertainment,Silent Hill 2,0.62,0.49,0.0,0.16,1.28
+1206,1207,78.0,2008,Action,Eidos Interactive,Tomb Raider: Underworld,0.435,0.525,0.05,0.21000000000000002,1.2149999999999999
+1207,1208,89.58,1997,Platform,Konami Digital Entertainment,Castlevania: Symphony of the Night,0.5799999999999998,0.4,0.21,0.08,1.27
+1208,1209,75.9,2005,Simulation,Electronic Arts,The Sims 2: Nightlife,1.22,0.035,0.0,0.0,1.255
+1209,1210,83.0,2008,Action,Warner Bros. Interactive Entertainment,LEGO Batman: The Videogame,0.72,0.22499999999999998,0.0,0.325,1.27
+1210,1211,79.0,1995,Racing,Electronic Arts,Road Rash,0.71,0.48,0.0,0.08,1.27
+1211,1212,86.0,2008,Sports,Take-Two Interactive,NBA 2K9,1.0,0.16,0.0,0.11,1.2650000000000001
+1212,1213,77.0,2011,Fighting,THQ,WWE '12,0.6799999999999999,0.39,0.0,0.11499999999999999,1.195
+1213,1214,86.0,2003,Sports,Activision,Tony Hawk's Underground,0.85,0.37,0.0,0.05,1.27
+1214,1215,76.0,1984,Shooter,Nintendo,Hogan's Alley,0.68,0.16,0.41,0.02,1.27
+1215,1216,31.0,2008,Sports,Deep Silver,Jillian Michaels' Fitness Ultimatum 2009,0.95,0.2,0.0,0.11,1.255
+1216,1217,76.33,2002,Role-Playing,Atari,.hack//Infection Part 1,0.49,0.38,0.26,0.13,1.27
+1217,1218,65.0,2007,Sports,Take-Two Interactive,Rockstar Games presents Table Tennis,0.39,0.72,0.0,0.15,1.26
+1218,1219,78.0,2003,Platform,Sega,Sonic Adventure DX: Director's Cut,0.87,0.3,0.06,0.03,1.27
+1219,1220,76.0,2004,Action,Sony Computer Entertainment,Jet Li: Rise to Honor,0.62,0.48,0.0,0.16,1.27
+1220,1221,85.0,1994,Fighting,Sony Computer Entertainment,Battle Arena Toshinden,0.39,0.26,0.53,0.08,1.27
+1221,1222,64.0,2008,Action,Activision,Kung Fu Panda,0.55,0.56,0.0,0.135,1.245
+1222,1223,68.0,2005,Simulation,Atari,Tamagotchi Connection: Corner Shop,0.1,0.01,1.12,0.01,1.25
+1223,1224,84.0,2010,Sports,Sega,Football Manager 2011,0.0,0.9650000000000001,0.0,0.24,1.21
+1224,1225,78.0,1998,Puzzle,THQ,Devil Dice,0.05,0.03,1.1,0.08,1.26
+1225,1226,89.0,2007,Simulation,Square Enix,Final Fantasy IV,0.505,0.035,0.62,0.045,1.205
+1226,1227,80.0,2006,Racing,Electronic Arts,Need for Speed Carbon,0.475,0.46,0.03,0.19,1.165
+1227,1228,70.0,2007,Action,THQ,Ratatouille,0.49,0.61,0.0,0.14,1.24
+1228,1229,74.44,1998,Misc,Hasbro Interactive,Wheel of Fortune,0.99,0.22,0.0,0.04,1.26
+1229,1230,53.33,2007,Sports,RTL,Winter Sports: The Ultimate Challenge,0.445,0.67,0.0,0.12,1.24
+1230,1231,67.38,2008,Shooter,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs Confrontation,0.9299999999999999,0.15500000000000003,0.02,0.13,1.225
+1231,1232,82.67,2000,Sports,Electronic Arts,NBA Live 2001,0.7,0.47,0.0,0.08,1.25
+1232,1233,81.0,2008,Action,LucasArts,Star Wars: The Force Unleashed,0.49,0.3,0.01,0.455,1.25
+1233,1234,84.74,2007,Shooter,Ubisoft,Tom Clancy's Rainbow Six: Vegas,0.46499999999999997,0.52,0.03,0.215,1.23
+1234,1235,65.0,1987,Role-Playing,Namco Bandai Games,Gegege no Kitarou 2: Youkai Gundan no Chousen,0.0,0.0,1.25,0.0,1.25
+1235,1236,55.0,1996,Sports,Natsume,Reel Fishing,0.99,0.13,0.1,0.04,1.25
+1236,1237,79.93,2006,Shooter,Electronic Arts,Black,1.01,0.04,0.03,0.16,1.25
+1237,1238,82.0,2002,Strategy,Atari,RollerCoaster Tycoon 2,1.19,0.035,0.0,0.0,1.23
+1238,1239,66.0,2003,Action,Eidos Interactive,Lara Croft Tomb Raider: The Angel of Darkness,0.61,0.48,0.0,0.16,1.25
+1239,1240,86.74,2004,Action,Ubisoft,Tom Clancy's Splinter Cell: Pandora Tomorrow,0.52,0.56,0.0,0.17,1.25
+1240,1241,75.0,1998,Racing,Electronic Arts,Road Rash 3D,1.05,0.16,0.0,0.04,1.25
+1241,1242,89.0,2005,Shooter,Sony Computer Entertainment,Ratchet: Deadlocked,0.85,0.03,0.22,0.14,1.24
+1242,1243,82.83,2001,Role-Playing,Virgin Interactive,Baldur's Gate: Dark Alliance,0.61,0.48,0.0,0.16,1.24
+1243,1244,65.29,2007,Action,Activision,Transformers: Autobots / Decepticons,1.11,0.02,0.0,0.09,1.22
+1244,1245,66.76,2007,Racing,Nintendo,Diddy Kong Racing DS,1.0950000000000002,0.03,0.0,0.095,1.2149999999999999
+1245,1246,79.65,2009,Action,Activision,[Prototype],0.635,0.395,0.0,0.185,1.205
+1246,1247,63.63,2009,Action,Ubisoft,Assassin's Creed: Bloodlines,0.405,0.585,0.05,0.335,1.375
+1247,1248,87.0,1997,Platform,GT Interactive,Oddworld: Abe's Oddysee,0.75,0.44,0.0,0.06,1.24
+1248,1249,76.0,2000,Action,Namco Bandai Games,Ridge Racer V,0.24,0.19,0.75,0.06,1.24
+1249,1250,84.0,2008,Fighting,THQ,WWE SmackDown vs. Raw 2009,0.69,0.21,0.0,0.34,1.24
+1250,1251,77.0,1992,Puzzle,Nintendo,Tetris 2 (All region sales),0.56,0.22,0.43,0.03,1.24
+1251,1252,79.0,2005,Action,Activision,Star Wars Episode III: Revenge of the Sith,0.82,0.38,0.0,0.04,1.24
+1252,1253,59.33,2007,Action,D3Publisher,Ben 10: Protector of Earth,0.545,0.545,0.0,0.13,1.22
+1253,1254,44.0,2001,Platform,Konami Digital Entertainment,Frogger: The Great Quest,0.6,0.47,0.0,0.16,1.23
+1254,1255,69.0,2010,Sports,Electronic Arts,2010 FIFA World Cup South Africa,0.28,0.615,0.07,0.21000000000000002,1.175
+1255,1256,93.0,2004,Action,Microsoft Game Studios,Ninja Gaiden,0.92,0.2,0.07,0.04,1.23
+1256,1257,70.48,2002,Platform,Universal Interactive,Crash Bandicoot: The Wrath of Cortex,0.59,0.57,0.0,0.07,1.23
+1257,1258,58.67,2004,Racing,Atari,Driv3r,0.6,0.47,0.0,0.16,1.23
+1258,1259,76.0,2003,Misc,Sony Computer Entertainment,Disney's Tarzan / Disney's Aladdin in Nasira's Revenge / Disney's The Emperor's New Groove Action Game,0.69,0.47,0.0,0.08,1.23
+1259,1260,73.0,2008,Misc,Activision,Guitar Hero: Aerosmith,0.96,0.13,0.0,0.095,1.185
+1260,1261,76.0,2007,Shooter,Electronic Arts,Medal of Honor: Airborne,0.235,0.6699999999999999,0.03,0.24,1.17
+1261,1262,80.0,2000,Puzzle,Nintendo,Kirby Tilt 'n' Tumble,0.2899999999999999,0.17,0.75,0.02,1.23
+1262,1263,69.0,2003,Platform,THQ,SpongeBob SquarePants: Battle for Bikini Bottom,0.88,0.33,0.0,0.02,1.23
+1263,1264,85.73,1998,Racing,Activision,Vigilante 8,0.68,0.47,0.0,0.08,1.23
+1264,1265,87.0,2004,Platform,Nintendo,Donkey Kong Country 2,0.79,0.27,0.12,0.04,1.23
+1265,1266,85.62,2009,Action,Sega,Bayonetta,0.41500000000000004,0.365,0.21,0.15500000000000003,1.15
+1266,1267,76.64,2003,Puzzle,Nintendo,"WarioWare, Inc.: Mega MicroGame$",0.4,0.11,0.7,0.02,1.23
+1267,1268,84.68,2008,Puzzle,Electronic Arts,Boom Blox,0.71,0.37,0.0,0.12,1.2
+1268,1269,75.19,2007,Simulation,Electronic Arts,The Sims 2: Castaway,0.44,0.625,0.0,0.135,1.2
+1269,1270,77.0,2010,Fighting,Namco Bandai Games,Naruto Shippuden: Ultimate Ninja Storm 2,0.405,0.44499999999999995,0.15,0.175,1.1749999999999998
+1270,1271,81.03,2004,Sports,Nintendo,Mario Power Tennis,0.5799999999999998,0.16,0.46,0.03,1.22
+1271,1272,83.0,1997,Puzzle,Sony Computer Entertainment,Intelligent Qube,0.13,0.07,1.0,0.02,1.22
+1272,1273,83.0,2011,Racing,Codemasters,F1 2011,0.105,0.7050000000000001,0.11,0.24,1.155
+1273,1274,81.0,1997,Sports,Electronic Arts,NBA Live 99,1.13,0.05,0.0,0.03,1.22
+1274,1275,87.15,2002,Role-Playing,Nintendo,Golden Sun: The Lost Age,0.61,0.27,0.27,0.07,1.22
+1275,1276,70.0,1996,Simulation,Maxis,SimCity 2000,0.68,0.46,0.0,0.08,1.22
+1276,1277,85.91,2001,Shooter,Take-Two Interactive,Max Payne,0.98,0.19,0.0,0.05,1.22
+1277,1278,73.2,1998,Fighting,Electronic Arts,WCW Mayhem,0.68,0.46,0.0,0.08,1.22
+1278,1279,83.0,2002,Sports,Sega,NBA 2K2,0.59,0.46,0.01,0.15,1.22
+1279,1280,81.0,,Racing,Unknown,NASCAR Thunder 2003,0.6,0.46,0.0,0.16,1.22
+1280,1281,85.0,2011,Fighting,Capcom,Super Street Fighter IV: 3D Edition,0.485,0.36,0.14,0.08,1.06
+1281,1282,71.0,2006,Racing,THQ,Cars,1.01,0.04,0.0,0.16,1.21
+1282,1283,67.8,2001,Misc,Microsoft Game Studios,Fuzion Frenzy,0.93,0.24,0.0,0.04,1.21
+1283,1284,73.43,2004,Shooter,Activision,Call of Duty: Finest Hour,0.78,0.4,0.0,0.04,1.21
+1284,1285,80.0,2010,Sports,Electronic Arts,FIFA Soccer 11,0.12,0.655,0.01,0.345,1.13
+1285,1286,84.0,2002,Platform,Sony Computer Entertainment,Sly Cooper and the Thievius Raccoonus,1.03,0.14,0.0,0.04,1.21
+1286,1287,69.0,2009,Action,Activision,LEGO Indiana Jones 2: The Adventure Continues,0.625,0.41000000000000003,0.0,0.11499999999999999,1.155
+1287,1288,79.88,2001,Role-Playing,Enix Corporation,Dragon Quest IV: Michibikareshi Monotachi,0.0,0.0,1.2,0.01,1.21
+1288,1289,76.0,1999,Action,LucasArts,Star Wars Episode 1: Jedi Power Battles,0.66,0.48,0.01,0.06,1.21
+1289,1290,80.7,2000,Action,Virgin Interactive,Dino Crisis 2,0.34,0.49,0.28,0.1,1.21
+1290,1291,83.0,2003,Racing,Electronic Arts,Need for Speed Underground,0.69,0.48,0.01,0.03,1.21
+1291,1292,63.0,2007,Misc,,Shrek / Shrek 2 2-in-1 Gameboy Advance Video,0.87,0.32,0.0,0.02,1.21
+1292,1293,67.0,1997,Racing,Electronic Arts,Test Drive 4,0.67,0.46,0.0,0.08,1.21
+1293,1294,88.49,2005,Sports,Konami Digital Entertainment,World Soccer Winning Eleven 9 (JP & Others sales),0.01,0.88,0.31,0.0,1.2
+1294,1295,61.57,2002,Action,Black Label Games,The Lord of the Rings: The Fellowship of the Ring,0.59,0.46,0.0,0.15,1.2
+1295,1296,76.76,2004,Racing,SouthPeak Games,ATV Offroad Fury 3,1.0,0.04,0.0,0.16,1.2
+1296,1297,91.0,2004,Strategy,Nintendo,Pikmin 2,0.48,0.13,0.56,0.03,1.2
+1297,1298,47.0,2008,Misc,Disney Interactive Studios,Disney Sing It,0.765,0.29999999999999993,0.0,0.11499999999999999,1.18
+1298,1299,91.53,1999,Sports,Sega,NFL 2K,1.12,0.05,0.0,0.02,1.2
+1299,1300,76.0,1989,Shooter,Nintendo,SolarStriker,0.4,0.39,0.36,0.04,1.2
+1300,1301,70.0,2003,Action,Atari,Enter the Matrix,0.72,0.43,0.01,0.04,1.2
+1301,1302,84.0,2001,Sports,Electronic Arts,NHL 2002,0.59,0.46,0.0,0.15,1.2
+1302,1303,77.43,2006,Puzzle,Nintendo,Mario vs. Donkey Kong 2: March of the Minis,0.73,0.02,0.36,0.07,1.18
+1303,1304,78.0,2009,Adventure,Nintendo,PokéPark Wii: Pikachu's Adventure,0.525,0.18,0.42,0.065,1.19
+1304,1305,86.95,2006,Action,Konami Digital Entertainment,Metal Gear Solid: Portable Ops,0.37,0.29,0.38,0.125,1.16
+1305,1306,74.0,1997,Simulation,Electronic Arts,Nuclear Strike,0.66,0.45,0.0,0.08,1.19
+1306,1307,82.0,2007,Fighting,THQ,WWE SmackDown vs Raw 2008,0.44,0.46499999999999997,0.0,0.275,1.18
+1307,1308,51.82,2003,Racing,THQ,The Simpsons: Road Rage,0.86,0.32,0.0,0.02,1.19
+1308,1309,79.0,2008,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2008,0.09,0.84,0.11,0.15,1.19
+1309,1310,66.0,2002,Platform,THQ,SpongeBob SquarePants: Revenge of the Flying Dutchman,0.92,0.23,0.0,0.04,1.19
+1310,1311,74.0,2012,Sports,Sega,Mario & Sonic at the London 2012 Olympic Games,0.16499999999999998,0.54,0.27,0.08,1.05
+1311,1312,76.58,2006,Action,Vivendi Games,Scarface: The World is Yours,0.99,0.04,0.0,0.16,1.19
+1312,1313,70.0,1998,Sports,Nintendo,Kobe Bryant in NBA Courtside,1.02,0.13,0.04,0.01,1.19
+1313,1314,81.0,1990,Platform,Capcom,Disney's Chip 'n Dale: Rescue Rangers,0.68,0.14,0.35,0.02,1.19
+1314,1315,56.0,1999,Racing,Ubisoft,The Dukes of Hazzard: Racing for Home,0.99,0.16,0.0,0.04,1.19
+1315,1316,84.63,,Action,Eidos Interactive,Hitman 2: Silent Assassin,0.76,0.38,0.0,0.05,1.19
+1316,1317,75.0,2002,Action,Activision,Spider-Man: The Movie,0.86,0.27,0.01,0.04,1.19
+1317,1318,85.0,2004,Role-Playing,Nintendo,Final Fantasy I & II: Dawn of Souls,0.64,0.24,0.2899999999999999,0.02,1.19
+1318,1319,75.4,2012,Misc,Ubisoft,Just Dance 4,0.785,0.16,0.0,0.07500000000000001,1.025
+1319,1320,84.0,1999,Adventure,Konami Digital Entertainment,Metal Gear Solid VR Missions,0.66,0.45,0.0,0.08,1.18
+1320,1321,63.0,2012,Action,Capcom,Resident Evil: Operation Raccoon City,0.44,0.21000000000000002,0.36,0.095,1.1
+1321,1322,79.0,2008,Action,LucasArts,LEGO Indiana Jones: The Original Adventures,0.385,0.475,0.0,0.28500000000000003,1.145
+1322,1323,89.34,1999,Adventure,Sega,Shenmue,0.52,0.24,0.38,0.04,1.18
+1323,1324,86.0,2000,Sports,Nintendo,Mario Tennis,0.5,0.18,0.44,0.06,1.18
+1324,1325,83.0,2001,Sports,Activision,Tony Hawk's Pro Skater 2,0.85,0.31,0.0,0.02,1.18
+1325,1326,78.0,2011,Fighting,THQ,WWE '12,0.49,0.42500000000000004,0.02,0.17,1.105
+1326,1327,83.0,2009,Fighting,THQ,WWE SmackDown vs. Raw 2010,0.475,0.47,0.01,0.195,1.15
+1327,1328,84.0,2011,Strategy,Mastertronic,Plants vs. Zombies,0.835,0.11,0.0,0.07500000000000001,1.02
+1328,1329,57.0,2006,Platform,Sega,Sonic the Hedgehog,0.395,0.28500000000000003,0.04,0.43000000000000005,1.145
+1329,1330,81.0,1991,Platform,Capcom,Super Ghouls 'n Ghosts,0.5,0.14,0.52,0.02,1.18
+1330,1331,85.13,2008,Strategy,Electronic Arts,Spore,0.015,0.99,0.0,0.075,1.075
+1331,1332,72.0,1996,Simulation,Electronic Arts,Soviet Strike,0.65,0.44,0.0,0.08,1.17
+1332,1333,80.0,2011,Sports,Ubisoft,Your Shape: Fitness Evolved 2012,0.615,0.325,0.0,0.095,1.035
+1333,1334,74.17,2008,Shooter,Electronic Arts,Army of Two,0.725,0.25,0.02,0.14500000000000002,1.145
+1334,1335,79.15,2005,Shooter,Activision,Gun,0.98,0.04,0.0,0.16,1.17
+1335,1336,69.16,2002,Platform,Electronic Arts,Ty the Tasmanian Tiger,0.57,0.45,0.0,0.15,1.17
+1336,1337,77.8,2008,Platform,Nintendo,Wario Land: Shake It!,0.5800000000000001,0.29999999999999993,0.15,0.10500000000000001,1.1400000000000001
+1337,1338,84.0,2007,Platform,Sega,Sonic Rush Adventure,0.525,0.48,0.01,0.12,1.1400000000000001
+1338,1339,68.0,2012,Action,Electronic Arts,Medal of Honor: Warfighter,0.5,0.395,0.01,0.095,1.0
+1339,1340,87.0,1990,Platform,Capcom,Mega Man 3,0.615,0.13,0.39,0.01,1.145
+1340,1341,64.0,1997,Action,Ocean,Mission: Impossible,0.74,0.38,0.02,0.03,1.17
+1341,1342,82.0,1996,Racing,Sony Computer Entertainment,Rage Racer,0.16,0.11,0.83,0.08,1.17
+1342,1343,69.0,2003,Shooter,Electronic Arts,Medal of Honor: Rising Sun,0.76,0.36,0.0,0.05,1.17
+1343,1344,76.0,1996,Racing,Psygnosis,Destruction Derby 2,0.65,0.44,0.0,0.08,1.17
+1344,1345,79.53,2008,Platform,Electronic Arts,Mirror's Edge,0.495,0.495,0.01,0.125,1.13
+1345,1346,79.06999999999998,2004,Puzzle,Nintendo,Mario vs. Donkey Kong,0.68,0.25,0.21,0.02,1.17
+1346,1347,67.17,2008,Action,Activision,007: Quantum of Solace,0.42,0.49,0.02,0.19,1.115
+1347,1348,68.0,2009,Sports,Electronic Arts,EA Sports Active: More Workouts,0.75,0.265,0.0,0.1,1.115
+1348,1349,83.65,2010,Role-Playing,Bethesda Softworks,Fallout: New Vegas,0.5449999999999999,0.385,0.0,0.13,1.055
+1349,1350,88.26,2007,Role-Playing,Square Enix,Final Fantasy Tactics: The War of the Lions,0.435,0.235,0.3,0.155,1.13
+1350,1351,85.57,2006,Racing,Take-Two Interactive,Midnight Club 3: DUB Edition Remix,0.97,0.04,0.0,0.16,1.16
+1351,1352,70.71,2004,Shooter,Ubisoft,Tom Clancy's Ghost Recon: Jungle Storm,0.57,0.44,0.0,0.15,1.16
+1352,1353,78.0,2007,Misc,Sony Computer Entertainment,SingStar,0.43,0.5249999999999999,0.0,0.115,1.075
+1353,1354,83.0,1997,Fighting,Sony Computer Entertainment,Bushido Blade,0.39,0.27,0.43,0.08,1.16
+1354,1355,76.0,2011,Action,LucasArts,LEGO Star Wars III: The Clone Wars,0.5800000000000001,0.355,0.0,0.1,1.035
+1355,1356,81.0,2001,Racing,Electronic Arts,NASCAR Thunder 2002,0.57,0.44,0.0,0.15,1.16
+1356,1357,87.0,1999,Shooter,Nintendo,Jet Force Gemini,0.78,0.28,0.07,0.02,1.16
+1357,1358,90.0,1993,Platform,Capcom,Mega Man X,0.5349999999999999,0.12,0.5,0.015,1.1749999999999998
+1358,1359,73.0,2002,Role-Playing,Konami Digital Entertainment,Yu-Gi-Oh! The Sacred Cards (American and Others sales),0.84,0.27,0.0,0.05,1.16
+1359,1360,81.77,1995,Racing,Sega,Sega Rally Championship,0.21,0.16,0.77,0.02,1.16
+1360,1361,55.0,1997,Racing,Eidos Interactive,Test Drive: Off Road,0.65,0.44,0.0,0.08,1.16
+1361,1362,79.0,2007,Shooter,Electronic Arts,Medal of Honor Heroes 2,0.485,0.38,0.02,0.245,1.13
+1362,1363,65.0,2010,Shooter,City Interactive,Sniper: Ghost Warrior,0.49,0.49,0.0,0.11499999999999999,1.0899999999999999
+1363,1364,84.0,2005,Action,Eidos Interactive,LEGO Star Wars: The Video Game,0.83,0.28,0.0,0.05,1.16
+1364,1365,80.0,2009,Sports,Electronic Arts,FIFA Soccer 10,0.15,0.665,0.01,0.31,1.13
+1365,1366,81.95,2008,Simulation,Sega,Worldwide Soccer Manager 2009,0.0,1.14,0.0,0.01,1.145
+1366,1367,52.65,2001,Action,Midway Games,Gauntlet: Dark Legacy,0.56,0.44,0.0,0.15,1.15
+1367,1368,85.0,2007,Action,Eidos Interactive,Ninja Gaiden Sigma,0.56,0.30999999999999994,0.09,0.155,1.12
+1368,1369,44.0,2004,Shooter,Empire Interactive,Bad Boys: Miami Takedown,0.56,0.44,0.0,0.15,1.15
+1369,1370,88.0,2010,Action,Take-Two Interactive,Red Dead Redemption: Undead Nightmare,0.4,0.42500000000000004,0.06,0.16999999999999998,1.06
+1370,1371,71.0,2009,Platform,Sega,Sonic and the Black Knight,0.595,0.32999999999999996,0.01,0.1,1.035
+1371,1372,92.29,2007,Shooter,Activision,Call of Duty 4: Modern Warfare,0.0,1.09,0.0,0.025,1.115
+1372,1373,45.0,1990,Puzzle,Nintendo,Qix,0.51,0.2,0.41,0.03,1.15
+1373,1374,57.0,1986,Action,Hudson Soft,Doraemon,0.0,0.0,1.15,0.0,1.15
+1374,1375,33.0,2008,Misc,Disney Interactive Studios,High School Musical 2: Work This Out!,0.495,0.52,0.0,0.13,1.145
+1375,1376,76.0,2011,Platform,Sony Computer Entertainment,Ratchet & Clank: All 4 One,0.71,0.19,0.05,0.11499999999999999,1.0699999999999998
+1376,1377,81.0,2003,Misc,Nintendo,Donkey Konga,0.5,0.16,0.46,0.03,1.15
+1377,1378,83.68,2011,Fighting,Electronic Arts,Fight Night Champion,0.395,0.435,0.0,0.16999999999999998,0.9949999999999999
+1378,1379,79.0,1993,Role-Playing,Enix Corporation,Dragon Quest I & II,0.0,0.0,1.15,0.0,1.15
+1379,1380,67.0,2003,Platform,THQ,Tak and the Power of Juju,0.56,0.44,0.0,0.15,1.15
+1380,1381,65.39,1998,Shooter,Success,Asteroids,0.64,0.43,0.0,0.07,1.15
+1381,1382,53.93,2000,Action,Take-Two Interactive,Action Bass,0.64,0.43,0.0,0.07,1.14
+1382,1383,79.62,2003,Action,Activision,Tenchu: Wrath of Heaven,0.44,0.34,0.25,0.11,1.14
+1383,1384,91.0,2005,Action,Sony Computer Entertainment,Shadow of the Colossus,0.78,0.03,0.2,0.13,1.14
+1384,1385,79.67,1998,Role-Playing,SquareSoft,Brave Fencer Musashi,0.25,0.17,0.65,0.07,1.14
+1385,1386,85.0,2007,Sports,Sony Computer Entertainment,Hot Shots Golf: Out of Bounds,0.29999999999999993,0.02,0.76,0.035,1.115
+1386,1387,79.52,2005,Simulation,Konami Digital Entertainment,Dance Dance Revolution Extreme 2,0.95,0.04,0.0,0.16,1.14
+1387,1388,78.67,2008,Platform,Electronic Arts,Mirror's Edge,0.29999999999999993,0.575,0.02,0.215,1.1099999999999999
+1388,1389,70.0,2009,Platform,Ubisoft,Rabbids Go Home,0.245,0.73,0.0,0.135,1.1099999999999999
+1389,1390,66.0,1998,Shooter,Acclaim Entertainment,South Park,0.9,0.23,0.0,0.02,1.14
+1390,1391,74.0,1986,Action,Capcom,Commando,0.71,0.16,0.25,0.03,1.14
+1391,1392,82.0,1990,Simulation,Nintendo,Pilotwings,0.46,0.17,0.48,0.02,1.14
+1392,1393,93.63,2000,Action,Eidos Interactive,Resident Evil - Code: Veronica,0.41,0.23,0.47,0.03,1.14
+1393,1394,74.0,1991,Racing,Nintendo,Super R.C. Pro-Am,0.5799999999999998,0.37,0.15,0.04,1.14
+1394,1395,84.34,2003,Action,Electronic Arts,The Lord of the Rings: The Return of the King,0.71,0.38,0.0,0.05,1.14
+1395,1396,82.0,2005,Action,Eidos Interactive,LEGO Star Wars: The Video Game,0.82,0.3,0.0,0.02,1.14
+1396,1397,85.66,2009,Misc,Activision,Guitar Hero 5,0.63,0.355,0.0,0.11,1.1
+1397,1398,50.0,2001,Simulation,Atari,Mobile Suit Gundam: Federation vs. Zeon,0.12,0.1,0.88,0.03,1.14
+1398,1399,85.0,2004,Racing,Electronic Arts,Need for Speed Underground 2,0.7,0.39,0.01,0.03,1.14
+1399,1400,86.82,2002,Simulation,Microsoft Game Studios,MechAssault,1.01,0.1,0.0,0.03,1.13
+1400,1401,83.13,2010,Racing,Sony Computer Entertainment,ModNation Racers,0.475,0.38,0.06,0.15000000000000002,1.065
+1401,1402,84.66,2004,Shooter,Ubisoft,Tom Clancy's Rainbow Six 3: Black Arrow,0.99,0.12,0.0,0.02,1.13
+1402,1403,77.0,1983,Platform,Nintendo,Donkey Kong,0.23,0.05,0.84,0.01,1.13
+1403,1404,55.0,1998,Misc,Sony Computer Entertainment,Jampack Winter '98,0.63,0.43,0.0,0.07,1.13
+1404,1405,79.65,2009,Action,Sega,Yakuza 3,0.195,0.195,0.62,0.07500000000000001,1.0899999999999999
+1405,1406,80.0,2005,Role-Playing,Nintendo,Pokémon Mystery Dungeon: Red Rescue Team (US weekly sales),0.81,0.3,0.0,0.02,1.13
+1406,1407,85.0,2009,Misc,MTV Games,The Beatles: Rock Band,0.65,0.28,0.0,0.14500000000000002,1.08
+1407,1408,77.86,2011,Action,Electronic Arts,Dragon Age II,0.675,0.275,0.01,0.09,1.05
+1408,1409,58.0,2001,Racing,Activision,Supercar Street Challenge,0.55,0.43,0.0,0.14,1.12
+1409,1410,83.0,1996,Simulation,Nintendo,Pilotwings 64,0.56,0.24,0.3,0.02,1.12
+1410,1411,70.68,2010,Shooter,Microsoft Game Studios,Crackdown 2,0.61,0.355,0.02,0.1,1.09
+1411,1412,86.0,2011,Misc,Ubisoft,Rocksmith,0.755,0.16,0.01,0.07500000000000001,0.9950000000000001
+1412,1413,81.54,2005,Shooter,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs Fireteam Bravo,1.02,0.0,0.01,0.07500000000000001,1.105
+1413,1414,79.31,2005,Shooter,Activision,Call Of Duty 2: Big Red One,0.66,0.4,0.0,0.05,1.12
+1414,1415,72.0,1992,Puzzle,Nintendo,Yoshi's Cookie,0.47,0.09,0.63,0.02,1.21
+1415,1416,81.0,2009,Misc,Activision,Guitar Hero 5,0.28,0.49,0.0,0.35000000000000003,1.12
+1416,1417,82.2,2007,Sports,Russel,Worldwide Soccer Manager 2008,0.0,1.1150000000000002,0.0,0.0,1.1150000000000002
+1417,1418,83.54,2004,Action,Activision,Spider-Man 2,0.82,0.26,0.0,0.04,1.12
+1418,1419,73.16,2003,Shooter,Microsoft Game Studios,Counter-Strike,0.85,0.23,0.0,0.04,1.11
+1419,1420,86.74,2008,Racing,Codemasters,GRID,0.305,0.54,0.03,0.19,1.065
+1420,1421,75.0,2007,Misc,RedOctane,Guitar Hero Encore: Rocks The 80s,0.92,0.04,0.0,0.15,1.11
+1421,1422,82.0,,Misc,Electronic Arts,Rock Band,0.71,0.18,0.0,0.22999999999999998,1.11
+1422,1423,93.92,2005,Action,Ubisoft,Tom Clancy's Splinter Cell: Chaos Theory,0.68,0.38,0.0,0.05,1.11
+1423,1424,75.0,1983,Platform,Nintendo,Donkey Kong Jr.,0.33,0.07,0.7,0.01,1.11
+1424,1425,75.0,1995,Role-Playing,Sony Computer Entertainment,Arc the Lad,0.0,0.0,1.1,0.01,1.11
+1425,1426,85.0,1994,Sports,Acclaim Entertainment,NBA Jam Tournament Edition,0.95,0.14,0.0,0.03,1.11
+1426,1427,71.0,2007,Racing,Electronic Arts,Need for Speed: ProStreet,0.515,0.445,0.0,0.11499999999999999,1.07
+1427,1428,72.45999999999998,1999,Role-Playing,SquareSoft,Legend of Mana,0.18,0.13,0.73,0.07,1.11
+1428,1429,87.0,2004,Puzzle,Ubisoft,Lumines: Puzzle Fusion,0.52,0.35,0.0,0.23,1.105
+1429,1430,78.0,2010,Action,Disney Interactive Studios,Toy Story 3: The Video Game,0.475,0.38,0.0,0.15500000000000003,1.0150000000000001
+1430,1431,86.58,2009,Misc,Activision,Guitar Hero 5,0.51,0.38,0.0,0.165,1.0550000000000002
+1431,1432,77.0,2007,Shooter,Electronic Arts,Medal of Honor: Airborne,0.435,0.515,0.01,0.12,1.07
+1432,1433,83.0,1997,Sports,Electronic Arts,Triple Play 98,0.61,0.42,0.0,0.07,1.1
+1433,1434,44.0,2007,Simulation,Ubisoft,Petz Dogz 2,0.46499999999999997,0.515,0.0,0.12,1.0950000000000002
+1434,1435,84.0,2010,Fighting,THQ,WWE SmackDown vs. Raw 2011,0.425,0.435,0.01,0.175,1.0550000000000002
+1435,1436,52.0,1999,Strategy,Konami Digital Entertainment,Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories,0.0,0.0,1.1,0.0,1.1
+1436,1437,77.7,1984,Puzzle,Hudson Soft,Lode Runner,0.0,0.0,1.1,0.0,1.1
+1437,1438,74.0,1989,Role-Playing,SquareSoft,The Final Fantasy Legend,0.0,0.0,1.1,0.0,1.1
+1438,1439,85.0,1989,Role-Playing,Namco Bandai Games,Famicom Jump: Eiyuu Retsuden,0.0,0.0,1.1,0.0,1.1
+1439,1440,83.0,1998,Racing,Nintendo,F-Zero X,0.45,0.33,0.2899999999999999,0.03,1.1
+1440,1441,68.0,1983,Platform,Nintendo,Popeye,0.51,0.12,0.45,0.02,1.1
+1441,1442,63.0,2008,Shooter,Electronic Arts,NERF N-Strike,0.91,0.09,0.0,0.09,1.09
+1442,1443,74.73,2001,Sports,Electronic Arts,NBA Live 2001,0.52,0.4,0.04,0.13,1.1
+1443,1444,80.0,2006,Misc,Sony Computer Entertainment,SingStar Legends,0.12,0.75,0.0,0.23,1.1
+1444,1445,77.0,2006,Misc,Sony Computer Entertainment,SingStar Rocks!,0.0,0.84,0.0,0.25,1.1
+1445,1446,93.0,2003,Role-Playing,Nintendo,Tales of Symphonia,0.54,0.21,0.31,0.04,1.1
+1446,1447,78.0,2005,Role-Playing,Activision,Untold Legends: Brotherhood of the Blade,0.535,0.325,0.01,0.22,1.085
+1447,1448,89.0,1998,Role-Playing,Sony Computer Entertainment,Star Ocean: The Second Story,0.26,0.1,0.72,0.02,1.1
+1448,1449,83.0,2008,Action,LucasArts,Star Wars: The Force Unleashed,0.42,0.38,0.0,0.235,1.04
+1449,1450,60.0,2008,Simulation,Ubisoft,Imagine: Babysitters,0.62,0.355,0.0,0.1,1.08
+1450,1451,57.75,2007,Action,Electronic Arts,The Simpsons Game,0.22499999999999998,0.53,0.0,0.29500000000000004,1.05
+1451,1452,78.06999999999998,2006,Adventure,Sega,Yakuza 2,0.05,0.1,0.84,0.1,1.09
+1452,1453,85.0,2009,Sports,Electronic Arts,Skate 2,0.81,0.15500000000000003,0.01,0.09,1.065
+1453,1454,76.04,2003,Role-Playing,Atari,Dragon Ball Z: The Legacy of Goku II,0.78,0.2899999999999999,0.0,0.02,1.09
+1454,1455,86.57,2007,Fighting,Sega,Virtua Fighter 5,0.28500000000000003,0.505,0.08,0.195,1.06
+1455,1456,94.5,2000,Sports,Sega,NFL 2K1,1.02,0.05,0.0,0.02,1.09
+1456,1457,70.55,1998,Simulation,Konami Digital Entertainment,BeatMania,0.0,0.0,1.07,0.02,1.09
+1457,1458,78.0,2005,Misc,Sony Computer Entertainment,Namco Museum Battle Collection,0.74,0.175,0.0,0.155,1.07
+1458,1459,86.0,2006,Action,LucasArts,LEGO Star Wars II: The Original Trilogy,0.955,0.03,0.0,0.08,1.07
+1459,1460,83.0,2003,Sports,Electronic Arts,Madden NFL 2004,1.02,0.02,0.0,0.05,1.09
+1460,1461,88.87,2009,Strategy,Sega,Empire: Total War,0.005,0.9099999999999999,0.0,0.095,1.01
+1461,1462,88.0,2006,Action,Electronic Arts,The Godfather,0.89,0.03,0.01,0.15,1.09
+1462,1463,89.14,2009,Sports,Electronic Arts,Tiger Woods PGA Tour 10,0.6,0.355,0.0,0.10500000000000001,1.06
+1463,1464,73.0,2002,Shooter,LucasArts,Star Wars: Bounty Hunter,0.53,0.42,0.0,0.14,1.09
+1464,1465,75.63,2010,Action,Electronic Arts,Dante's Inferno,0.62,0.28,0.04,0.13,1.065
+1465,1466,78.86,2007,Adventure,Nintendo,Endless Ocean,0.425,0.44999999999999996,0.09,0.09,1.0550000000000002
+1466,1467,86.0,1998,Sports,Midway Games,NFL Blitz 2000,0.6,0.41,0.0,0.07,1.09
+1467,1468,51.24,2010,Racing,Sega,Sonic Free Riders,0.665,0.245,0.0,0.09,1.0
+1468,1469,86.0,2003,Racing,Electronic Arts,NASCAR Thunder 2004,0.53,0.41,0.0,0.14,1.08
+1469,1470,74.0,2008,Action,Ubisoft,Prince of Persia,0.45999999999999996,0.385,0.03,0.16999999999999998,1.04
+1470,1471,66.0,2002,Platform,THQ,SpongeBob SquarePants: Revenge of the Flying Dutchman,0.53,0.41,0.0,0.14,1.08
+1471,1472,63.0,2009,Sports,THQ,The Biggest Loser,0.855,0.11499999999999999,0.0,0.09,1.06
+1472,1473,55.0,2002,Sports,Agetec,Fisherman's Bass Club,0.53,0.41,0.0,0.14,1.08
+1473,1474,76.0,2009,Adventure,Electronic Arts,MySims Agents,0.53,0.41500000000000004,0.0,0.11,1.05
+1474,1475,80.0,2009,Action,Capcom,Resident Evil: The Darkside Chronicles,0.44999999999999996,0.30000000000000004,0.2,0.08499999999999999,1.03
+1475,1476,68.0,2012,Action,Electronic Arts,NCAA Football 13,0.9450000000000001,0.0,0.0,0.065,1.01
+1476,1477,83.0,2009,Action,Take-Two Interactive,Grand Theft Auto: Chinatown Wars,0.265,0.47,0.03,0.265,1.02
+1477,1478,74.0,2010,Sports,Electronic Arts,FIFA Soccer 11,0.255,0.6799999999999999,0.0,0.125,1.065
+1478,1479,88.97,2007,Shooter,Electronic Arts,The Orange Box,0.265,0.56,0.0,0.21000000000000002,1.025
+1479,1480,79.0,2008,Action,Eidos Interactive,Tomb Raider: Underworld,0.515,0.405,0.01,0.11,1.04
+1480,1481,63.61,2004,Shooter,Ubisoft,Tom Clancy's Ghost Recon 2,0.64,0.34,0.0,0.1,1.08
+1481,1482,70.0,2008,Simulation,Electronic Arts,Spore Creatures,0.66,0.29000000000000004,0.0,0.10500000000000001,1.06
+1482,1483,73.0,1998,Sports,Midway Games,Ready 2 Rumble Boxing,0.6,0.41,0.0,0.07,1.08
+1483,1484,38.15,2003,Fighting,Atari,Dragon Ball Z: Taiketsu,0.77,0.2899999999999999,0.0,0.02,1.08
+1484,1485,54.0,2002,Platform,Ubisoft,Disney's Lilo & Stitch,0.77,0.2899999999999999,0.0,0.02,1.08
+1485,1486,82.0,2005,Shooter,Nintendo,Star Fox: Assault,0.68,0.18,0.19,0.03,1.08
+1486,1487,87.0,2008,Fighting,Namco Bandai Games,Naruto: Ultimate Ninja Storm,0.475,0.32499999999999996,0.09,0.15000000000000002,1.0350000000000001
+1487,1488,85.9,2011,Fighting,Capcom,Marvel vs. Capcom 3: Fate of Two Worlds,0.765,0.16499999999999998,0.03,0.07500000000000001,1.04
+1488,1489,70.0,1999,Misc,Sony Computer Entertainment,Doko Demo Issyo,0.0,0.0,1.0,0.07,1.07
+1489,1490,68.0,2008,Simulation,Ubisoft,Imagine: Fashion Designer New York,0.645,0.32,0.0,0.1,1.065
+1490,1491,87.0,2010,Action,Take-Two Interactive,Red Dead Redemption: Undead Nightmare,0.505,0.37,0.02,0.09,0.99
+1491,1492,83.03,2008,Action,Take-Two Interactive,Bully: Scholarship Edition,0.515,0.385,0.03,0.10500000000000001,1.0350000000000001
+1492,1493,89.57,1994,Fighting,Sega,Virtua Fighter,0.17,0.12,0.77,0.02,1.07
+1493,1494,84.0,2009,Fighting,THQ,WWE SmackDown vs. Raw 2010,0.53,0.215,0.0,0.33,1.07
+1494,1495,75.0,2007,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2008,0.08,0.9,0.04,0.05,1.07
+1495,1496,80.0,2005,Platform,Nintendo,Super Princess Peach,0.6950000000000001,0.045,0.21,0.065,1.025
+1496,1497,83.0,1997,Sports,Electronic Arts,NHL 99,0.59,0.4,0.0,0.07,1.07
+1497,1498,88.0,2005,Fighting,Namco Bandai Games,SoulCalibur III,0.74,0.15,0.13,0.05,1.07
+1498,1499,73.26,2005,Sports,Sony Computer Entertainment,World Tour Soccer,0.1,0.625,0.0,0.34,1.065
+1499,1500,72.0,1995,Racing,Sony Computer Entertainment,Ridge Racer Revolution,0.17,0.12,0.71,0.07,1.07
+1500,1501,81.0,1999,Racing,Electronic Arts,Hot Wheels Turbo Racing,0.59,0.4,0.0,0.07,1.07
+1501,1502,76.0,1998,Sports,Electronic Arts,NCAA Football 99,0.59,0.4,0.0,0.07,1.06
+1502,1503,84.0,2006,Fighting,Midway Games,Mortal Kombat: Armageddon,0.88,0.04,0.0,0.14,1.06
+1503,1504,65.89,2010,Shooter,Sega,Aliens vs Predator,0.535,0.385,0.0,0.10500000000000001,1.03
+1504,1505,77.5,2002,Racing,Electronic Arts,Freekstyle,0.52,0.41,0.0,0.14,1.06
+1505,1506,70.0,2008,Misc,GSP,Junior Brain Trainer,0.225,0.69,0.0,0.095,1.005
+1506,1507,83.98,2010,Action,THQ,Darksiders,0.645,0.27,0.01,0.095,1.0150000000000001
+1507,1508,83.17,2007,Racing,Codemasters,DiRT,0.155,0.655,0.0,0.225,1.0350000000000001
+1508,1509,75.81,2007,Shooter,Activision,Call of Duty 4: Modern Warfare,0.935,0.015,0.01,0.08,1.03
+1509,1510,72.04,2008,Sports,Sega,Sega Superstars Tennis,0.275,0.645,0.0,0.13,1.045
+1510,1511,90.0,2005,Sports,Electronic Arts,NBA Street V3,0.52,0.41,0.0,0.14,1.06
+1511,1512,76.0,2008,Shooter,Electronic Arts,Mercenaries 2: World in Flames,0.64,0.29000000000000004,0.01,0.1,1.0350000000000001
+1512,1513,83.15,1999,Strategy,Microprose,Worms Armageddon,0.18,0.81,0.0,0.08,1.06
+1513,1514,70.0,2003,Action,Universal Interactive,Hulk,0.52,0.41,0.0,0.14,1.06
+1514,1515,81.0,2008,Action,Activision,LEGO Indiana Jones: The Original Adventures,0.41500000000000004,0.395,0.0,0.16499999999999998,0.97
+1515,1516,89.0,1998,Sports,Midway Games,NFL Blitz,1.02,0.04,0.0,0.01,1.06
+1516,1517,65.0,1997,Sports,Acclaim Entertainment,NFL Quarterback Club 98,1.01,0.05,0.0,0.01,1.06
+1517,1518,84.89,2009,Misc,Activision,DJ Hero,0.53,0.395,0.0,0.10500000000000001,1.025
+1518,1519,34.0,2007,Platform,Take-Two Interactive,Dora the Explorer: Dora Saves the Mermaids,0.955,0.005,0.0,0.08,1.045
+1519,1520,85.94,2001,Role-Playing,Vivendi Games,Diablo II: Lord of Destruction,1.03,0.015,0.0,0.0,1.05
+1520,1521,70.0,2004,Action,Activision,Spider-Man 2,0.76,0.28,0.0,0.02,1.06
+1521,1522,80.38,2007,Sports,Sega,Virtua Tennis 3,0.225,0.5700000000000001,0.03,0.21000000000000002,1.03
+1522,1523,86.0,2002,Racing,Play It,Seek and Destroy,0.52,0.4,0.0,0.14,1.06
+1523,1524,84.14,2007,Simulation,Sony Computer Entertainment,Warhawk,0.48,0.385,0.0,0.17,1.04
+1524,1525,78.39,2007,Adventure,Capcom,Apollo Justice: Ace Attorney,0.275,0.034999999999999996,0.64,0.03,0.98
+1525,1526,79.77,2006,Shooter,Sony Computer Entertainment,SOCOM: U.S. Navy SEALs Fireteam Bravo 2,0.805,0.11,0.0,0.13,1.045
+1526,1527,66.97,2010,Shooter,Sega,Aliens vs Predator,0.395,0.44999999999999996,0.0,0.175,1.01
+1527,1528,65.0,1986,Platform,Hudson Soft,Adventure Island,0.0,0.0,1.05,0.0,1.05
+1528,1529,81.25,1996,Role-Playing,Sony Computer Entertainment,Arc the Lad II,0.0,0.0,0.92,0.13,1.05
+1529,1530,53.0,1985,Fighting,Namco Bandai Games,Tag Team Match M.U.S.C.L.E.,0.0,0.0,1.05,0.0,1.05
+1530,1531,81.0,2002,Sports,Sega,NBA 2K3,0.51,0.4,0.0,0.13,1.05
+1531,1532,61.61,2001,Racing,Electronic Arts,The Simpsons: Road Rage,0.78,0.26,0.0,0.01,1.05
+1532,1533,80.94,2000,Sports,Acclaim Entertainment,Dave Mirra Freestyle BMX,0.91,0.11,0.0,0.03,1.05
+1533,1534,55.0,2007,Simulation,Ubisoft,Imagine: Animal Doctor,0.45,0.485,0.0,0.11,1.045
+1534,1535,83.0,2009,Fighting,THQ,WWE SmackDown vs. Raw 2010,0.55,0.365,0.01,0.10500000000000001,1.025
+1535,1536,91.0,2005,Racing,Microsoft Game Studios,Forza Motorsport,0.52,0.51,0.0,0.02,1.05
+1536,1537,60.0,2006,Platform,Sega,Sonic the Hedgehog,0.42000000000000004,0.475,0.0,0.11,1.005
+1537,1538,74.0,2009,Adventure,Electronic Arts,MySims Agents,0.5999999999999999,0.31,0.0,0.1,1.0150000000000001
+1538,1539,86.0,1998,Simulation,Sony Computer Entertainment,Monster Rancher 2,0.19,0.13,0.66,0.07,1.05
+1539,1540,62.83,2007,Action,Electronic Arts,The Simpsons Game,0.53,0.38,0.0,0.10500000000000001,1.0150000000000001
+1540,1541,70.0,2008,Action,Warner Bros. Interactive Entertainment,Guinness World Records: The Videogame,0.45,0.46499999999999997,0.0,0.11,1.025
+1541,1542,82.69,2003,Sports,Electronic Arts,MVP Baseball 2003,0.51,0.4,0.0,0.13,1.04
+1542,1543,88.16,,Action,Eidos Interactive,Legacy of Kain: Soul Reaver,0.5799999999999998,0.4,0.0,0.07,1.04
+1543,1544,72.91,2007,Fighting,Atari,Dragon Ball Z: Budokai Tenkaichi 3,0.32,0.33999999999999997,0.26,0.08499999999999999,1.005
+1544,1545,82.0,1997,Role-Playing,Namco Bandai Games,Tales of Destiny,0.09,0.06,0.83,0.07,1.04
+1545,1546,40.0,2009,Adventure,Disney Interactive Studios,Disney Fairies: Tinker Bell and the Lost Treasure,0.5349999999999999,0.32499999999999996,0.02,0.095,0.9750000000000001
+1546,1547,85.0,1996,Action,Virgin Interactive,Mega Man X4,0.45,0.3,0.22,0.07,1.04
+1547,1548,83.0,2003,Fighting,Nintendo,Naruto: Clash of Ninja 2,0.44,0.12,0.45,0.03,1.04
+1548,1549,75.36,2006,Simulation,Konami Digital Entertainment,Dance Dance Revolution SuperNOVA,0.87,0.03,0.0,0.14,1.04
+1549,1550,69.74,2011,Shooter,Bethesda Softworks,Brink,0.565,0.33499999999999996,0.01,0.095,1.005
+1550,1551,83.37,2001,Racing,Nintendo,F-Zero: Maximum Velocity,0.39,0.16,0.37,0.12,1.04
+1551,1552,68.88,1997,Puzzle,Hudson Soft,Bomberman 64,0.5,0.2,0.31,0.03,1.04
+1552,1553,58.0,1998,Racing,Acclaim Entertainment,Jeremy McGrath Supercross 98,0.91,0.1,0.0,0.03,1.04
+1553,1554,78.0,2009,Action,Activision,LEGO Indiana Jones 2: The Adventure Continues,0.5800000000000001,0.28,0.0,0.08499999999999999,0.95
+1554,1555,89.0,2005,Racing,Electronic Arts,Need for Speed: Most Wanted,0.53,0.46,0.0,0.05,1.04
+1555,1556,84.36,2011,Platform,Nintendo,Kirby: Mass Attack,0.445,0.055,0.405,0.045,0.95
+1556,1557,54.0,2010,Simulation,Activision,ZhuZhu Pets,0.655,0.265,0.0,0.09,1.01
+1557,1558,86.59,2007,Shooter,Ubisoft,Tom Clancy's Ghost Recon Advanced Warfighter 2,0.335,0.47,0.02,0.185,1.02
+1558,1559,81.28,2009,Racing,Sony Computer Entertainment,MotorStorm: Arctic Edge,0.14500000000000002,0.54,0.0,0.28,0.97
+1559,1560,88.26,2005,Racing,Sony Computer Entertainment,WipEout Pure,0.45499999999999996,0.335,0.0,0.215,1.01
+1560,1561,77.84999999999998,2005,Racing,THQ,MX vs. ATV Unleashed,0.86,0.03,0.0,0.14,1.03
+1561,1562,70.0,2008,Platform,Sega,Sonic Unleashed,0.53,0.30000000000000004,0.01,0.13,0.9650000000000001
+1562,1563,73.89,2007,Sports,Electronic Arts,Tiger Woods PGA Tour 08,0.9299999999999999,0.015,0.0,0.08,1.02
+1563,1564,78.0,2003,Sports,Electronic Arts,NCAA March Madness 2004,0.5,0.39,0.0,0.13,1.03
+1564,1565,80.0,,Platform,Nintendo,Donkey Kong Land III,0.68,0.31,0.0,0.04,1.03
+1565,1566,62.83,2007,Action,Electronic Arts,The Simpsons Game,0.445,0.44999999999999996,0.0,0.11,1.0
+1566,1567,91.67,1996,Action,Eidos Interactive,Tomb Raider,0.96,0.07,0.0,0.0,1.025
+1567,1568,88.0,2008,Misc,MTV Games,Rock Band 2,0.9299999999999999,0.005,0.0,0.08,1.0150000000000001
+1568,1569,88.0,1998,Fighting,Virgin Interactive,Street Fighter Alpha 3,0.38,0.12,0.51,0.02,1.03
+1569,1570,84.55,2011,Shooter,Electronic Arts,Bulletstorm,0.585,0.30000000000000004,0.01,0.08499999999999999,0.98
+1570,1571,71.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.315,0.585,0.01,0.11,1.02
+1571,1572,79.0,2007,Fighting,Tomy Corporation,Naruto: Clash of Ninja Revolution,0.445,0.455,0.0,0.11,1.01
+1572,1573,86.46,2007,Shooter,Ubisoft,Tom Clancy's Ghost Recon Advanced Warfighter 2,0.855,0.045,0.02,0.08,1.0
+1573,1574,68.0,2004,Platform,Activision,Shrek 2,0.73,0.26,0.01,0.03,1.02
+1574,1575,73.0,2007,Simulation,Ubisoft,Petz: Catz 2,0.51,0.4,0.0,0.11,1.0150000000000001
+1575,1576,80.0,1993,Action,Capcom,Final Fight 2,0.39,0.12,0.49,0.02,1.02
+1576,1577,54.78,2008,Platform,THQ,Wall-E,0.495,0.395,0.0,0.10500000000000001,0.995
+1577,1578,59.67,1997,Action,Electronic Arts,The Lost World: Jurassic Park,0.57,0.39,0.0,0.07,1.02
+1578,1579,81.59,2007,Simulation,Atari,Ace Combat 6: Fires of Liberation,0.665,0.03,0.22,0.06,0.98
+1579,1580,84.0,2006,Sports,Electronic Arts,Madden NFL 07,0.97,0.03,0.0,0.03,1.02
+1580,1581,77.0,2004,Action,Electronic Arts,Harry Potter and the Prisoner of Azkaban,0.5,0.39,0.0,0.13,1.02
+1581,1582,37.0,1998,Puzzle,Hasbro Interactive,Pong: The Next Level,0.56,0.38,0.0,0.07,1.01
+1582,1583,80.0,2008,Action,Ubisoft,Prince of Persia,0.53,0.33499999999999996,0.02,0.1,0.99
+1583,1584,85.0,2008,Action,Tecmo Koei,Ninja Gaiden II,0.635,0.215,0.05,0.095,0.99
+1584,1585,85.0,1995,Sports,Acclaim Entertainment,NBA Jam Tournament Edition,0.87,0.12,0.0,0.02,1.01
+1585,1586,79.0,2010,Misc,Activision,Guitar Hero: Warriors of Rock,0.45499999999999996,0.38,0.0,0.09,0.925
+1586,1587,73.0,2006,Misc,Sega,Oshare Majo Love and Berry: DS Collection,0.0,0.0,1.01,0.0,1.01
+1587,1588,85.0,1997,Simulation,Tecmo Koei,Monster Rancher,0.12,0.08,0.74,0.07,1.01
+1588,1589,87.57,2009,Racing,Codemasters,DiRT 2,0.265,0.505,0.0,0.19,0.9650000000000001
+1589,1590,86.0,2009,Shooter,Electronic Arts,NERF N-Strike Elite,0.925,0.0,0.0,0.07500000000000001,1.0
+1590,1591,63.18,2003,Racing,Empire Interactive,Ford Racing 2,0.49,0.38,0.0,0.13,1.0
+1591,1592,75.0,1997,Role-Playing,Capcom,Breath of Fire III,0.2899999999999999,0.19,0.46,0.07,1.0
+1592,1593,75.0,2008,Sports,Konami Digital Entertainment,PES 2009: Pro Evolution Soccer,0.12,0.755,0.03,0.09,0.985
+1593,1594,91.37,2000,Fighting,Tecmo Koei,Dead or Alive 2,0.3,0.24,0.38,0.08,1.0
+1594,1595,89.07,2000,Racing,Nintendo,Excitebike 64,0.65,0.15,0.19,0.01,1.0
+1595,1596,73.0,1991,Sports,Nintendo,NES Open Tournament Golf,0.41,0.1,0.47,0.02,1.0
+1596,1597,76.0,1997,Misc,Nintendo,Game & Watch Gallery,0.63,0.25,0.09,0.03,1.0
+1597,1598,58.0,2004,Misc,Sammy Corporation,Jissen Pachi-Slot Hisshouhou: Hokuto no Ken,0.0,0.0,1.0,0.0,1.0
+1598,1599,87.0,2003,Fighting,Namco Bandai Games,SoulCalibur II,0.78,0.18,0.03,0.0,1.0
+1599,1600,59.0,2008,Shooter,Ubisoft,Haze,0.48,0.315,0.02,0.14500000000000002,0.97
+1600,1601,79.13,2006,Sports,Konami Digital Entertainment,Winning Eleven: Pro Evolution Soccer 2007 (All Region sales),0.08,0.9,0.02,0.0,1.0
+1601,1602,84.0,1995,Racing,Electronic Arts,Road & Track Presents: The Need for Speed,0.56,0.38,0.0,0.07,1.0
+1602,1603,76.0,2000,Sports,Sony Computer Entertainment,NFL GameDay 2001,0.56,0.38,0.0,0.07,1.0
+1603,1604,78.0,1996,Sports,Electronic Arts,NBA Live 97,0.55,0.38,0.0,0.07,1.0
+1604,1605,76.01,2002,Action,Tecmo Koei,Dynasty Warriors 3: Xtreme Legends,0.13,0.1,0.74,0.03,1.0
+1605,1606,63.0,2005,Strategy,THQ,Zoo Tycoon DS,0.86,0.03,0.01,0.07500000000000001,0.98
+1606,1607,60.0,2008,Puzzle,Ubisoft,Puzzler Collection,0.165,0.775,0.0,0.04,0.985
+1607,1608,56.0,2000,Misc,Sony Computer Entertainment,Jampack Winter 2000,0.55,0.38,0.0,0.07,1.0
+1608,1609,79.0,2000,Sports,Microsoft Game Studios,NFL Fever 2002,0.74,0.21,0.0,0.04,0.99
+1609,1610,80.55,2003,Racing,Vivendi Games,The Simpsons: Hit & Run,0.77,0.2,0.0,0.03,0.99
+1610,1611,78.0,2008,Simulation,Electronic Arts,Littlest Pet Shop: Winter,0.58,0.29999999999999993,0.0,0.095,0.97
+1611,1612,76.09999999999998,2006,Simulation,Namco Bandai Games,Ace Combat X: Skies of Deception,0.365,0.29500000000000004,0.12,0.185,0.965
+1612,1613,78.0,2011,Sports,Electronic Arts,NCAA Football 12,0.915,0.0,0.0,0.065,0.975
+1613,1614,79.39,2009,Misc,Activision,Band Hero,0.5700000000000001,0.28,0.0,0.09,0.94
+1614,1615,90.0,1998,Platform,GT Interactive,Oddworld: Abe's Exoddus,0.55,0.38,0.0,0.06,0.99
+1615,1616,73.39,2009,Simulation,Sony Computer Entertainment,EyePet,0.315,0.5549999999999999,0.04,0.095,1.0
+1616,1617,78.95999999999998,2008,Racing,Take-Two Interactive,Midnight Club: LA Remix,0.51,0.27,0.0,0.185,0.965
+1617,1618,75.0,2000,Action,Sony Computer Entertainment,The Bouncer,0.3,0.23,0.38,0.08,0.99
+1618,1619,74.0,2008,Misc,Activision,Guitar Hero: Aerosmith,0.6950000000000001,0.14,0.0,0.10500000000000001,0.94
+1619,1620,59.0,2007,Fighting,THQ,WWE SmackDown vs Raw 2008,0.375,0.495,0.0,0.11,0.98
+1620,1621,72.0,2009,Sports,Electronic Arts,FIFA Soccer 10,0.23,0.64,0.0,0.11,0.975
+1621,1622,54.43,2005,Platform,Sega,Shadow The Hedgehog,0.76,0.2,0.0,0.03,0.99
+1622,1623,90.69,2008,Role-Playing,Bethesda Softworks,Fallout 3,0.01,0.8300000000000001,0.0,0.07,0.915
+1623,1624,77.0,2008,Sports,Konami Digital Entertainment,Pro Evolution Soccer 2008,0.02,0.53,0.19,0.25,0.98
+1624,1625,91.74,2010,Role-Playing,Nintendo,Xenoblade Chronicles,0.44,0.24,0.16,0.07500000000000001,0.905
+1625,1626,56.42,2005,Misc,Nintendo,Mario Party Advance,0.5,0.19,0.28,0.02,0.98
+1626,1627,67.0,1998,Racing,Electronic Arts,NASCAR 99,0.94,0.04,0.0,0.01,0.98
+1627,1628,87.0,,Role-Playing,Unknown,Suikoden III,0.2899999999999999,0.23,0.38,0.08,0.98
+1628,1629,70.18,2010,Role-Playing,Square Enix,Kingdom Hearts Re:coded,0.505,0.085,0.27,0.05,0.9099999999999999
+1629,1630,91.94,2005,Action,Take-Two Interactive,Grand Theft Auto: San Andreas,0.0,0.865,0.0,0.04,0.9099999999999999
+1630,1631,82.0,2009,Sports,Electronic Arts,Madden NFL 10,0.88,0.02,0.0,0.08,0.98
+1631,1632,81.59999999999998,2009,Action,Electronic Arts,Brutal Legend,0.5999999999999999,0.255,0.0,0.09,0.9450000000000001
+1632,1633,65.0,2006,Simulation,Namco Bandai Games,Tamagotchi Connection: Corner Shop 2,0.09,0.01,0.86,0.01,0.97
+1633,1634,77.0,2007,Sports,Electronic Arts,Madden NFL 08,0.88,0.005,0.0,0.07500000000000001,0.96
+1634,1635,81.12,2008,Platform,THQ,de Blob,0.48,0.36,0.0,0.1,0.94
+1635,1636,87.87,2005,Sports,Electronic Arts,NCAA Football 06,0.73,0.21,0.0,0.03,0.97
+1636,1637,82.0,2009,Sports,Take-Two Interactive,NBA 2K10,0.85,0.015,0.0,0.07500000000000001,0.9299999999999999
+1637,1638,92.0,2003,Strategy,Nintendo,Fire Emblem,0.49,0.18,0.2899999999999999,0.01,0.97
+1638,1639,79.98,,Action,Sega,Yakuza 4,0.135,0.115,0.63,0.045,0.9199999999999999
+1639,1640,83.0,2003,Sports,Electronic Arts,NHL 2004,0.47,0.37,0.0,0.12,0.97
+1640,1641,75.95999999999998,2007,Action,Take-Two Interactive,Grand Theft Auto: Vice City Stories,0.78,0.03,0.03,0.13,0.97
+1641,1642,84.0,2004,Sports,Electronic Arts,FIFA Soccer 2005,0.33,0.6,0.0,0.04,0.97
+1642,1643,86.0,2006,Action,LucasArts,LEGO Star Wars II: The Original Trilogy,0.75,0.19,0.0,0.03,0.97
+1643,1644,82.0,2000,Shooter,Electronic Arts,Medal of Honor: Underground,0.54,0.37,0.0,0.06,0.97
+1644,1645,70.08,2005,Simulation,Electronic Arts,The Sims 2,0.8049999999999999,0.045000000000000005,0.0,0.07,0.9199999999999999
+1645,1646,88.58,2002,Role-Playing,Sony Computer Entertainment,Dark Cloud 2,0.38,0.25,0.26,0.07,0.96
+1646,1647,63.0,1999,Misc,Sony Computer Entertainment,Jampack Summer '99,0.54,0.36,0.0,0.06,0.96
+1647,1648,65.0,2006,Adventure,Sony Computer Entertainment,Gangs of London,0.3,0.43,0.0,0.22,0.95
+1648,1649,77.0,1996,Fighting,GT Interactive,Mortal Kombat Trilogy,0.72,0.22,0.0,0.02,0.96
+1649,1650,69.0,2008,Platform,Sega,Sonic Unleashed,0.495,0.315,0.0,0.09,0.8999999999999999
+1650,1651,69.5,2010,Shooter,Capcom,Lost Planet 2,0.265,0.31000000000000005,0.2,0.12,0.8999999999999999
+1651,1652,81.0,2000,Sports,Electronic Arts,NHL 2001,0.47,0.37,0.0,0.12,0.96
+1652,1653,75.0,2012,Role-Playing,Square Enix,Dragon Quest Monsters: Terry's Wonderland 3D,0.0,0.0,0.95,0.0,0.95
+1653,1654,77.0,2008,Sports,Ubisoft,My Weight Loss Coach,0.29000000000000004,0.535,0.0,0.11,0.94
+1654,1655,61.0,2006,Action,Capcom,Mega Man Star Force Dragon / Leo / Pegasus,0.385,0.0,0.53,0.03,0.95
+1655,1656,71.74,2002,Platform,Sony Computer Entertainment,Shinobi,0.36,0.28,0.22,0.09,0.96
+1656,1657,81.0,2002,Fighting,Midway Games,Mortal Kombat: Deadly Alliance,0.77,0.15,0.0,0.04,0.96
+1657,1658,75.0,2011,Simulation,Nintendo,PilotWings Resort,0.37,0.33499999999999996,0.13,0.065,0.8999999999999999
+1658,1659,84.15,2004,Sports,Global Star,ESPN NBA 2K5,0.88,0.04,0.0,0.04,0.95
+1659,1660,55.0,,Misc,Unknown,Wheel of Fortune,0.47,0.36,0.0,0.12,0.95
+1660,1661,60.22,2004,Misc,Play It,World Championship Poker,0.8,0.03,0.0,0.13,0.95
+1661,1662,88.96,2005,Action,Ubisoft,Tom Clancy's Splinter Cell: Chaos Theory,0.36,0.45,0.0,0.14,0.95
+1662,1663,76.0,2003,Platform,THQ,SpongeBob SquarePants: Battle for Bikini Bottom,0.74,0.19,0.0,0.03,0.95
+1663,1664,61.75,2008,Action,Koch Media,Ben 10: Alien Force,0.645,0.215,0.0,0.09,0.945
+1664,1665,73.0,2008,Misc,Sony Computer Entertainment,SingStar Abba,0.26,0.475,0.0,0.15500000000000003,0.8899999999999999
+1665,1666,78.89,1996,Role-Playing,Sony Computer Entertainment,Wild ARMs,0.26,0.17,0.46,0.06,0.95
+1666,1667,76.39,2000,Strategy,Electronic Arts,Kessen,0.27,0.21,0.41,0.07,0.95
+1667,1668,77.0,2003,Misc,Konami Digital Entertainment,Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel,0.68,0.25,0.0,0.02,0.95
+1668,1669,78.0,1999,Sports,Electronic Arts,NCAA Football 2000,0.53,0.36,0.0,0.06,0.95
+1669,1670,81.08,2009,Action,Electronic Arts,Brutal Legend,0.52,0.255,0.0,0.125,0.8999999999999999
+1670,1671,88.0,2009,Misc,Activision,Guitar Hero: Metallica,0.4,0.42,0.0,0.1,0.9199999999999999
+1671,1672,82.0,2008,Fighting,THQ,WWE SmackDown vs. Raw 2009,0.495,0.29000000000000004,0.01,0.125,0.915
+1672,1673,72.31999999999998,2010,Shooter,Electronic Arts,Army of Two: The 40th Day,0.5700000000000001,0.22999999999999998,0.0,0.08,0.8899999999999999
+1673,1674,54.0,2009,Sports,Activision,Tony Hawk: RIDE,0.69,0.165,0.0,0.08,0.935
+1674,1675,74.0,2004,Shooter,Sony Computer Entertainment,Killzone,0.79,0.03,0.0,0.13,0.94
+1675,1676,85.33,2003,Racing,Codemasters,Colin McRae Rally 04,0.01,0.71,0.01,0.21,0.94
+1676,1677,70.9,2004,Platform,THQ,The SpongeBob SquarePants Movie,0.73,0.19,0.0,0.03,0.94
+1677,1678,73.0,1996,Misc,GT Interactive,Midway Presents Arcade's Greatest Hits: The Atari Collection 1,0.52,0.36,0.0,0.06,0.94
+1678,1679,78.58,2003,Action,Konami Digital Entertainment,Castlevania: Lament of Innocence,0.46,0.36,0.0,0.12,0.94
+1679,1680,89.89,2009,Action,Sega,Bayonetta,0.49,0.24,0.09,0.08,0.895
+1680,1681,75.95999999999998,2005,Shooter,THQ,Destroy All Humans!,0.78,0.03,0.0,0.13,0.94
+1681,1682,87.16,2005,Sports,Electronic Arts,MVP Baseball 2005,0.7,0.2,0.0,0.03,0.94
+1682,1683,75.0,1999,Role-Playing,SquareSoft,SaGa Frontier 2,0.1,0.07,0.71,0.06,0.94
+1683,1684,80.0,2009,Sports,Electronic Arts,NCAA Football 10,0.86,0.0,0.0,0.07,0.9299999999999999
+1684,1685,80.0,1999,Sports,Sony Computer Entertainment,MLB 2000,0.52,0.35,0.0,0.06,0.94
+1685,1686,87.48,2006,Action,Take-Two Interactive,Bully,0.75,0.03,0.04,0.12,0.94
+1686,1687,89.0,2003,Action,Ubisoft,Prince of Persia: The Sands of Time,0.57,0.33,0.0,0.04,0.94
+1687,1688,83.0,2008,Role-Playing,Sega,Phantasy Star Portable,0.175,0.055,0.63,0.045,0.9099999999999999
+1688,1689,85.0,2003,Sports,Sony Computer Entertainment,Hot Shots Golf Fore!,0.46,0.36,0.0,0.12,0.94
+1689,1690,89.0,2006,Sports,Sony Computer Entertainment,MLB 06: The Show,0.78,0.03,0.0,0.13,0.94
+1690,1691,81.0,2002,Sports,Electronic Arts,NHL 2003,0.46,0.36,0.0,0.12,0.93
+1691,1692,75.43,2009,Shooter,Codemasters,Operation Flashpoint: Dragon Rising,0.355,0.44,0.02,0.1,0.91
+1692,1693,55.0,2010,Sports,Take-Two Interactive,Nickelodeon Fit,0.74,0.08499999999999999,0.0,0.065,0.89
+1693,1694,87.0,2002,Sports,Activision,Tony Hawk's Pro Skater 4,0.59,0.3,0.0,0.04,0.93
+1694,1695,78.53,2009,Sports,Electronic Arts,EA Sports Grand Slam Tennis,0.275,0.5,0.02,0.10500000000000001,0.895
+1695,1696,77.0,2008,Role-Playing,Sony Computer Entertainment,White Knight Chronicles: International Edition,0.30500000000000005,0.15000000000000002,0.36,0.07500000000000001,0.89
+1696,1697,70.0,1999,Platform,Activision,Toy Story 2: Buzz Lightyear to the Rescue!,0.71,0.2,0.0,0.01,0.93
+1697,1698,87.0,2007,Sports,Sony Computer Entertainment,MLB 07: The Show,0.77,0.03,0.0,0.13,0.93
+1698,1699,76.20999999999998,2008,Shooter,Ubisoft,Brothers in Arms: Hell's Highway,0.425,0.33,0.0,0.14500000000000002,0.9
+1699,1700,70.0,1999,Racing,Ubisoft,SnoCross Championship Racing,0.52,0.35,0.0,0.06,0.93
+1700,1701,71.0,2003,Action,Konami Digital Entertainment,Teenage Mutant Ninja Turtles,0.45,0.35,0.0,0.12,0.92
+1701,1702,56.0,2001,Simulation,Titus,Top Gun: Combat Zones,0.45,0.35,0.0,0.12,0.92
+1702,1703,76.67,2006,Role-Playing,Microsoft Game Studios,Blue Dragon,0.29000000000000004,0.315,0.21,0.07500000000000001,0.89
+1703,1704,81.06999999999998,2000,Action,Electronic Arts,007: The World is not Enough,0.51,0.35,0.0,0.06,0.92
+1704,1705,82.0,2010,Sports,Electronic Arts,NCAA Football 11,0.845,0.0,0.0,0.065,0.91
+1705,1706,79.0,1997,Sports,Electronic Arts,NHL 98,0.51,0.35,0.0,0.06,0.92
+1706,1707,67.0,2006,Action,THQ,SpongeBob SquarePants: The Yellow Avenger,0.55,0.21,0.0,0.16,0.915
+1707,1708,82.0,2008,Fighting,THQ,WWE SmackDown vs. Raw 2009,0.5700000000000001,0.25,0.0,0.08,0.9
+1708,1709,73.53,2010,Action,Electronic Arts,Dante's Inferno,0.6,0.195,0.02,0.07,0.885
+1709,1710,56.0,1996,Sports,Acclaim Entertainment,Space Jam,0.51,0.35,0.0,0.06,0.92
+1710,1711,57.0,2008,Action,Activision,Kung Fu Panda,0.495,0.315,0.0,0.09,0.905
+1711,1712,79.0,1999,Fighting,Electronic Arts,Knockout Kings 2000,0.63,0.27,0.0,0.02,0.92
+1712,1713,85.0,2012,Sports,Sony Computer Entertainment,MLB 12: The Show,0.8300000000000001,0.0,0.0,0.06,0.89
+1713,1714,63.46,2006,Racing,Sega,Sonic Riders,0.71,0.18,0.0,0.03,0.92
+1714,1715,65.0,2003,Racing,Empire Interactive,Starsky & Hutch,0.45,0.35,0.0,0.12,0.92
+1715,1716,82.81,1996,Fighting,Sony Computer Entertainment,Tobal No.1,0.12,0.08,0.66,0.06,0.92
+1716,1717,79.72,2007,Role-Playing,Microsoft Game Studios,Lost Odyssey,0.435,0.25,0.11,0.08499999999999999,0.88
+1717,1718,75.4,2009,Shooter,Codemasters,Operation Flashpoint: Dragon Rising,0.225,0.445,0.05,0.165,0.89
+1718,1719,30.5,2007,Sports,Bethesda Softworks,AMF Bowling Pinbusters!,0.84,0.0,0.0,0.07,0.905
+1719,1720,65.0,2002,Sports,Activision,Street Hoops,0.45,0.35,0.0,0.12,0.91
+1720,1721,78.91,2008,Strategy,Ubisoft,Tom Clancy's EndWar,0.565,0.24,0.01,0.08499999999999999,0.895
+1721,1722,76.28,2002,Sports,Electronic Arts,Knockout Kings 2002,0.45,0.35,0.0,0.12,0.91
+1722,1723,64.64,2003,Racing,Genki,Tokyo Xtreme Racer 3,0.35,0.27,0.21,0.09,0.91
+1723,1724,88.82,2000,Racing,Codemasters,Colin McRae Rally 2.0,0.02,0.8,0.02,0.07,0.91
+1724,1725,62.0,1998,Platform,Hasbro Interactive,Glover,0.72,0.17,0.0,0.01,0.91
+1725,1726,64.05,,Misc,Unknown,Namco Museum,0.77,0.11,0.0,0.04,0.91
+1726,1727,76.12,2009,Role-Playing,Activision,Marvel: Ultimate Alliance 2,0.665,0.14,0.0,0.07500000000000001,0.88
+1727,1728,76.27,2004,Misc,Sega,Sonic Mega Collection Plus,0.61,0.26,0.0,0.04,0.91
+1728,1729,83.95,2002,Sports,Electronic Arts,Tiger Woods PGA Tour 2002,0.44,0.35,0.0,0.12,0.9
+1729,1730,70.0,1996,Racing,ASCII Entertainment,Mini-Yonku Shining Scorpion: Let's & Go!!,0.0,0.0,0.9,0.0,0.9
+1730,1731,78.0,2004,Sports,Sony Computer Entertainment,MLB 2005,0.44,0.35,0.0,0.12,0.9
+1731,1732,93.32,2005,Racing,Electronic Arts,Burnout Revenge,0.75,0.03,0.0,0.12,0.9
+1732,1733,68.7,2008,Sports,Atari,We Ski & Snowboard,0.37,0.28500000000000003,0.15,0.08,0.885
+1733,1734,72.75,1995,Racing,Psygnosis,Destruction Derby,0.5,0.34,0.0,0.06,0.9
+1734,1735,72.0,2008,Puzzle,Midway Games,TouchMaster 2,0.3,0.485,0.0,0.1,0.885
+1735,1736,40.38,1999,Action,989 Studios,3Xtreme,0.5,0.34,0.0,0.06,0.9
+1736,1737,74.0,2006,Sports,Sony Computer Entertainment,Hot Shots Tennis,0.17,0.13,0.55,0.05,0.9
+1737,1738,75.36,2003,Platform,Sega,Sonic Heroes,0.41,0.43,0.01,0.05,0.9
+1738,1739,77.0,1998,Sports,Electronic Arts,Madden NFL 99,0.84,0.05,0.0,0.01,0.9
+1739,1740,64.0,2007,Platform,Activision,Spider-Man 3,0.74,0.03,0.01,0.12,0.9
+1740,1741,71.42,2002,Shooter,Electronic Arts,James Bond 007: Agent Under Fire,0.65,0.22,0.0,0.03,0.9
+1741,1742,68.12,2008,Misc,Sega,Samba De Amigo,0.41000000000000003,0.36,0.01,0.095,0.875
+1742,1743,78.0,2008,Sports,Electronic Arts,FIFA Soccer 09 All-Play,0.28,0.51,0.0,0.09,0.88
+1743,1744,84.0,2004,Role-Playing,Activision,X-Men Legends,0.62,0.24,0.0,0.04,0.9
+1744,1745,82.54,2004,Sports,Electronic Arts,NBA Live 2005,0.81,0.05,0.0,0.04,0.9
+1745,1746,71.0,2003,Sports,Electronic Arts,Harry Potter: Quidditch World Cup,0.44,0.34,0.0,0.11,0.9
+1746,1747,57.0,2005,Platform,Activision,Madagascar,0.62,0.24,0.0,0.03,0.89
+1747,1748,76.0,2007,Sports,Electronic Arts,Madden NFL 08,0.81,0.005,0.0,0.07,0.875
+1748,1749,88.32,2001,Platform,Konami Digital Entertainment,Castlevania: Circle of the Moon,0.6,0.22,0.05,0.02,0.89
+1749,1750,77.0,2008,Role-Playing,Sega,Sonic Chronicles: The Dark Brotherhood,0.5,0.28,0.01,0.08499999999999999,0.87
+1750,1751,81.62,2005,Sports,Electronic Arts,Tiger Woods PGA Tour 06,0.74,0.03,0.0,0.12,0.89
+1751,1752,79.02,2004,Adventure,Nintendo,Classic NES Series: The Legend of Zelda,0.46,0.17,0.24,0.02,0.89
+1752,1753,92.0,2004,Strategy,Nintendo,Fire Emblem: The Sacred Stones,0.42,0.16,0.3,0.02,0.89
+1753,1754,52.0,2003,Action,THQ,Finding Nemo,0.69,0.18,0.0,0.02,0.89
+1754,1755,81.0,1997,Simulation,Sony Computer Entertainment,Ace Combat 2,0.16,0.11,0.56,0.06,0.89
+1755,1756,73.0,2009,Racing,Codemasters,F1 2009,0.15,0.61,0.0,0.11,0.865
+1756,1757,86.85,2001,Sports,Sega,NFL 2K2,0.44,0.34,0.0,0.11,0.89
+1757,1758,58.0,2006,Racing,Ubisoft,Monster 4X4: World Circuit,0.795,0.0,0.01,0.07,0.87
+1758,1759,78.0,2000,Sports,Sony Computer Entertainment,MLB 2001,0.49,0.34,0.0,0.06,0.89
+1759,1760,74.0,2006,Misc,Sony Computer Entertainment,SingStar Anthems,0.0,0.68,0.0,0.2,0.89
+1760,1761,79.0,1996,Platform,Capcom,Mega Man 8 Anniversary Collector's Edition,0.44,0.3,0.09,0.06,0.88
+1761,1762,82.0,2010,Fighting,THQ,WWE SmackDown vs. Raw 2011,0.43,0.33999999999999997,0.0,0.08499999999999999,0.855
+1762,1763,42.0,2008,Misc,Pinnacle,Peppa Pig: The Game,0.0,0.8049999999999999,0.0,0.06,0.865
+1763,1764,88.0,2005,Action,Take-Two Interactive,NBA 2K6,0.43,0.34,0.0,0.11,0.88
+1764,1765,69.0,2007,Misc,Sony Computer Entertainment,Buzz! The Mega Quiz,0.32,0.25,0.0,0.305,0.88
+1765,1766,63.0,1996,Shooter,CTO SpA,Star Wars: Rebel Assault II - The Hidden Empire,0.49,0.33,0.0,0.06,0.88
+1766,1767,86.0,2004,Strategy,Konami Digital Entertainment,Metal Gear Ac!d,0.32,0.255,0.12,0.17,0.87
+1767,1768,86.13,2004,Sports,Global Star,ESPN NHL 2K5,0.43,0.33,0.0,0.11,0.88
+1768,1769,86.54,2008,Racing,Codemasters,GRID,0.325,0.425,0.01,0.09,0.86
+1769,1770,89.15,2003,Simulation,Microsoft Game Studios,Crimson Skies: High Road to Revenge,0.65,0.19,0.0,0.03,0.87
+1770,1771,55.0,2001,Shooter,TalonSoft,Spec Ops: Ranger Elite,0.49,0.33,0.0,0.06,0.87
+1771,1772,77.0,1995,Platform,Crystal Dynamics,Gex,0.49,0.33,0.0,0.06,0.87
+1772,1773,83.49,2007,Racing,Codemasters,DiRT,0.375,0.39,0.0,0.09,0.85
+1773,1774,60.0,2010,Sports,Ubisoft,Gold's Gym: Dance Workout,0.635,0.185,0.0,0.075,0.89
+1774,1775,81.58,2003,Shooter,Ubisoft,Tom Clancy's Ghost Recon: Island Thunder,0.61,0.24,0.0,0.03,0.87
+1775,1776,64.0,1997,Racing,Infogrames,Need for Speed: V-Rally,0.43,0.2899999999999999,0.09,0.06,0.87
+1776,1777,77.54,2008,Role-Playing,Square Enix,Kingdom Hearts Re: Chain of Memories,0.73,0.03,0.0,0.12,0.87
+1777,1778,79.0,1996,Sports,Sony Computer Entertainment,NFL GameDay '97,0.48,0.33,0.0,0.06,0.87
+1778,1779,75.0,2006,Sports,Activision,Tony Hawk's Project 8,0.72,0.03,0.0,0.12,0.87
+1779,1780,82.0,1998,Sports,Electronic Arts,NHL 2000,0.48,0.33,0.0,0.06,0.87
+1780,1781,87.31,2005,Fighting,Electronic Arts,Fight Night Round 2,0.72,0.03,0.0,0.12,0.87
+1781,1782,60.17,2009,Misc,Disney Interactive Studios,Wizards of Waverly Place,0.58,0.195,0.0,0.08,0.855
+1782,1783,76.41,2002,Shooter,SCi,Conflict: Desert Storm,0.48,0.37,0.0,0.02,0.87
+1783,1784,69.5,2002,Sports,Electronic Arts,Triple Play 2002,0.43,0.33,0.0,0.11,0.87
+1784,1785,90.0,2000,Role-Playing,Crave Entertainment,Vagrant Story,0.3,0.2,0.3,0.06,0.87
+1785,1786,54.5,2007,Action,Tecmo Koei,Warriors Orochi,0.11,0.09,0.64,0.03,0.87
+1786,1787,77.0,2007,Misc,Sony Computer Entertainment,SingStar '90s,0.1,0.59,0.0,0.18,0.87
+1787,1788,81.23,2006,Sports,Konami Digital Entertainment,Winning Eleven: Pro Evolution Soccer 2007,0.01,0.72,0.12,0.01,0.86
+1788,1789,76.61,2002,Fighting,Rage Software,Rocky,0.42,0.33,0.0,0.11,0.86
+1789,1790,56.0,2001,Racing,Empire Interactive,Ford Racing,0.48,0.33,0.0,0.06,0.86
+1790,1791,79.0,1997,Sports,Electronic Arts,Madden Football 64,0.81,0.04,0.0,0.01,0.86
+1791,1792,74.0,1998,Sports,Sony Computer Entertainment,MLB 99,0.48,0.32,0.0,0.06,0.86
+1792,1793,69.73,2003,Action,Tecmo Koei,Dynasty Warriors 4: Xtreme Legends,0.17,0.13,0.51,0.04,0.86
+1793,1794,72.0,2007,Sports,Electronic Arts,FIFA Soccer 08,0.1,0.65,0.0,0.11,0.85
+1794,1795,70.72,1999,Action,3DO,Army Men: Air Attack,0.47,0.32,0.0,0.06,0.85
+1795,1796,85.0,2007,Sports,Take-Two Interactive,NBA 2K8,0.78,0.0,0.0,0.065,0.845
+1796,1797,84.0,1996,Fighting,Virgin Interactive,Street Fighter Alpha 2,0.14,0.09,0.57,0.06,0.85
+1797,1798,86.51,2004,Sports,Electronic Arts,Tiger Woods PGA Tour 2005,0.64,0.18,0.0,0.03,0.85
+1798,1799,72.0,1997,Action,GT Interactive,Rampage World Tour,0.47,0.32,0.0,0.06,0.85
+1799,1800,70.0,2007,Action,THQ,Ratatouille,0.31,0.21,0.0,0.32,0.85
+1800,1801,73.0,1995,Sports,Sony Computer Entertainment,NFL GameDay,0.47,0.32,0.0,0.06,0.85
+1801,1802,89.43,2002,Racing,Acclaim Entertainment,Burnout 2: Point of Impact,0.42,0.32,0.0,0.11,0.85
+1802,1803,77.0,2000,Fighting,Virgin Interactive,Street Fighter EX3,0.32,0.25,0.2,0.08,0.85
+1803,1804,82.0,2004,Action,Activision,Spider-Man 2,0.65,0.17,0.0,0.02,0.84
+1804,1805,64.0,2008,Simulation,Ubisoft,Petz Dogz Fashion,0.455,0.3,0.0,0.09,0.84
+1805,1806,63.0,2004,Action,THQ,The Incredibles,0.65,0.17,0.0,0.02,0.84
+1806,1807,71.46,2003,Racing,Acclaim Entertainment,ATV Quad Power Racing 2,0.41,0.32,0.0,0.11,0.84
+1807,1808,51.0,2001,Sports,THQ,Rocket Power: Team Rocket Rescue,0.47,0.32,0.0,0.05,0.84
+1808,1809,66.41,2002,Racing,Empire Interactive,Big Mutha Truckers,0.41,0.32,0.0,0.11,0.84
+1809,1810,81.92,2005,Role-Playing,Sony Computer Entertainment,Rogue Galaxy,0.24,0.16,0.39,0.05,0.84
+1810,1811,85.0,2004,Sports,Sega,ESPN College Hoops 2K5,0.41,0.32,0.0,0.11,0.84
+1811,1812,89.89,2004,Adventure,Nintendo,Metroid: Zero Mission,0.6,0.22,0.0,0.01,0.84
+1812,1813,57.2,2007,Action,D3Publisher,Ben 10: Protector of Earth,0.09,0.305,0.0,0.435,0.84
+1813,1814,58.0,1999,Puzzle,Atari,Q*bert,0.46,0.32,0.0,0.05,0.84
+1814,1815,73.92,1999,Simulation,Sony Computer Entertainment,Ace Combat 3: Electrosphere,0.22,0.15,0.4,0.05,0.83
+1815,1816,71.88,2000,Action,THQ,Dynasty Warriors 2,0.24,0.19,0.34,0.06,0.83
+1816,1817,84.0,,Sports,Unknown,Madden NFL 07,0.77,0.03,0.0,0.04,0.83
+1817,1818,55.0,2004,Action,Disney Interactive Studios,Lizzie McGuire 2: Lizzie Diaries,0.6,0.22,0.0,0.01,0.83
+1818,1819,73.0,2000,Sports,Electronic Arts,FIFA Soccer World Championship,0.27,0.21,0.28,0.07,0.83
+1819,1820,80.0,1992,Adventure,Virgin Interactive,The 7th Guest,0.55,0.77,0.0,0.045,1.365
+1820,1821,82.0,1998,Action,Eidos Interactive,Tomb Raider: The Last Revelation,0.41,0.295,0.0,0.03,0.735
+1821,1822,90.89,2004,Simulation,Electronic Arts,The Sims 2,1.555,0.16,0.0,0.025,1.7349999999999999
+1822,1823,88.58,2000,Role-Playing,Havas Interactive,Diablo II,1.3949999999999998,0.07,0.0,0.01,1.4749999999999999
+1823,1824,93.02,2002,Strategy,Vivendi Games,Warcraft III: Reign of Chaos,0.77,0.055,0.0,0.01,0.8300000000000001
+1824,1825,86.69,2004,Shooter,Activision,Doom 3,0.555,0.03,0.0,0.005,0.5900000000000001
+1825,1826,91.81,1999,Strategy,Microsoft Game Studios,Age of Empires II: The Age of Kings,1.355,0.05,0.0,0.01,1.4100000000000001
+1826,1827,81.11,2005,Simulation,Electronic Arts,The Sims 2: University,0.845,0.03,0.0,0.005,0.88
+1827,1828,93.0,1998,Strategy,Activision,StarCraft,1.855,0.025,0.0,0.005,1.89
+1828,1829,89.8,2000,Simulation,Electronic Arts,The Sims,5.615,0.02,0.0,0.005,5.640000000000001
+1829,1830,87.0,,Strategy,Microprose,RollerCoaster Tycoon,1.92,0.015,0.0,0.005,1.935
+1830,1831,80.16,1992,Shooter,id Software,Doom,0.8150000000000001,0.56,0.0,0.065,1.44
