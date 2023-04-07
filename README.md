@@ -108,12 +108,5 @@ The video game sales data used in this analysis can be found in the cleaned_vgam
 
 An additional data source was used to analyze the the stock trends of 4 major video game developers from 2010 to 2022. CSV files "act_bliz.csv", "ea.csv", "microsoft.csv" and "nintendo.csv" were uploaded to the file "Publisher Stocks & Impacts to Game Sale.ipynb" to compare tends with game sales. This data aided us in assessing our challenges and concerns.
 
-## Contributor
-
-Kim Dineen 
-Yi Yang
-Patel Dhrumil Chiragbhai
-Arnav Goel
-
 ## Acknowledgements
 We would like to thank the Kaggle community for providing the video game sales dataset used in this analysis.
